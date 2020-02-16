@@ -6,8 +6,9 @@ int main(int argc, char *argv[]) {
 	char *ptr;
 	
 	ptr = getenv(argv[1]);
-	
-	printf("%p\n" ,ptr);
+//	ptr += (strlen(argv[0]) - strlen(argv[2]))*2;
+
+	printf(" Address : %p\n"  ,ptr);
 
 	return 0 ;
 }
