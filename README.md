@@ -1,6 +1,6 @@
 # Hacking Project Resource group
 
-This note for everything about petester 
+This note for everything about pentest
 
 # Command for setting 
 

