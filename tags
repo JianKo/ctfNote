@@ -1,0 +1,55 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/bd612ba/
+2020/05/16 19:42:16 Starting gobuster	thm/Basic_Pentesting/README.md	/^2020\/05\/16 19:42:16 Starting gobuster$/;"	c
+ACCOUNT LIST	thm/LFI_inclusiton_box/README.md	/^# ACCOUNT LIST$/;"	c
+BOX IP : 10.10.244.211	thm/LFI_inclusiton_box/README.md	/^# BOX IP : 10.10.244.211$/;"	c
+Basinc Pentesting	thm/Basic_Pentesting/README.md	/^# Basinc Pentesting$/;"	c
+Command : hydra -l jan -P password_guessing_list.txt ssh://10.10.28.75/	thm/Basic_Pentesting/README.md	/^## Command : hydra -l jan -P password_guessing_list.txt ssh:\/\/10.10.28.75\/  $/;"	s	chapter:Password Guessing :
+Command for setting	README.md	/^# Command for setting $/;"	c
+Hacking Project Resource group	README.md	/^# Hacking Project Resource group$/;"	c
+Machine Name : LFI Inclusion	thm/LFI_inclusiton_box/README.md	/^# Machine Name : LFI Inclusion$/;"	c
+Nmap	thm/LFI_inclusiton_box/README.md	/^# Nmap $/;"	c
+Password Guessing :	thm/Basic_Pentesting/README.md	/^# Password Guessing : $/;"	c
+Privilege Escalate	thm/LFI_inclusiton_box/README.md	/^# Privilege Escalate$/;"	c
+Samba Enumeration Result :	thm/Basic_Pentesting/README.md	/^# Samba Enumeration Result : $/;"	c
+Samba installation in mac ( my way)	thm/Basic_Pentesting/README.md	/^# Samba installation in mac ( my way)$/;"	c
+Scanning	thm/Basic_Pentesting/README.md	/^# Scanning$/;"	c
+[+] Timeout:        10s	thm/Basic_Pentesting/README.md	/^[+] Timeout:        10s$/;"	c
+after macport dependencies below command :	thm/Basic_Pentesting/README.md	/^## after macport dependencies below command : $/;"	s	chapter:Samba installation in mac ( my way)
+boo	study_about_hacked/system_tip/problem_collectiong/bof_test_dir/func_pointer.c	/^int boo() {$/;"	f	typeref:typename:int
+buffer	study_about_hacked/system_tip/buffer_overflow_example/bof_example_dir/bof_example04.c	/^char buffer[32];$/;"	v	typeref:typename:char[32]
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@_FireFart_)	thm/Basic_Pentesting/README.md	/^by OJ Reeves (@TheColonial) & Christian Mehlmauer (@_FireFart_)$/;"	c
+foo	study_about_hacked/system_tip/problem_collectiong/bof_test_dir/func_pointer.c	/^int foo() {$/;"	f	typeref:typename:int
+foot hold	thm/LFI_inclusiton_box/README.md	/^# foot hold$/;"	c
+func	study_about_hacked/system_tip/problem_collectiong/bof.c	/^void func(int key){$/;"	f	typeref:typename:void
+func1	study_about_hacked/system_tip/problem_collectiong/bof_test_dir/func_call_anl.c	/^void func1() {$/;"	f	typeref:typename:void
+macOS Reverse Shell nc command	thm/LFI_inclusiton_box/README.md	/^# macOS Reverse Shell nc command$/;"	c
+macport samba installation command about samba :	thm/Basic_Pentesting/README.md	/^## macport samba installation command about samba :$/;"	s	chapter:Samba installation in mac ( my way)
+main	study_about_hacked/system_tip/buffer_overflow_example/bof_example.c	/^int main() {$/;"	f	typeref:typename:int
+main	study_about_hacked/system_tip/buffer_overflow_example/bof_example_dir/bof_example01.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_about_hacked/system_tip/buffer_overflow_example/bof_example_dir/bof_example02.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_about_hacked/system_tip/buffer_overflow_example/bof_example_dir/bof_example03.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_about_hacked/system_tip/buffer_overflow_example/bof_example_dir/bof_example04.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_about_hacked/system_tip/buffer_overflow_example/bof_example_dir/bof_example04_1.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_about_hacked/system_tip/buffer_overflow_example/bof_example_dir/bof_test_dir/test_example01.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_about_hacked/system_tip/buffer_overflow_example/bof_example_dir/bof_test_dir/test_example02.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_about_hacked/system_tip/buffer_overflow_example/bof_example_dir/find_shell_string.c	/^int main() {$/;"	f	typeref:typename:int
+main	study_about_hacked/system_tip/buffer_overflow_example/getaddrenv.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_about_hacked/system_tip/buffer_overflow_example/got_example_dir/got.c	/^int main( int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_about_hacked/system_tip/buffer_overflow_example/got_example_dir/got_example01.c	/^int main() {$/;"	f	typeref:typename:int
+main	study_about_hacked/system_tip/buffer_overflow_example/got_example_dir/got_example02.c	/^int main(void) {$/;"	f	typeref:typename:int
+main	study_about_hacked/system_tip/format_string_example/fsb.c	/^int main( int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_about_hacked/system_tip/problem_collectiong/bof.c	/^int main(int argc, char* argv[]){$/;"	f	typeref:typename:int
+main	study_about_hacked/system_tip/problem_collectiong/bof_test_dir/func_call_anl.c	/^int main() {$/;"	f	typeref:typename:int
+main	study_about_hacked/system_tip/problem_collectiong/bof_test_dir/func_pointer.c	/^int main() {$/;"	f	typeref:typename:int
+main	study_about_hacked/system_tip/test.c	/^int main() {$/;"	f	typeref:typename:int
+secret	study_about_hacked/system_tip/format_string_example/fsb.c	/^int secret = 0x12345678;$/;"	v	typeref:typename:int
+should be installationg macport	thm/Basic_Pentesting/README.md	/^## should be installationg macport$/;"	s	chapter:Samba installation in mac ( my way)
+using in "gobuster"	thm/Basic_Pentesting/README.md	/^# using in "gobuster"$/;"	c
+write the : /opt/local/etc/samba3/samba.conf	thm/Basic_Pentesting/README.md	/^## write the : \/opt\/local\/etc\/samba3\/samba.conf$/;"	s	chapter:Samba installation in mac ( my way)
