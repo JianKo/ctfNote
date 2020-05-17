@@ -9,8 +9,8 @@ This note for everything about pentest
 
 
 # Practice for get flag
-Folder Tree is ...
-***thm :  try hacke me*** <br>
+Folder Tree is ... <br>
+1. ***thm :  try hacke me*** <br>
 [+] Machine:
 LFI_inclusion
 Basic_Pentesing
