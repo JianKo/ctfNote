@@ -1,9 +1,9 @@
 # Hack The Box
-# Machine : Rope
-# Machine IP : 10.10.10.180
+Machine : Rope <br>
+Machine IP : 10.10.10.180 <br>
 
-
-## Reference Nmap Scanning : RemoteScanning.txt 
+# Scanning
+Reference file : RemoteScanning.txt <br>
 
 ## Install mount tool
 1. install nfs tools command on Kali linux <br>
@@ -14,27 +14,23 @@ https://resources.infosecinstitute.com/exploiting-nfs-share/#gref<br>
 
 
 # Information Gathering
-
-[=] RemoteScanning.txt <br>
 1. nmap -sC -sV -oN RemoteScanning.txt 10.10.10.180 <br>
   : base scanning..<br>
   : appear interesting port on 2049 <br>
 
-[=] remote.nfs <br>
+
 2. nmap -sV --script=nfs-showmount -oN remote.nfs 10.10.10.180 <br>
-  : Searching for something Directory (bound NFS) <br>
+  : Searching for something NFS Directory <br>
+   
 
-
-3. mount "/site_backups" folder
-  : showmount -e 10.10.10.180 -> find to connect for directory
-  : mount -t nfs 10.10.10.180:/site_backups /mnt
-  : Try to search for interesting information -> find . -name "\*.sdf"
-  : Question. What is sdf file ?
-
+3. mount "/site_backups" folder <br>
+  : showmount -e 10.10.10.180 ( find to connect for directory )<br>
+  : mount -t nfs 10.10.10.180:/site_backups /mnt ( mount nfs directory )<br>
+  : Try to search for interesting information -> find . -name "\*.sdf" (interesting file.. ?)<br>
+  : Question. What is sdf file ? <br>
 
 
 ## Reference Site
-
 https://www.exploit-db.com/exploits/46153
 
 1. Walk Throught
