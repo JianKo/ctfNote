@@ -1,16 +1,14 @@
-# Hacking Project Resource group
+# Pentesting Note 
 
-This note for everything about pentest
+# COMMAND LIST
+1.ASLR off
+sudo sysctl -w kernel.randomize_va_space=0 <br>
 
-# Command for Option tip
+# PLATFORM
+ ***Try Hack Me***  <br>
+1. LFI_inclusion <br>
+2. Basic_Pentesing<br>
 
-[+]About System Hacking  
-1.sudo sysctl -w kernel.randomize_va_space=0  : ASLR option off <br>
+ ***Hack the Box*** <br>
+1. Romote <br>
 
-
-# Practice for get flag
-Folder Tree is ... <br>
-1. ***thm :  try hacke me*** <br>
-[+] Machine:
-LFI_inclusion
-Basic_Pentesing
