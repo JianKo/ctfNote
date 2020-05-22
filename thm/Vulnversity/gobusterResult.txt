@@ -1,0 +1,21 @@
+gobuster dir -u http://10.10.19.165:3333 -w directory_guessing_list.txt
+===============================================================
+Gobuster v3.0.1
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@_FireFart_)
+===============================================================
+[+] Url:            http://10.10.19.165:3333
+[+] Threads:        10
+[+] Wordlist:       directory_guessing_list.txt
+[+] Status codes:   200,204,301,302,307,401,403
+[+] User Agent:     gobuster/3.0.1
+[+] Timeout:        10s
+===============================================================
+2020/05/22 22:39:09 Starting gobuster
+===============================================================
+/images (Status: 301)
+/css (Status: 301)
+Progress: 585 / 207644 (0.28%)load: 1.41  cmd: gobuster 3281 waiting 0.10u 0.08s
+Progress: 675 / 207644 (0.33%)^R
+/js (Status: 301)
+/fonts (Status: 301)
+/internal (Status: 301)
