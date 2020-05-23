@@ -1,11 +1,11 @@
 # Pentesting Note 
 
 # Command LIST
-1. ASLR off
+1. ASLR off <br>
  sudo sysctl -w kernel.randomize_va_space=0 <br>
 
-2. gobuster
- gobuster dir -u {ip} -w {password_list}
+2. gobuster <br>
+ gobuster dir -u {ip} -w {password_list} <br>
  
  
 
