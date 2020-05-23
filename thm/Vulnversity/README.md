@@ -36,3 +36,10 @@
 
  6. What is the user flag? <br>
   {8bd7992fbe8a6ad22a63361004cfcedb}<br>
+
+  ***TASK5:Privilege Escalation***<br>
+
+  1. On the system, search for all SUID files. What file stands out?<br> /bin/systemctl
+
+  2. Become root and get the last flag (/root/root.txt) <br>
+  

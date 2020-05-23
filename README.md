@@ -6,11 +6,12 @@
 
 # PLATFORM
 ***Try Hack Me***  <br>
-1. LFI_inclusion [flag] <br>
-2. Basic_Pentesing [flag]<br>
-3. Introductory_Researching [task]<br>
-4. Sudo Security Bypass [flag] <br> 
+2020.05 : LFI_inclusion [flag] <br>
+2020.05 : Basic_Pentesing [flag]<br>
+2020.05 : Introductory_Researching [task]<br>
+2020.05 : Sudo Security Bypass [flag] <br> 
+2020.05.23 :  Vulnversity <br>
 
 ***Hack the Box*** <br>
- 1. Romote <br>
+2020.05 Romote <br>
 
