@@ -1,4 +1,8 @@
-# Nmap 7.80 scan initiated Tue May 19 13:15:13 2020 as: nmap -sC -sV -oN RemoteScanning.txt 10.10.10.180
+# Remote BOX Scanning Reuslt
+
+### Command :  nmap -sC -sV -oN RemoteScanning.txt 10.10.10.180
+
+### Nmap 7.80 scan initiated Tue May 19 13:15:13 2020 as
 Nmap scan report for 10.10.10.180
 Host is up (0.26s latency).
 Not shown: 993 closed ports

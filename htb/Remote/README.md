@@ -1,5 +1,5 @@
 # Hack The Box
-  &nbsp; Machine : Rope <br>
+  &nbsp; Machine : Remote <br>
   &nbsp; Machine IP : 10.10.10.180 <br>
 
 # Scanning File
@@ -15,6 +15,7 @@
 # Information Gathering (Enumerating)
 1. nmap -sC -sV -oN RemoteScanning.txt 10.10.10.180 <br>
   : appear interesting port on 2049 <br>
+  : reference file to : Gathering/RemoteMachineScanning.md
 
 2. nmap -sV --script=nfs-showmount -oN remote.nfs 10.10.10.180 <br>
   : Searching for something NFS Directory <br>
