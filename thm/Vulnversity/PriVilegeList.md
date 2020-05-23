@@ -1,4 +1,4 @@
-# Machine : Vulversity
+# Machine : Vulnversity
 # TITLE :  PrivilegeList
 
 ## command : find / -user root -perm -4000 -exec ls -ldb {} \; 2>/dev/null
@@ -40,3 +40,5 @@
   
   &nbsp; /bin/systemctl link $TF <br>
   &nbsp; /bin/systemctl enable --now  $TF <br>
+
+  <p>ExecStart를 이용해 명령어 관리자 권한으로 수행되는 명령어를 실행할 수 있음</p>
