@@ -15,7 +15,8 @@
 2020.05 : Basic_Pentesing [flag]<br>
 2020.05 : Introductory_Researching [task]<br>
 2020.05 : Sudo Security Bypass [flag] <br> 
-2020.05.23 :  Vulnversity <br>
+2020.05.23 : Vulnversity [Flag] <br>
+2002.05.24 : Simple CTF [Flag] <br>
 
 ***Hack the Box*** <br>
 2020.05 Romote <br>
