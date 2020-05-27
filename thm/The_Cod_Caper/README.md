@@ -72,5 +72,19 @@ Use the "--show" option to display all of the cracked passwords reliably
 Session completed
 
 2.root crack passwd file using john the ripper
+──╼ #john --wordlist=/usr/share/wordlists/rockyou.txt shadow                                                     
+Warning: only loading hashes of type "sha512crypt", but also saw type "md5crypt"
+Use the "--format=md5crypt" option to force loading hashes of that type instead
+Using default input encoding: UTF-8
+Loaded 1 password hash (sha512crypt, crypt(3) $6$ [SHA512 256/256 AVX2 4x])
+Cost 1 (iteration count) is 5000 for all loaded hashes
+Press 'q' or Ctrl-C to abort, almost any other key for status
+0g 0:00:00:07 0.04% (ETA: 23:00:56) 0g/s 872.7p/s 872.7c/s 872.7C/s horoscope..crazy8
+0g 0:00:01:50 0.46% (ETA: 00:09:43) 0g/s 724.4p/s 724.4c/s 724.4C/s alex55..Bulldog
+0g 0:00:01:51 0.47% (ETA: 00:09:03) 0g/s 725.6p/s 725.6c/s 725.6C/s vivita..tazzman
+love2fish        (root)
+1g 0:00:04:57 DONE (2020-05-27 17:39) 0.003366g/s 807.5p/s 807.5c/s 807.5C/s lovelife07..lossims
+Use the "--show" option to display all of the cracked passwords reliably
+Session completed
 
 
