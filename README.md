@@ -12,3 +12,16 @@
 ***Hack the Box*** <br>
 &nbsp; 1. 2020.05 Romote <br>
 
+# Reference Command
+
+[+]Error
+1.sudo apt-get install gcc-multilib g++-multilib
+:bits/libc-header-start.h: No such file or director
+
+[+]system_
+1.gcc -m32 {} -fno-stack-protector example example.c
+:32bit Compile
+
+2.objdump -d -M intel {File}
+: Disassemble Command
+
