@@ -60,19 +60,19 @@
 
 ***Task 10: Finishing the job*** <br>
 1.papa crack passwd file using john the ripper<br>
-└──╼ #john --wordlist=/usr/share/wordlists/rockyou.txt shadow<br>
+ #john --wordlist=/usr/share/wordlists/rockyou.txt shadow<br>
 Warning: detected hash type "md5crypt", but the string is also recognized as "md5crypt-long"<br>
 Use the "--format=md5crypt-long" option to force loading these as that type instead<br>
 Using default input encoding: UTF-8<br>
 Loaded 1 password hash (md5crypt, crypt(3) $1$ (and variants) [MD5 256/256 AVX2 8x3])<br>
 Press 'q' or Ctrl-C to abort, almost any other key for status<br>
-postman          (papa)<br>
+***postman          (papa)***<br>
 1g 0:00:00:00 DONE (2020-05-27 17:22) 1.886g/s 40754p/s 40754c/s 40754C/s spices..playball<br>
 Use the "--show" option to display all of the cracked passwords reliably<br>
 Session completed<br>
 
 2.root crack passwd file using john the ripper<br>
-──╼ #john --wordlist=/usr/share/wordlists/rockyou.txt shadow                                                     <br>
+#john --wordlist=/usr/share/wordlists/rockyou.txt shadow                                                     <br>
 Warning: only loading hashes of type "sha512crypt", but also saw type "md5crypt"<br>
 Use the "--format=md5crypt" option to force loading hashes of that type instead<br>
 Using default input encoding: UTF-8<br>
@@ -82,7 +82,7 @@ Press 'q' or Ctrl-C to abort, almost any other key for status<br>
 0g 0:00:00:07 0.04% (ETA: 23:00:56) 0g/s 872.7p/s 872.7c/s 872.7C/s horoscope..crazy8<br>
 0g 0:00:01:50 0.46% (ETA: 00:09:43) 0g/s 724.4p/s 724.4c/s 724.4C/s alex55..Bulldog<br>
 0g 0:00:01:51 0.47% (ETA: 00:09:03) 0g/s 725.6p/s 725.6c/s 725.6C/s vivita..tazzman<br>
-love2fish        (root)<br>
+***love2fish        (root)***<br>
 1g 0:00:04:57 DONE (2020-05-27 17:39) 0.003366g/s 807.5p/s 807.5c/s 807.5C/s lovelife07..lossims
 Use the "--show" option to display all of the cracked passwords reliably<br>
 Session completed<br>
