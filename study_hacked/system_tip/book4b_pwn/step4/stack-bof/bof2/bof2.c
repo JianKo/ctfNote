@@ -2,7 +2,7 @@
 
 int main(int argc, char *argv[]) {
     int zero = 0;
-    char buffer[10];
+    char buffer[53];
 
     printf("buffer address\t= %x\n", (int)buffer);
     printf("zero address\t= %x\n", (int)&zero);
