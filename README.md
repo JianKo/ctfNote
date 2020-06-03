@@ -18,13 +18,13 @@
 # Reference Command<br>
 
 ***ERROR LIST***<br>
-:bits/libc-header-start.h: No such file or director<br>
+bits/libc-header-start.h: No such file or director<br>
 ```
 sudo apt-get install gcc-multilib g++-multilib<br>
 ```
 
-***SYSTEM_***<br>
-32bit Compile Option in Ubuntu (and BOF Option<br>
+***SYSTEM***<br>
+32bit Compile Option in Ubuntu (and BOF Option)<br>
 ```
 gcc -m32 {} -fno-stack-protector example example.c <br>
 ```
