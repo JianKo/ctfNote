@@ -17,14 +17,19 @@
 
 # Reference Command<br>
 
-[+]Error<br>
-1.sudo apt-get install gcc-multilib g++-multilib<br>
+***ERROR LIST***<br>
 :bits/libc-header-start.h: No such file or director<br>
+```
+sudo apt-get install gcc-multilib g++-multilib<br>
+```
 
-[+]system_<br>
-1.gcc -m32 {} -fno-stack-protector example example.c <br>
-:32bit Compile <br>
+***SYSTEM_***<br>
+32bit Compile Option in Ubuntu (and BOF Option<br>
+```
+gcc -m32 {} -fno-stack-protector example example.c <br>
+```
 
-2.objdump -d -M intel {File}<br>
-: Disassemble Command<br>
-
+***Disassemble Command***<br>
+```
+objdump -d -M intel {File}<br>
+```
