@@ -3,8 +3,8 @@
 
 ***TASK 1 : How many services are running under port 1000?***
 ```
-2
-Reference file :  Gathering/SimpleCTF_Scanning.txt
+: 2
+: (Reference) Gathering/SimpleCTF_Scanning.txt
 ```
 
 ***TASK 2 : What is running on the higher port?***
