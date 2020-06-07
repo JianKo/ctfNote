@@ -1,7 +1,6 @@
 # TITLE : php-1
 
-# Concept : PHP LFI Vulnerbility
-
+***Concept : PHP LFI Vulnerbility***
 ```
 1. using the burp suite
 2. Detected attack point link
