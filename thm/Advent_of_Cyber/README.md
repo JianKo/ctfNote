@@ -1,7 +1,7 @@
 # MACHINE : Advent of Cyber
 
 
-***Day1***
+***Day 1***
 ```
 Inventory Managemnt
 #1 What is the name of the cookie used for authentication?
@@ -12,5 +12,10 @@ Inventory Managemnt
 
 #3 After accessing his account, what did the user mcinventory request?
 : firewall
+
+```
+
+***Day 2***
+```
 
 ```
