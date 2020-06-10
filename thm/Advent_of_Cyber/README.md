@@ -1,4 +1,4 @@
-# MACHINE : Advent of Cyber
+asdasd# MACHINE : Advent of Cyber
 
 
 ***Day 1***
@@ -30,5 +30,25 @@ Arctic Forum (OSINT)
 
 #3 What do you have to take to the "partay"
 : read the access page!
+
+```
+
+***Day 3***
+```
+Evil Elf ( *.pcap analysis)
+#1 Whats the destinatnion IP on packet number 998
+:63.32.89.195
+
+#2 What item is on the christmas list?
+: ps4
+
+#3 Crack buddy's password:
+:rainbow 
+
+SHORT NOTE
+: #1 click the right button -> scroll down
+: #2 statistics ->  EndPoints -> fist list right click -> find
+: #3 sha512 dictionary cracking with haschcat command
+   hashcat -a 0 -m 1800 hash {password_list_path} --force
 
 ```
