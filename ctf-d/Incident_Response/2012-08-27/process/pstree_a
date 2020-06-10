@@ -1,0 +1,56 @@
+init
+  |-apache2 -k start
+  |   |-apache2 -k start
+  |   |   `-sh -c php -f /var/www/upload/editor/image/reverse.php
+  |   |       `-php -f /var/www/upload/editor/image/reverse.php
+  |   |           `-sh -c /bin/sh -i <&3 >&3 2>&3
+  |   |               `-sh -i
+  |   |-apache2 -k start
+  |   |-apache2 -k start
+  |   |-apache2 -k start
+  |   |-apache2 -k start
+  |   |-apache2 -k start
+  |   `-apache2 -k start
+  |-atd
+  |-cron
+  |-dhclient3 -e IF_METRIC=100 -pf /var/run/dhclient.eth0.pid -lf /var/lib/dhcp3/dhclient.eth0.leases eth0
+  |-getty -8 38400 tty4
+  |-getty -8 38400 tty5
+  |-getty -8 38400 tty2
+  |-getty -8 38400 tty3
+  |-getty -8 38400 tty6
+  |-login --        
+  |   `-bash
+  |       `-su
+  |           `-bash
+  |-mysqld
+  |   `-10*[{mysqld}]
+  |-nmbd -D
+  |-rsyslogd -c4
+  |   `-2*[{rsyslogd}]
+  |-smbd -F
+  |   `-smbd -F
+  |-sshd -D
+  |   |-sshd    
+  |   |   `-sshd     
+  |   |       `-sftp-server
+  |   |-sshd    
+  |   |   `-sshd     
+  |   |       `-bash
+  |   |-sshd 
+  |   |   `-sshd  
+  |   |       `-sftp-server
+  |   `-sshd 
+  |       `-sshd  
+  |           `-bash
+  |               `-su
+  |                   `-bash
+  |                       `-ir_collector.sh ./ir_collector.sh
+  |                           `-pstree -a
+  |-udevd --daemon
+  |   |-udevd --daemon
+  |   `-udevd --daemon
+  |-upstart-udev-br --daemon
+  `-winbindd
+      |-winbindd
+      `-winbindd

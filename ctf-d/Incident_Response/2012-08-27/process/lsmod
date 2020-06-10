@@ -1,0 +1,40 @@
+Module                  Size  Used by
+snd_ens1371            19006  0 
+gameport                9089  1 snd_ens1371
+snd_rawmidi            19056  1 snd_ens1371
+snd_seq_device          5700  1 snd_rawmidi
+snd_ac97_codec        100646  1 snd_ens1371
+ac97_bus                1002  1 snd_ac97_codec
+snd_pcm                70918  2 snd_ens1371,snd_ac97_codec
+snd_timer              19130  1 snd_pcm
+btusb                  11053  0 
+ppdev                   5259  0 
+bluetooth              49892  1 btusb
+snd                    54244  6 snd_ens1371,snd_rawmidi,snd_seq_device,snd_ac97_codec,snd_pcm,snd_timer
+soundcore               6620  1 snd
+joydev                  8740  0 
+fbcon                  35102  71 
+tileblit                1999  1 fbcon
+font                    7557  1 fbcon
+bitblit                 4707  1 fbcon
+softcursor              1189  1 bitblit
+psmouse                63677  0 
+serio_raw               3978  0 
+snd_page_alloc          7172  1 snd_pcm
+parport_pc             26250  1 
+intel_agp              24671  1 
+vga16fb                11385  1 
+shpchp                 28899  0 
+i2c_piix4               8527  0 
+agpgart                31788  1 intel_agp
+vgastate                8961  1 vga16fb
+lp                      7028  0 
+parport                32635  3 ppdev,parport_pc,lp
+mptspi                 14716  2 
+pcnet32                29402  0 
+mii                     4381  1 pcnet32
+mptscsih               32029  1 mptspi
+floppy                 53080  0 
+mptbase                84238  2 mptspi,mptscsih
+usbhid                 36206  0 
+hid                    67288  1 usbhid

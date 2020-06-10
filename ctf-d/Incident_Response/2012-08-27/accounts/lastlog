@@ -1,0 +1,27 @@
+Username         Port     From             Latest
+root                                       **Never logged in**
+daemon                                     **Never logged in**
+bin                                        **Never logged in**
+sys                                        **Never logged in**
+sync                                       **Never logged in**
+games                                      **Never logged in**
+man                                        **Never logged in**
+lp                                         **Never logged in**
+mail                                       **Never logged in**
+news                                       **Never logged in**
+uucp                                       **Never logged in**
+proxy                                      **Never logged in**
+www-data                                   **Never logged in**
+backup                                     **Never logged in**
+list                                       **Never logged in**
+irc                                        **Never logged in**
+gnats                                      **Never logged in**
+nobody                                     **Never logged in**
+libuuid                                    **Never logged in**
+syslog                                     **Never logged in**
+sshd                                       **Never logged in**
+landscape                                  **Never logged in**
+admin01          tty1                      Mon Aug 27 10:08:28 +0900 2012
+mysql                                      **Never logged in**
+dev              pts/0    192.168.184.161  Mon Aug 27 10:11:09 +0900 2012
+ahnlab           pts/1    192.168.184.136  Mon Aug 27 10:14:54 +0900 2012

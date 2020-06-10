@@ -1,0 +1,18 @@
+apt-get install apache2
+apt-get install libapache2-mod-auth-mysql
+apt-get install mysql-server mysql-client
+apt-get install php5-common php5 libapache2-mod-php5
+apt-get install php5-mysql
+apt-get install php5-cli
+service apache2 status
+exit
+adduser dev
+ifconfig
+cp -r /home/dev/htdoc/* /var/www
+mysql -u root -p < /home/dev/sqldump.sql
+mysql -u root -p
+chmod 777 /var/www/upload/editor/image
+adduser ahnlab
+adduser ahnlab sudo
+apt-get install sleuthkit
+exit
