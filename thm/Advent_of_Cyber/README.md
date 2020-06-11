@@ -83,7 +83,7 @@ or
 : find / -name "*shadow*" 2>/dev/nul/
 ```
 
-***Day 4***
+***Day 5***
 ```
 Trainig
 #1 What is Lola's date of birth? Format: Month Date, Year(e.g November 12, 2019)
@@ -107,5 +107,26 @@ Trainig
 : ada lovelace
 : find by waybackmachine!
 : and there is flag to the text!
+
+```
+
+***Day 6***
+```
+Trainig
+#1 What data was exfiltrated via DNS?
+: Candy Cane Serial Number 8491
+: wireshark *.pcap file
+: Answer is in DNS packet 
+: HTTP extract
+
+#2 What did Little Timmy want to be for christmas?
+: Pentester
+: zip2john christmaslists.zip > hash
+: john hash
+
+#3 What was hidden within the file?
+: RFC527
+: cat christsmaslisttimmy.txt
+
 
 ```
