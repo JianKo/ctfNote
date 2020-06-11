@@ -81,7 +81,31 @@ Trainig
 : find / -name "*shadow*" -exec ls lt {} \; 2>/dev/null 
 or
 : find / -name "*shadow*" 2>/dev/nul/
-
 ```
 
+***Day 4***
+```
+Trainig
+#1 What is Lola's date of birth? Format: Month Date, Year(e.g November 12, 2019)
+: December 29, 1900
+: exiftool
 
+#2 What is Lola's current occupation?
+: Santa's Helpers
+: Search by twitter
+
+#3 What phone does Lola make?
+: iPhone X
+: Search by twitter
+
+#4 What date did Lola first start her photography? Format: dd/mm/yyyy?
+: 23/10/2014
+: find by waybackmachine!
+: and there is flag to the text!
+
+#5 What famous woman does Lola have on her web page?
+: ada lovelace
+: find by waybackmachine!
+: and there is flag to the text!
+
+```
