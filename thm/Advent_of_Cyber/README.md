@@ -172,3 +172,21 @@ Requests
 : refer Directory Day9 *py file
 ```
 
+***Day 10***
+Metsploit-a-ho-ho-ho
+tag: nikto, struts2, 
+```
+#1 Compromise the web server using Metasploit. What is flag1?
+: flag find command
+: find . -type f -iname "flag"
+
+#2 Now you've compromised the web server, get onto the main system. What is Santa's SSH password?
+: cat /home/santa/ssh_creds.txt
+
+#3 who is on line 148 of the naughty list?
+: sed '148!d' {file name}
+
+#4 who is on line 52 of the nice list?
+: sed '52!d' {file name}
+
+```
