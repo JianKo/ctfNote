@@ -50,7 +50,7 @@ ssh -c aes128-cbc level@IP
 ***leve4***
 ```
 1. cat hint
-2. cd /etc/xinet.d/ , cat backddor , cd /home/level4/tmp/
+2. cd /etc/xinet.d/ , cat backdoor , cd /home/level4/tmp/
 3. system("my-pass") by c >> backdoor
 4. finger @localhost
 5. level5 password id "what is your name?"
