@@ -148,10 +148,8 @@ Command : nmap -A -sC -sV 10.10.205.160 -oN Day7Scaaning.txt
 :interesting.file
 ```
 
-
 ***Day 8***
 ```
-SUID Shenanigans
 SUID Shenanigans
 #1 What port is ssh running on?
 : 65534
@@ -165,3 +163,12 @@ SUID Shenanigans
 : each lines analysis
 : /usr/bin/system-contorl -> bash or /bin/bash!
 ```
+
+***Day 9***
+```
+Requests
+#1 What is the value of the flag?
+: CRIPtKiDd
+: refer Directory Day9 *py file
+```
+
