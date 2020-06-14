@@ -190,3 +190,29 @@ tag: nikto, struts2,
 : sed '52!d' {file name}
 
 ```
+
+***Day 11***
+```
+Elf Applications
+#1 What is the password inside the creds, txt file?
+: securepassword123
+: # method
+: showmount -e 10.10.12.24
+: mount 10.10.12.24:/opt/files /mnt/nfs
+: check it local path '/mnt/nfs'
+
+#2 What is the name of the file running on port 21?
+: file.txt
+: # method
+: ftp -> open -> 10.10.12.24 (anonymous,anonymous)
+
+#3 What is the password after enumeraing the databases?
+: bestpassword
+: # method
+: @ myqsl -u root -h 10.10.12.24 -p
+: @ input password 
+: show databases;
+: use database_name;
+: show tables;
+: select * from table_name;
+```
