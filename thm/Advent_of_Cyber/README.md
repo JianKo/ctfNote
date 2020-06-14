@@ -1,6 +1,4 @@
-asdasd# MACHINE : Advent of Cyber
-
-
+# MACHINE : Advent of Cyber
 ***Day 1***
 ```
 Elf (cookie modifyed attack)
