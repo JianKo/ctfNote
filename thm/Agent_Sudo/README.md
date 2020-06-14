@@ -1,8 +1,10 @@
-#Machine Name : Agent_Sudo
-#Machine IP : 110.10.167.223
+# Machine Name : Agent_Sudo
+# Machine IP : 110.10.167.223
 
 ***TASK1***
+```
 Deploy
+```
 
 ***TASK2***
 ```
@@ -19,9 +21,8 @@ use command?
 curl "{ip}" -H "user-agent:c" -L
 ```
 
-***TASK3***
+***TASK3***<br>
 1.FTP Password
-
 ```
 Hydra v9.0 (c) 2019 by van Hauser/THC - Please do not use in military or secret service organizations, or for illegal purposes.
 
@@ -35,7 +36,6 @@ Hydra (https://github.com/vanhauser-thc/thc-hydra) finished at 2020-06-02 14:33:
 
 :crystal
 ```
-
 2.Zip file password
 ```
 : strings cutie.png
@@ -58,7 +58,7 @@ Hydra (https://github.com/vanhauser-thc/thc-hydra) finished at 2020-06-02 14:33:
 : james
 ```
 
-5.SSh password
+5.ssh password
 ```
 :hackerrules!
 ```
