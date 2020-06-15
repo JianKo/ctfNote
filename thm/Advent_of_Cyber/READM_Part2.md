@@ -16,3 +16,17 @@ Elf Applications
 :# method
 : openssl rsautl -decrypt -inkey priavet.ket -in {file_encrypt} -out {save_decrypt_file}
 ```
+
+***Day 13***
+```
+Accumlate
+#1 A web Server is running on the target. what is the hidden directory which the
+website lives on?
+: retro
+
+#2 Gain initial access and read the contents fo user.txt
+: remmina rdp cliet use it
+
+#3 [Optional] Elevate privileges and read the content of root.txt
+:hhupd.exe Privilege Escalte
+```
