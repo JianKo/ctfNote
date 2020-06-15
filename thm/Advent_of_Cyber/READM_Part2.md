@@ -30,3 +30,30 @@ website lives on?
 #3 [Optional] Elevate privileges and read the content of root.txt
 :hhupd.exe Privilege Escalte
 ```
+
+***Day 14***
+```
+Unknown Storage
+Accumlate
+#1 What is the name of the file you found?
+:employee_name.txt
+
+#2 What is in the file?
+:mcchef
+
+```
+
+***Day 15***
+```
+LFI
+#1 What is Charlie going to book a holiday to?
+: Hawaii
+
+#2 Read /etc/shadow and crack Charilies Password.
+: password1
+: method
+: hashcat,vulner_function
+
+#3 What is flag1.txt?
+: read the flag
+```
