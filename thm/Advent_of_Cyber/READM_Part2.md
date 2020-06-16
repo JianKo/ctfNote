@@ -57,3 +57,16 @@ LFI
 #3 What is flag1.txt?
 : read the flag
 ```
+
+***Day 16***
+```
+#1 How many files did you extract
+: find . -type f | wc -l
+
+#2 How many files contains Version:1.1 in their metadata?
+: script : showingTheMetaData.py
+
+#3 Which file contains the password?
+: script : readThepassword.py
+
+```
