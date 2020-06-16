@@ -70,3 +70,14 @@ LFI
 : script : readThepassword.py
 
 ```
+
+***Day 17***
+```
+#1 Use Hydra to bruteforce molly's password web password. what is flag 1?
+: @Method
+: path to /home/ubuntu/hydra-challenge
+
+#2 Use Hydra to bruteforce molly's password SSH password. what is flag 2? 
+: @Method
+: hydra -l molly -P {password_path} {ip} -t 10 {ssh} -V
+```
