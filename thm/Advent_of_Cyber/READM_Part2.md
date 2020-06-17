@@ -81,3 +81,27 @@ LFI
 : @Method
 : hydra -l molly -P {password_path} {ip} -t 10 {ssh} -V
 ```
+
+
+***Day 18***
+```
+ELF JS
+#1 What is the admin's authid cookie value?
+: 2564799a4e6689972f6d9e1c7b406f87065cbf65
+: @Method
+: Cross Site Script (aka. XSS )
+: Redirect Cookie value to SimpleServer
+: After Admin cookie Received
+
+```
+
+
+
+
+
+
+
+
+
+
+
