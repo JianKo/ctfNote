@@ -106,7 +106,21 @@ Commands
 
 ```
 
+***Day 20***
+```
+Cronjob Privilege Escalation
 
+#1 What port is SSH running on?
+: Reference /Day20/Day20Scanning.txt
+
+#2 Crack sam's password and read flag1.txt
+: Reference /Day20/Day20Hydra.txt
+
+#3  Escalte your privileges by taking advantage of a cronjob running every minute. what is flag2?
+: /home/scripts/clean_up.sh
+: -> cat /home/ubuntu/falg2.txt > /tmp/flag2.txt
+: cat /tmp/flag2.txt 
+```
 
 
 
