@@ -123,6 +123,19 @@ Cronjob Privilege Escalation
 ```
 
 
+***Day 20***
+```
+Reverse Elf-innering
+#1 What is the value of local_ch when its corresponding movl instruction is called
+
+#2 what is teh value of eax when the imull instruction is called?
+
+#3 what is the value of local_4h before eax is set to 0?
+
+Tool Refer : Cutter and gdb
+
+```
+
 
 
 
