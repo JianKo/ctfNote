@@ -122,8 +122,7 @@ Cronjob Privilege Escalation
 : cat /tmp/flag2.txt 
 ```
 
-
-***Day 20***
+***Day 21***
 ```
 Reverse Elf-innering
 #1 What is the value of local_ch when its corresponding movl instruction is called
@@ -136,8 +135,16 @@ Tool Refer : Cutter and gdb
 
 ```
 
+***Day 22***
+```
+Reverse Elf-innering
+#1 What is the value of local_8h before the end if the main function?
 
+#2 what is the value of local_4h before the end of the main function?
 
+Tool Refer : Cutter and gdb
+
+```
 
 
 
