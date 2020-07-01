@@ -1,7 +1,0 @@
-Filesystem           1K-blocks      Used Available Use% Mounted on
-/dev/sda1             16820092   2521384  13444284  16% /
-none                    508560       236    508324   1% /dev
-none                    512784         0    512784   0% /dev/shm
-none                    512784       276    512508   1% /var/run
-none                    512784         0    512784   0% /var/lock
-none                    512784         0    512784   0% /lib/init/rw
