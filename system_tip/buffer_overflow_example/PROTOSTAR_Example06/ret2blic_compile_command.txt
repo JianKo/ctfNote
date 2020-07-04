@@ -1,0 +1,1 @@
+-g -Wall -m32 -o bof_example06 bof_example06.c -fno-stack-protector -mpreferred-stack-boundary=2 -no-pie -z execstack -I  -static 
