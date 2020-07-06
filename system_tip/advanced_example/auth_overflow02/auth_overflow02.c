@@ -3,13 +3,16 @@
 #include <string.h>
 
 int check_authentication(char * password) {
-    int auth_flag = 0;
+    // buffer position is upper 
     char password_buffer[16];
+    int auth_flag = 0;
 
     strcpy(password_buffer, password);
     
-    if(strcmp(password_buffer,"briling") == 0) auth_flag=1;
-    if(strcmp(password_buffer,"outgrabe") == 0) auth_flag=1;
+    if(strcmp(password_buffer,"briling") == 0) 
+	    auth_flag  = 1;
+    if(strcmp(password_buffer,"outgrabe") == 0) 
+	    auth_flag = 1;
 
     return auth_flag;
 }
@@ -17,6 +20,7 @@ int check_authentication(char * password) {
 int main(int argc, char *argv[]) {
     if (argc < 2) {
         printf("Usage : %s <password>\n" ,argv[0]);
+	exit(0);
     }
 
     if(check_authentication(argv[1])) {
@@ -24,7 +28,7 @@ int main(int argc, char *argv[]) {
         printf("\n        Access Allow              \n");
         printf("\n=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n");
     } else {
-        printf("\n Access Denined");
+        printf("\n Access Denined \n");
     }
 
 }
