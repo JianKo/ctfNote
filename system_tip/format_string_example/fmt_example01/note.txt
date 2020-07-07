@@ -6,3 +6,5 @@
 
 	./fmt_vuln $(printf '{getenv address}')%s
 
+	%s is read memory
+
