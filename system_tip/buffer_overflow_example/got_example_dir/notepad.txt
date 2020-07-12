@@ -1,11 +1,9 @@
-system_address = 0xf7e12420 (63457 ,9248 + 8)
+system_address = 0xf7e12420 (63457 ,9248)
 
 	0xf7e1e = 63457 (10)
-	0x2420 = 9248(10)
+	0x2420  = 9248  (10)
 	
 strlen_address = 0x0804c014
-
-
 
 [+] Exploit Success 
 (gdb)
