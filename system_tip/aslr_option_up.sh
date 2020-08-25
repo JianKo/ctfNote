@@ -1,2 +1,2 @@
 # ASLR option off
-sudo sysctl -w kernel.randomize_va_space=1
+sudo sysctl -w kernel.randomize_va_space=0
