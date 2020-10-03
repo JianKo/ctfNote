@@ -1,0 +1,7 @@
+```
+
+[+] tool : stegsolver.jar
+
+picoCTF{n0w_y0u_533_m3}
+
+```
