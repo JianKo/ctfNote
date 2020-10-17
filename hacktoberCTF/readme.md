@@ -27,11 +27,25 @@ ssh hacktober@env.hacktober.io
 PASSWORD : hacktober-Underdog-Truth-Glimpse
 
 [Talking to the dead]
-flag1.txt ->  find / -name "flag1.txt" 2>dev/null
-flag{cb07e9d6086d50ee11c0d968f1e5c4bf1c89418c}
+: flag1.txt ->  find / -name "flag1.txt" 2>dev/null
+: flag{cb07e9d6086d50ee11c0d968f1e5c4bf1c89418c}
 
 flag2.txt -> find / -name "*flag*" 2>/dev/null
-/home/luciafer/Documents/.flag2.txt
+: /home/luciafer/Documents/.flag2.txt
+: flag{728ec98bfaa302b2dfc2f716d3de7869f3eadcbf}
+
+flag3.txt -> find / -name "*flag3*" 2>/dev/null
+: /home/spookyboi/Documents/flag3.txt
+: flag{445b987b5b80e445c3147314dbfa71acd79c2b67}
+--> su spookyboi
+--> Password Get "SQL"
+
+flag4.txt -> find /-name "*flag4*" 2>/dev/null
+: find / -perm -4000 2>/dev/null
+: /usr/local/bin/ouija /flag4.txt
+: flag{4781cbffd13df6622565d45e790b4aac2a4054dc}
+
+
 ```
 
 ## Programming
