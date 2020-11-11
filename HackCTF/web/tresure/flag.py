@@ -4,7 +4,7 @@ import requests
 url = "http://ctf.j0n9hyun.xyz:2025/?page="
 
 
-for x in range(0,1500):
+for x in range(1224,1500):
 
 	r = requests.get(url+str(x))
 	print(url+str(x))
