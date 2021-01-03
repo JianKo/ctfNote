@@ -4,7 +4,7 @@
 > 3. Forencis  
 > 4. OSINT  
 
-### 1.web
+### web
 > Get & Post Request(Hidden Page)  
 ```
 HackCTF[/, Hidden, 마법봉]
