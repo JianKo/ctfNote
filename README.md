@@ -5,10 +5,11 @@
 > `4.OSINT`[OSINT](#OSINT)  
 
 ### Web
-> **Get & Post Request(Hidden Page)**  
+> **Request (Hidden Page Exposure)**  
 ```
 1.[Get&Post] HackCTF[/, Hidden, 마법봉]
 2.[Robots] CyberYoddhaCTF[Disallw] 
+3.[IDOR] weCTF2020[NoteApp] 
 ```
 > **PHP & Source Vulnerbility**
 ```
@@ -64,6 +65,9 @@
 ```
 1.Source Code Exposure
 - Affinity2020[True Content]
+
+2.Race Condtion
+- weCTF2020[Faster Shop]
 ```
 
 
