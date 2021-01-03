@@ -1,10 +1,10 @@
 # Category
 > `1.WEB `[WEB](#Web)  
 > `2.Binary Exploit`[BinaryExploitation](#BinaryExploitation)  
-> `3.Cryptography`[Cryptography](#Cryptography)  
+> `3.Cryptography`[Cryptography](#Cryptography) 
 > `4.OSINT`[OSINT](#OSINT)  
 
-### 1.Web
+### Web
 > Get & Post Request(Hidden Page)  
 ```
 1.[Get&Post] HackCTF[/, Hidden, 마법봉]
@@ -67,7 +67,7 @@
 ```
 
 
-### 2.BinaryExploitation
+### BinaryExploitation
 > Stack Overflow
 ```
 1. [SOF] nactf2020 : Gretter
@@ -77,7 +77,7 @@
 1. [ROP] nactf2020 : dROPit
 ```
 
-### 3.Cryptography
+### Cryptography
 > CAESAR
 ```
 1. [Caesar] nactf2020 : Caesar's Challenge
