@@ -7,86 +7,86 @@
 ### Web
 > **Request (Hidden Page Exposure)**  
 ```
-1.[Get&Post] HackCTF[/, Hidden, 마법봉]
-2.[Robots] CyberYoddhaCTF[Disallw] 
-3.[IDOR] weCTF2020[NoteApp] 
+1.[Get&Post] study/HackCTF[/, Hidden, 마법봉]
+2.[Robots] event/CyberYoddhaCTF[Disallw] 
+3.[IDOR] study/weCTF2020[NoteApp] 
 ```
 > **PHP & Source Vulnerbility**
 ```
-1.[php] Extract :  HackCTF[Guess ME]
-2.[php] strcmp bypass : HackCTF[Input Check]
-3.[Source] Type Casting : HackCTF[Time]
+1.[php] Extract :  study/HackCTF[Guess ME]
+2.[php] strcmp bypass : study/HackCTF[Input Check]
+3.[Source] Type Casting : study/HackCTF[Time]
 ```
 
 > **File Upload**
 ```
 1.File Header Filter
-- HackCTF[Home]
+- study/HackCTF[Home]
 ```
 
 > **Http Header**   
 ```
 1.x-forwarede-for
-: HackCTF[Home]
+: study/HackCTF[Home]
 ```
 
 > **SQL INJECTION**    
 ```
 1.Basic SQL INJECTION
-- HackCTF[Login]
-- CyberYoddhaCTF[Data Stores]
+- study/HackCTF[Login]
+- event/CyberYoddhaCTF[Data Stores]
 ```
 
 > **WAF Bypass**  
 ```
 1.String filter
-- HackCTF[Read File]
+- study/HackCTF[Read File]
 
 2.HTML Entities
-- Affinity2020[soodefault]
+- event/Affinity2020[soodefault]
 
 3.Url Double Encoding
-- Affinity2020[path of Double-Dipping]
+- event/Affinity2020[path of Double-Dipping]
 ```
 
 > **Cookie & SESSION & TOKEN**  
 ```
 1.COOKIE
-- HackCTF[Cookie] 
-- [Cookie Decode] CyberYoddhaCTF[Something Sw33t]
+- study/HackCTF[Cookie] 
+- [Cookie Decode] event/CyberYoddhaCTF[Something Sw33t]
 ```
 
 > **SSRF**  
 ```
-1.HackCTF[LoL]
+1.study/HackCTF[LoL]
 ```
 
 > **Advanced**  
 ```
 1.Source Code Exposure
-- Affinity2020[True Content]
+- event/Affinity2020[True Content]
 
 2.Race Condtion
-- weCTF2020[Faster Shop]
+- study/weCTF2020[Faster Shop]
 ```
 
 
 ### BinaryExploitation
 > **Stack Overflow** 
 ```
-1. [SOF] nactf2020 : Gretter
+1. [SOF] event/nactf2020 : Gretter
 ```
 > **ROP**  
 ```
-1. [ROP] nactf2020 : dROPit
+1. [ROP] event/nactf2020 : dROPit
 ```
 
 ### Cryptography
 > **CAESAR**  
 ```
-1. [Caesar] nactf2020 : Caesar's Challenge
+1. [Caesar] event/nactf2020 : Caesar's Challenge
 ```
 > **Vignere**  
 ```
-1. [Vignere] nactf2020 : YAMS
+1. [Vignere] event/nactf2020 : YAMS
 ```
