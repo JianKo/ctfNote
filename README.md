@@ -42,7 +42,7 @@ HackCTF[/, Hidden, 마법봉]
 
 > Cookie & SESSION & TOKEN
 ```
-1. [COOKIE]
+1. COOKIE
 - HackCTF[Cookie] 
 ```
 > SSRF
