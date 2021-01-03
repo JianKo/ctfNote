@@ -7,7 +7,7 @@
 ### Web
 > **Request (Hidden Page Exposure)**  
 ```
-1.[Get&Post] study/HackCTF[/, Hidden, 마법봉]
+1.[Get&Post] study/HackCTF[/, Hidden]
 2.[Robots] event/CyberYoddhaCTF[Disallw] 
 3.[IDOR] study/weCTF2020[NoteApp] 
 ```
@@ -15,7 +15,9 @@
 ```
 1.[php] Extract :  study/HackCTF[Guess ME]
 2.[php] strcmp bypass : study/HackCTF[Input Check]
-3.[Source] Type Casting : study/HackCTF[Time]
+3.[php] MagicHash : study/HackCTF[마법봉]
+4.[Source] Type Casting : study/HackCTF[Time]
+5.[Source] Eval : events/nactf2020[Calculator]
 ```
 
 > **File Upload**
@@ -34,7 +36,8 @@
 ```
 1.Basic SQL INJECTION
 - study/HackCTF[Login]
-- event/CyberYoddhaCTF[Data Stores]
+- events/CyberYoddhaCTF[Data Stores]
+- events/nactf2020[Login]
 ```
 
 > **WAF Bypass**  
@@ -43,17 +46,18 @@
 - study/HackCTF[Read File]
 
 2.HTML Entities
-- event/Affinity2020[soodefault]
+- events/Affinity2020[soodefault]
 
 3.Url Double Encoding
-- event/Affinity2020[path of Double-Dipping]
+- events/Affinity2020[path of Double-Dipping]
 ```
 
 > **Cookie & SESSION & TOKEN**  
 ```
 1.COOKIE
 - study/HackCTF[Cookie] 
-- [Cookie Decode] event/CyberYoddhaCTF[Something Sw33t]
+- [Cookie Decode] events/CyberYoddhaCTF[Something Sw33t]
+- [Expire] events/nactf2020[CookieRecipe]
 ```
 
 > **SSRF**  
