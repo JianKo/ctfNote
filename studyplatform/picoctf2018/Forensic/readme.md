@@ -117,7 +117,7 @@
 ---
 
 
-#### Name : Now You Don't
+#### Name : Ext Super Magic
 - Desciption
     ```
     We salvaged a ruined Ext SuperMagic II-class mech recently and pulled the filesystem out of the black box. It looks a bit corrupted, but maybe there's something interesting in there. You can also find it in /problems/ext-super-magic_2_5e1f8bfb15060228f577045924e4fca8 on the shell server.
