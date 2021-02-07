@@ -70,10 +70,61 @@
   Think
     How to "dd" extension file Analysis?
   ```
-
   -  First Ways
      - foremost
-  - Secnond ways
+  - Second ways
      - testdisk
 
+---
+
+#### Name : admin panel
+- Desciption
+    ```
+    We captured some traffic logging into the admin panel, can you find the password?
+    ```
+- Walk Throught
+  - FILE URL
+    - https://2018shell.picoctf.com/static/ccad03a151a0edac8bd01e665a595b7a/hex_editor.jpg
+  - Solve Ways
+    - strings data.pcap |grep -oE picoCTF{.*} --color=none
+
+---
+
+#### Name : TrulyAnArtist
+- Desciption
+    ```
+    Can you help us find the flag in this Meta-Material? You can also find the file in /problems/truly-an-artist_3_066d6319e350c1d579e5cf32e326ba02.
+    ```
+- Walk Throught
+  - FILE URL
+    - https://2018shell.picoctf.com/static/69b2020b48082fb24714bf93707183e8/2018.png
+  - Solve Ways
+    - exiftool {FILE_NAME}
+
+---
+
+#### Name : Now You Don't
+- Desciption
+    ```
+    We heard that there is something hidden in this picture. Can you find it?
+    ```
+- Walk Throught
+  - FILE URL
+    - https://2018shell.picoctf.com/static/a120d4af95c06068d5f5a08ec14a572d/nowYouDont.png
+  - Solve Ways
+    - stegsolver.jar {FILE}
+
+---
+
+
+#### Name : Now You Don't
+- Desciption
+    ```
+    We salvaged a ruined Ext SuperMagic II-class mech recently and pulled the filesystem out of the black box. It looks a bit corrupted, but maybe there's something interesting in there. You can also find it in /problems/ext-super-magic_2_5e1f8bfb15060228f577045924e4fca8 on the shell server.
+    ```
+- Walk Throught
+  - 1.ext2/3/4 Byte Recover
+  - 2.hex editor -> 1080 -> \x53\xef
+  - 3.debugfs -> ls -> flag.jpg
+  - picoCTF{ab0CD63BC762514ea2f4fc9eDEC8cb1E}
 ---
